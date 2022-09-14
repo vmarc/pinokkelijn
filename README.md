@@ -1,0 +1,1 @@
+This repository contains the code to generate [pinokkelijn.be](https://pinokkelijn.be). This is a static website, except for the SpringBoot based server that processes visitor reactions and reservations.
