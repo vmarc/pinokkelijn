@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+      <name>Oude Pastorij Essen</name>
+      <open>0</open>
+      <Placemark>
+        <name>Oude Pastorij, Essen</name>
+        <Point>
+          <coordinates>4.47321,51.466474</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ruime parkeerplaats</name>
+        <description>Er is ruime parkeergelegenheid achter het gemeentehuis</description>
+        <Point>
+          <coordinates>4.47298,51.464101</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

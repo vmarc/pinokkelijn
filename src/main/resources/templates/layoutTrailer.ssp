@@ -1,0 +1,18 @@
+
+      </div>
+    </div>
+      
+    <div id="content-right">
+    </div>
+  </div>
+  <div id="push"></div>
+</div>
+
+<div id="footer">
+  <div id="footer-box">
+    <div id="footer-content">
+      <% render("_footer.ssp") %> 
+    </div>
+  </div>
+</div>
+	

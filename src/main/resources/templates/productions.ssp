@@ -1,0 +1,38 @@
+<%@ val productions: Seq[web.domain.Production] %>
+<%@ val page: web.view.Page %>
+
+<%
+  page.name = "productions"
+  page.title = "Producties"
+  page.keyWords = "producties"
+  page.description = "Lijst van voorbije producties, informatie en fotos van de voorstellingen."
+%>
+
+<h1>Producties</h1>
+
+<p class="subtitleHelp">
+  Klik op de titel voor meer details over de productie.
+</p>
+
+<div class="productions">
+  <ul>
+    <% var index = productions.size + 1 %>
+    #for (production <- productions)
+      <% index = index - 1 %>
+      <li>
+        <div class="production-name">
+          <span class="production-index">(${index})</span>
+          <a href="producties/${production.id}/index.html">
+            ${production.longTitle}
+          </a>
+        </div>
+
+        #if (production.shortDescription.nonEmpty)
+          <div class="production-description">
+            ${production.shortDescription}
+          </div>
+        #end
+      </li>
+    #end
+  </ul>
+</div>

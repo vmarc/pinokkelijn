@@ -1,0 +1,51 @@
+<%@ val production: web.domain.Production %>
+<%@ val previousProduction: Option[web.domain.Production] %>
+<%@ val nextProduction: Option[web.domain.Production] %>
+<%@ val photos: Seq[web.domain.Photo] %>
+<%@ val page: web.view.Page %>
+<%@ val images: web.view.Images %>
+
+<%
+  page.name = "none"
+  page.title = production.title + " fotos"
+  page.keyWords = production.longTitle
+  page.description = "Pinokkelijn productie fotos: %s".format(production.longTitle)
+%>
+
+<h1>${production.longTitle} (fotos)</h1>
+
+<ul class="top-menu">
+	<li>
+		#if (previousProduction.isDefined)
+			<a href="../${previousProduction.get.id}/photos.html" title="Ga naar de vorige productie: ${previousProduction.get.title}">Vorige</a>
+		#else
+			Vorige
+		#end
+	</li>
+	<li>
+		#if (nextProduction.isDefined)
+			<a href="../${nextProduction.get.id}/photos.html" title="Ga naar de volgende productie: ${nextProduction.get.title}">Volgende</a>
+		#else
+			Volgende
+		#end
+	</li>
+	<li>
+		<a href="index.html" title="Toon productie informatie">Info</a>
+	</li>
+</ul>
+
+<div class="highslide-gallery">
+	<ul>
+		#foreach (photo <- photos)
+			<li>
+				<a class="highslide" href="fotos-groot/${photo.id}.jpg" title="${photo.productionTitleText}" onclick="return hs.expand(this, config1 )">
+					${unescape(images.smallProductionPhoto(photo))}
+				</a>
+				<div class='highslide-caption'>
+					${unescape(photo.productionCaptionText)}
+				</div>
+			</li>
+		#end
+	</ul>
+	<div style="clear:both"></div>
+</div>

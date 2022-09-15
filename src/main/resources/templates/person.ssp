@@ -1,0 +1,90 @@
+<%@ val info: web.view.PersonInfo %>
+<%@ val page: web.view.Page %>
+<%@ val images: web.view.Images %>
+
+<%
+  page.name = "none"
+  page.title = info.person.name
+  page.keyWords = info.person.name
+  page.description = "%s - Pinokkelijn - %s".format(info.person.name, info.longStatistics)
+%>
+
+<h1>${info.person.name}</h1>
+
+<ul class="top-menu">
+  <li>
+    #if (info.previous.isDefined)
+      <a href="${info.previous.get.key}.html" title="Ga naar vorige medewerker: ${info.previous.get.name}">Vorige</a>
+    #else
+      Vorige
+    #end
+  </li>
+  <li>
+    #if (info.next.isDefined)
+      <a href="${info.next.get.key}.html" title="Ga naar volgende medewerker: ${info.next.get.name}">Volgende</a>
+    #else
+      Volgende
+    #end
+  </li>
+</ul>
+
+
+#if (images.hasPerson(info.person))
+  <div class="person-photo">
+    ${unescape(images.person(info.person))}
+  </div>
+#end
+
+#if (info.statistics.nonEmpty)
+  <p>
+    ${info.statistics}
+  </p>
+#end
+
+<div class="highslide-gallery">
+
+  #foreach(detail <- info.details)
+    <%
+      var production = detail.production
+    %>
+
+    <div class="image-group">
+
+      <div class="image-group-title">
+        <a href="../producties/${detail.production.id}/index.html" title="Informatie over de productie: ${detail.production.title}">
+          ${detail.production.longTitle}
+        </a>
+        <span class="contributions">${detail.contributionsString}</span>
+        <p class="production-description">
+          ${production.shortDescription}
+        </p>
+      </div>
+
+      #if (detail.photos.nonEmpty)
+        <div class="person-detail-photo-block">
+          <ul>
+            #foreach(photo <- detail.photos)
+              <li>
+                <a href="../producties/${production.id}/fotos-groot/${photo.id}.jpg"
+                class="highslide"
+                title="${production.longTitle} ${detail.contributionsString} ${photo.personTitleText}"
+                onclick="return hs.expand(this, config1 )">
+                  ${unescape(images.smallPersonPhoto(photo))}
+                </a>
+
+                <div class='highslide-caption'>
+                  <p>
+                    ${production.longTitle} &nbsp;&nbsp; ${detail.contributionsString}
+                  </p>
+                  <p>
+                    ${unescape(photo.personCaptionText)}
+                  </p>
+                </div>
+              </li>
+            #end
+          </ul>
+        </div>
+      #end
+    </div>
+  #end
+</div>

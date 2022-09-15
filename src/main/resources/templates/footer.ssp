@@ -1,0 +1,12 @@
+<%@ val root: String %>
+
+<div>
+  <a href="${root}/index.html" title="Ga naar de begin pagina">Home</a>
+  <a href="${root}/personen-lijst.html" title="Overzicht met spelers en medewerkers door de jaren heen">Wie?</a>
+  <a href="${root}/producties.html" title="Overzicht van alle Pinokkelijn producties, met details en fotos">Producties</a>
+  <span>&copy; 2001 - 2022 Toneel Pinokkelijn</span>
+</div>
+
+<div>
+  E-mail: <a href="mailto:info@pinokkelijn.be" title="Schrijf eens een brief...">info@pinokkelijn.be</a>
+</div>

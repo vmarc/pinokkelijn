@@ -1,0 +1,588 @@
+/** reset **/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*********************************************/
+
+/* page layout: */
+
+html, body {
+  height: 100%;
+	font-size: 95%;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight:bold; color: red;
+	line-height: 1.2em;
+	margin: 2em 0 0 0;
+}
+
+h1.first-content, h2.first-content, h3.first-content {
+	margin-top: 0; 
+	padding-top: 0; 
+	border: none;
+} 
+
+h1 { 
+	font-size: 136%; 
+}
+
+p {
+	line-height: 1.5em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+li {
+	line-height: 1.5em;
+}
+
+ul {
+	margin-left: 1em;
+}
+
+p.bold {
+	font-weight: bold;
+}
+
+p.italic {
+	font-style: italic;
+}
+
+p.centered {
+	text-align: center;
+}
+
+p.centered-italic {
+	text-align: center;
+	font-style: italic;
+}
+
+img.centered {
+	display: block;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	margin-top: 2em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img.right {
+	display: block;
+	float: right;
+	margin-top: 0em;
+	margin-left: 2em;
+	margin-bottom: 2em;
+}
+
+img.left {
+	display: block;
+	float: left;
+	margin-top: 0em;
+	margin-right: 2em;
+	margin-bottom: 2em;
+}
+
+i {
+	font-style: italic;
+}
+
+b {
+	font-weight: bold;
+}
+
+a:link {text-decoration: underline; color: blue}
+a:visited {text-decoration: underline; color: blue}
+a:hover {text-decoration:underline;	color: red}
+
+a.external {
+	background: url(images/external.png) center right no-repeat;
+	padding-right: 13px;
+}
+
+#container {
+   min-height: 100%;
+   height: auto !important;
+   height: 100%;
+   margin: 0 auto -3em;
+}
+
+#push 
+{
+  height: 3em;
+  clear: both;
+} 
+
+#top {
+  padding: .5em;
+  background-color: #f1f1f1;
+  border-bottom: 1px solid lightgray;
+}
+
+#content {
+	margin: auto;
+	margin-left: 5%;
+	margin-right: 10%;
+  padding: 1em;
+  max-width: 65em;
+  min-width: 35em;
+  text-align: left;
+}
+
+#footer {
+  height: 3em;
+  clear: both;
+  background-color: #f1f1f1;
+}
+
+#footer-box {
+  border-top: 1px solid lightgray;
+}
+
+#footer-content {
+	padding: 0.5em;
+	font-size: 85%;
+  text-align: center;
+}
+
+
+.image-group {
+	clear: both;
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.image-group-title {
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
+
+.person-photo {
+  padding: 2em;
+}
+
+.person-detail-photo-block {
+  padding-left: 3em;
+}
+
+.marijke-box {
+	margin-left: 2em;
+	margin-bottom: 0.5em;
+	width: 25em;
+	float: right;
+  border: solid 1px #a0a0a0;
+  padding: 1em;
+	color: #606060;
+}
+
+/*** New **************************************/
+
+.top-menu li {
+	display: inline-block;
+  border-left: solid 1px #a0a0a0;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+.top-menu li:first-child {
+  border-left: 0;
+}
+
+.top-menu .comment {
+  color: gray;
+}
+
+#content .top-menu li {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+/*********************************************/
+
+
+
+/** persons page **/
+
+.persons {
+}
+
+.persons .group {
+	clear: both;
+	float: left;
+	margin-top: 1em;
+}
+
+.persons .letter {
+	float: left;
+	width: 2em;
+	color: red;
+	font-size: 120%;
+}
+
+.persons .block {
+	float: left;
+	width: 30em;
+}
+
+.persons .person {
+	float: left;
+	margin-bottom: 0.5em;
+	width: 29em;
+}
+
+.persons .number {
+	float: left;
+	width: 2.5em;
+}
+
+.persons .name {
+	float: left;
+}
+
+.persons .statistics {
+	margin-left: 1em;
+	float: left;
+	color: gray;
+}
+
+/*********************************************/
+
+p.subtitle {
+	color: red;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+	margin-left: 3em;
+}
+
+
+/** production page **/
+
+.production-poster {
+	float: right;
+	margin-left: 2em;
+	margin-bottom: 2em;
+}
+
+.production-description {
+}
+
+.production-description ul {
+	margin-left: 3em;
+	list-style-type: circle;
+}
+
+.article ul {
+	margin-left: 3em;
+	list-style-type: circle;
+}
+
+.production-performances {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 3em;
+}
+
+.production-performances p {
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+
+.production-location {
+	margin-left: 3em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.roles {
+	clear: both;
+}
+
+.roles:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+.roles-title {
+	text-align: center;
+	font-weight: bold;
+	margin-left: 1em;
+	margin-top: 3em;
+	margin-bottom: 1em;
+}
+
+.role-left {
+	width: 50%;
+	float: left;
+	text-align: right;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+}
+
+.role-right {
+	float: left;
+	margin-left: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+}
+
+.roles p {
+	line-height: 1.2em;
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+
+.fragment p {
+	clear: both;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+
+.fragment span.actor {
+	float: left;
+	width: 7em;
+}
+
+.fragment span.text {
+	float: left;
+  max-width: 33em;
+  min-width: 23em;
+}
+
+/** productions page **/
+
+.production-name {
+	margin-top: 1em;
+	margin-bottom: 0em;
+}
+
+.production-description {
+	margin-top: 0.2em;
+	margin-left: 5em;
+}
+
+.production-index {
+	float: left;
+	width: 3em;
+}
+
+/** person page **/
+
+.image-group .production-description {
+	margin-top: 0.4em;
+	margin-left: 2em;
+}
+
+.contributions {
+	margin-left: 1.5em; 
+	color: gray;
+}
+
+/** home page **/
+
+.berthe {
+	width: 25em;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 120%;
+}
+
+.berthe-right {
+	text-align: right;
+}
+
+.berthe-bold {
+	color: #e32400;
+}
+
+.home h1 {
+	border-top: 2px solid lightgray;
+	margin-top: 1em;
+	padding-top: 1em;
+}
+
+/** reservation page **/
+
+.reservation-label {
+	float: left;
+	width: 12em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	line-height: 1.5em
+}
+
+.reservation-value {
+	float: left;
+	width: 30em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	line-height: 1.5em
+}
+
+/** reaction page **/
+
+.reaction-comment {
+	margin-left: 3em;
+	color: gray;
+	line-height: 1.2em;
+}
+
+.reaction-indent {
+	margin-left: 3em;
+}
+
+/** links pages **/
+
+
+.links-title-comment {
+	color: gray;
+  padding-left: 0.5em;
+	font-weight: normal;
+}
+
+.links-header-menu ul {
+}
+
+.links-header-menu li {
+	display: inline-block;
+/*  border-left: solid 1px #a0a0a0; */
+/*  padding-left: 0.5em; */
+/*  padding-right: 0.5em; */
+}
+
+.links-header-menu-item {
+  padding-left: 0em;
+  padding-right: 0.5em;
+  margin-left: 0em;
+  margin-right: 0em;
+
+}
+
+a.links-header-menu-item-disabled:link, a.links-header-menu-item-disabled:visited, a.links-header-menu-item-disabled:hover {
+  padding-left: 0em;
+  padding-right: 0.5em;
+  margin-left: 0em;
+  margin-right: 0em;
+
+	text-decoration: none;	
+	color: black;
+}
+
+.links-header-menu-count {
+	color: gray;
+  padding-left: 0em;
+  padding-right: 0.5em;
+  margin-left: 0em;
+  margin-right: 0em;
+}
+
+.links-letter-link-gap {
+	margin-top: 1.5em;
+}
+
+.links-letter-link li {
+
+}
+
+.links-letter .number {
+	float: left;
+	width: 2.5em;
+}
+
+a.link-letter {
+	width: 1em;
+  padding-right: 0.5em;
+}
+
+a.link-letter-disabled:link, a.link-letter-disabled:visited, a.link-letter-disabled:hover {
+	width: 1em;
+  padding-right: 0.5em;
+	text-decoration: none;	
+	color: black;
+}
+
+
+
+
+.links-letter-location {
+	color: gray;
+/*  padding-left: 1em; */
+}
+
+.link-location {
+	color: gray;
+/*  padding-left: 1em; */
+}
+
+.faces {
+	padding-top: 2em;
+	padding-bottom: 4em;
+}
+
+.faces li {
+	float: left;
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid #cccccc;
+	width: 85px;
+	height: 125px;
+}
+
+.faces img {
+	display: block;
+	margin: auto;
+}
+
+

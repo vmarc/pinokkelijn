@@ -1,0 +1,43 @@
+<%@ val root: String %>
+<%@ val page: web.view.Page %>
+<%@ val content: String %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="nl" xml:lang="nl">
+  <head>
+    <title>${page.title} - Pinokkelijn</title>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <meta name="keywords" content="${page.keyWords} pinokkelijn pinokelijn toneel essen theater theatre amateurtheater "/>
+    <meta name="description" content="${page.description}"/>
+
+    <link rel="stylesheet" type="text/css" href="${root}/styles.css"/>
+    
+    <script type="text/javascript" src="${root}/highslide/highslide-with-gallery.js"></script>
+    <script type="text/javascript" src="${root}/highslide/highslide.config.js" charset="utf-8"></script>
+    <link rel="stylesheet" type="text/css" href="${root}/highslide/highslide.css" />
+    
+    <script type="text/javascript" charset="utf-8">
+      hs.graphicsDir = '${root}/highslide/graphics/';
+    </script>    
+    
+  </head>
+  <body>
+    <div id="container">
+      <div id="top">
+        <% render("header.ssp") %> 
+      </div>
+      <div id="content">
+        ${content}
+      </div>
+      <div id="push"></div>
+    </div>
+    <div id="footer">
+      <div id="footer-box">
+        <div id="footer-content">
+          <% render("footer.ssp") %> 
+        </div>
+      </div>
+    </div>
+  </body>
+</html> 
+ 

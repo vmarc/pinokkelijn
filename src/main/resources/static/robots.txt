@@ -1,0 +1,7 @@
+user-agent: *
+disallow: /lean
+disallow: /full
+disallow: /images/productions
+disallow: /images/persons
+disallow: /highslide
+sitemap: http://www.pinokkelijn.be/sitemap.xml

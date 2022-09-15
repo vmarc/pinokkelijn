@@ -1,0 +1,141 @@
+<%@ val production: web.domain.Production %>
+<%@ val previousProduction: Option[web.domain.Production] %>
+<%@ val nextProduction: Option[web.domain.Production] %>
+<%@ val photos: Seq[web.domain.Photo] %>
+<%@ val page: web.view.Page %>
+<%@ val images: web.view.Images %>
+
+<%
+  page.name = "none"
+  page.title = production.title
+  page.keyWords = production.longTitle
+  page.description = "Pinokkelijn theater productie: %s".format(production.longTitle)
+%>
+
+<h1>${production.longTitle}</h1>
+
+<ul class="top-menu">
+	<li>
+		#if (previousProduction.isDefined)
+			<a href="../${previousProduction.get.id}/index.html" title="Ga naar de vorige productie: ${previousProduction.get.title}">Vorige</a>
+		#else
+			Vorige
+		#end
+	</li>
+	<li>
+		#if (nextProduction.isDefined)
+			<a href="../${nextProduction.get.id}/index.html" title="Ga naar de volgende productie: ${nextProduction.get.title}">Volgende</a>
+		#else
+			Volgende
+		#end
+	</li>
+	#if (photos.nonEmpty)
+		<li>
+			<a href="photos.html" title="Toon productie fotos">Fotos</a> <span class="comment">(${photos.size})</span>
+		</li>
+	#end
+</ul>
+
+#if (production.shortDescription.nonEmpty)
+	<p class="subtitle">
+		${production.shortDescription}
+	</p>
+#end
+
+#if (images.hasPoster(production))
+	<div class="production-poster">
+		<a href="${production.id}-poster.jpg" class="highslide" onclick="return hs.expand(this)">
+			${unescape(images.largePoster(production))}
+		</a>
+	</div>
+#end
+
+#if (production.description.nonEmpty)
+	<div class="production-description">
+		${unescape(production.description)}
+	</div>
+#end
+
+
+<%--
+	Personages en Medewerkers
+--%>
+
+#if(production.actors.nonEmpty|| production.tasks.nonEmpty)
+
+	#if(production.actors.nonEmpty)
+		<div class="roles">
+			<div class="roles-title">Personages</div>
+			#foreach(actor <- production.actors)
+				<div class="role-left">
+					<p>
+						#if (actor.person.key.nonEmpty)
+							<a
+								href="../../personen/${actor.person.key}.html"
+								title="Ga naar pagina van: ${actor.person.name}"
+							>
+								${actor.person.name}
+							</a>
+						#else
+							${actor.person.name}
+						#end
+					</p>
+				</div>
+				<div class="role-right">
+					<p>${actor.longRole}@nbsp;</p>
+				</div>
+			#end
+		</div>
+	#end
+
+	#if(production.tasks.nonEmpty)
+		<div class="roles">
+			<div class="roles-title">Medewerkers</div>
+			#foreach(task <- production.tasks)
+				<div class="role-left">
+					<p>${task.description}</p>
+				</div>
+				<div class="role-right">
+					#foreach(person <- task.persons)
+						<p>
+							#if (person.key.nonEmpty)
+								<a
+									href="../../personen/${person.key}.html"
+									title="Ga naar pagina van: ${person.name}"
+								>
+									${person.name}
+								</a>
+							#else
+								${person.name}
+							#end
+						</p>
+					#end
+				</div>
+			#end
+		</div>
+	#end
+#end
+
+
+#if (production.performances.nonEmpty)
+	<h2>Voorstellingen</h2>
+	<div class="production-performances">
+		#foreach(performance <- production.performances)
+			<p>${unescape(performance.description)}</p>
+		#end
+	</div>
+	#if (production.location.nonEmpty)
+		<div class="production-location">
+			<p>${unescape(production.location)}</p>
+		</div>
+	#end
+#end
+
+#foreach(article <- production.articles)
+	<div class="article">
+		${unescape(article)}
+	</div>
+#end
+<br/>
+<br/>
+<br/>

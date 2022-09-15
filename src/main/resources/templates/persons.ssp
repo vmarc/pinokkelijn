@@ -1,0 +1,46 @@
+<%@ val letterPersonsCollection: Seq[web.domain.LetterPersons] %>
+<%@ val page: web.view.Page %>
+
+<%
+  page.name = "persons"
+  page.title = "Medewerkers"
+  page.keyWords = "medewerkers"
+  page.description = "Lijst met Pinokkelijn medewerkers doorheen de jaren, met fotos en overzicht van producties."
+%>
+
+<h1>Spelers en medewerkers</h1>
+<p class="subtitleHelp">
+	Hier is een alfabetisch overzicht van spelers en medewerkers die ooit actief waren bij Pinokkelijn.
+</p>
+
+<div class="persons">
+	<% var index = 0 %>
+	#foreach (letterPersons <- letterPersonsCollection)
+		<div class="group">
+			<div class="letter">
+				${letterPersons.letter}
+			</div>
+			<div class="block">
+				#foreach (person <- letterPersons.persons)
+					<div class="person">
+						<span class="number">
+							<% index = index + 1 %>
+							${index}
+						</span>
+						<span class="name">
+							<a
+								href="personen/${person.key}.html"
+								title="Ga naar het overzicht van de producties van ${person.name}">
+								${person.fullName}
+							</a>
+						</span>
+						<span class="statistics">
+							<%-- TODO should change so no need to select webDetails here... --%>
+							(${web.view.PersonInfo(person, None, None, person.webDetails).longStatistics})
+						</span>
+					</div>
+				#end
+			</div>
+		</div>
+	#end
+</div>
