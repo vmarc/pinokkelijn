@@ -1,12 +1,12 @@
 package web.view
 
-import web.Config
 import web.domain.ImageDimension
 import web.domain.Person
 import web.domain.Photo
 import web.domain.Production
+import web.tools.SiteBuilderOptions
 
-class Images(config: Config, imageDimensions: Map[String, ImageDimension]) {
+class Images(config: SiteBuilderOptions, imageDimensions: Map[String, ImageDimension]) {
 
   def apply(photo: Photo): String = {
     val src = config.photoFile(photo)

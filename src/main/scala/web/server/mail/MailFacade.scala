@@ -2,11 +2,11 @@ package web.server.mail
 
 import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Component
-import web.Config
 import web.domain.ImageDimension
 import web.server.engine.PageGenerator
 import web.server.mail.domain.Reaction
 import web.server.mail.domain.Reservation
+import web.tools.SiteBuilderOptions
 import web.view.Images
 
 @Component
@@ -20,7 +20,7 @@ class MailFacade(
 
   def reservationNok(reservation: Reservation): String = {
     val images: Images = new Images(
-      Config(),
+      SiteBuilderOptions(),
       Seq(
         "images/pinokkelijn4.jpg" -> ImageDimension("302", "50")
       ).toMap
@@ -42,7 +42,6 @@ class MailFacade(
   def reservation(reservation: Reservation): String = {
     log.info(s"reservation: $reservation")
     reservationMailSender.send(reservation)
-    val confirmation = ReservationConfirmation(reservation)
     if ("revue".equals(reservation.codewoord.toLowerCase())) {
       reservationOk(reservation)
     }
@@ -53,7 +52,7 @@ class MailFacade(
 
   def reactionOk(reaction: Reaction): String = {
     val images: Images = new Images(
-      Config(),
+      SiteBuilderOptions(),
       Seq(
         "images/pinokkelijn4.jpg" -> ImageDimension("302", "50")
       ).toMap
@@ -68,7 +67,7 @@ class MailFacade(
 
   def reservationOk(reservation: Reservation): String = {
     val images: Images = new Images(
-      Config(),
+      SiteBuilderOptions(),
       Seq(
         "images/pinokkelijn4.jpg" -> ImageDimension("302", "50")
       ).toMap

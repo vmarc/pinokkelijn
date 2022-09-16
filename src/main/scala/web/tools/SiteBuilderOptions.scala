@@ -1,10 +1,11 @@
-package web
+package web.tools
 
 import web.domain.Person
 import web.domain.Photo
 import web.domain.Production
 
-case class Config(
+case class SiteBuilderOptions(
+  xmlDir: String = "/home/marcv/wrk/projects3/web/wrk/xml",
   sourceDir: String = "/home/marcv/svn/projects/web",
   stagingDir: String = "/home/marcv/wrk/web/staging",
   target: String = "web",
