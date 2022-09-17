@@ -1,9 +1,7 @@
 package web.tools
 
-import org.apache.commons.io.FileUtils
+import web.common.Util.mkdir
 import web.domain.Site
-
-import java.io.File
 
 class DirectoryBuilder(site: Site, config: SiteBuilderOptions) {
 
@@ -23,9 +21,5 @@ class DirectoryBuilder(site: Site, config: SiteBuilderOptions) {
     }
 
     mkdir(config.rootDir + "images")
-  }
-
-  private def mkdir(dirname: String): Unit = {
-    FileUtils.forceMkdir(new File(dirname))
   }
 }

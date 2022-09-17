@@ -1,11 +1,11 @@
 package web.tools
 
+import web.common.Util.exists
 import web.domain.Person
 import web.domain.Photo
 import web.domain.Production
 import web.domain.Site
 
-import java.io.File
 import java.io.InputStream
 import java.io.StringWriter
 
@@ -107,9 +107,5 @@ class ImageBuilder(site: Site, config: SiteBuilderOptions) {
       sw.write(s.read())
     }
     sw.toString
-  }
-
-  private def exists(filename: String): Boolean = {
-    new File(filename).exists()
   }
 }

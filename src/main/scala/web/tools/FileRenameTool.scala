@@ -1,9 +1,9 @@
 package web.tools
 
-import org.apache.commons.io.FileUtils
+import web.common.Util.copyFile
+import web.common.Util.listFiles
 
 import java.io.File
-import scala.jdk.CollectionConverters._
 
 object FileRenameTool {
 
@@ -16,13 +16,13 @@ object FileRenameTool {
 
 class FileRenameTool(sourceDirectory: String, destinationDirectory: String) {
   def rename(): Unit = {
-    val images = FileUtils.listFiles(new File(sourceDirectory), Array("jpg"), false).asScala
+    val images = listFiles(sourceDirectory, Seq("jpg"))
     println(images.size)
     images.foreach { image =>
       val newName = image.getName.replaceAll("M&T", "")
       val destination = new File(destinationDirectory, newName)
       println(s"${image.getAbsolutePath} -> ${destination.getAbsolutePath}")
-      FileUtils.copyFile(image, destination)
+      copyFile(image, destination)
     }
   }
 }

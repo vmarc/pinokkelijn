@@ -3,7 +3,7 @@ package web.server.mail
 import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Component
 import web.domain.ImageDimension
-import web.server.engine.PageGenerator
+import web.server.engine.PageBuilder
 import web.server.mail.domain.Reaction
 import web.server.mail.domain.Reservation
 import web.tools.SiteBuilderOptions
@@ -13,7 +13,7 @@ import web.view.Images
 class MailFacade(
   reactionMailSender: ReactionMailSender,
   reservationMailSender: ReservationMailSender,
-  pageGenerator: PageGenerator
+  pageGenerator: PageBuilder
 ) {
 
   private val log = LoggerFactory.getLogger(classOf[MailController])

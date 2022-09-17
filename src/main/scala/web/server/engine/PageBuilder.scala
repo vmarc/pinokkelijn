@@ -10,7 +10,7 @@ import java.io.PrintWriter
 import java.io.StringWriter
 
 @Component
-class PageGenerator(htmlPrettyPrinter: HtmlPrettyPrinter) {
+class PageBuilder(htmlPrettyPrinter: HtmlPrettyPrinter) {
 
   def generate(context: Map[String, Any], templateName: String): String = {
 

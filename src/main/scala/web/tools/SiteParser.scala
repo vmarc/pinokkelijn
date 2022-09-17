@@ -129,7 +129,7 @@ class SiteParser(xmldir: String) {
 
   private def productionFiles: List[File] = {
     val dir = new File(s"$xmldir/productions")
-    dir.listFiles().filterNot(_.getName.endsWith(".svn")).toList.map(_.getAbsolutePath).sorted.map(new File(_))
+    dir.listFiles().toList.map(_.getAbsolutePath).sorted.map(new File(_))
   }
 
   private def loadPersonsByName(): Map[String, Person] = {

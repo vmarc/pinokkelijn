@@ -1,6 +1,6 @@
 package web.tools
 
-import org.apache.commons.io.FileUtils
+import web.common.Util.listFiles
 import web.domain.ImageDimension
 import web.view.Images
 
@@ -8,7 +8,6 @@ import java.io.File
 import java.io.FileWriter
 import java.io.PrintWriter
 import javax.imageio.ImageIO
-import scala.jdk.CollectionConverters._
 import scala.xml.XML
 
 /**
@@ -77,7 +76,7 @@ class ImageParser(config: SiteBuilderOptions) {
 
   private def imageFiles: Seq[String] = {
     val root = config.rootDir
-    val files = FileUtils.listFiles(new File(root), Array("gif", "png", "jpg"), true).asScala.toSeq
+    val files = listFiles(root, Seq("gif", "png", "jpg"), recursive = true)
     files.map(file => file.getAbsolutePath).filterNot(_.contains("highslide")).map { filename =>
       filename.substring(root.length)
     }

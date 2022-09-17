@@ -1,6 +1,6 @@
 package web.tools
 
-import org.apache.commons.io.FileUtils
+import web.common.Util.copyFile
 import web.domain.Site
 
 import java.io.File
@@ -78,7 +78,7 @@ class ImageCopy(site: Site, config: SiteBuilderOptions) {
   private def cp(copy: CopiedImage): Unit = {
     val path = new File(copy.source)
     val dest = new File(copy.destination)
-    FileUtils.copyFile(path, dest)
+    copyFile(path, dest)
   }
 
   private def imageFiles(dir: File): Seq[File] = {

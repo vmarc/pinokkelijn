@@ -1,12 +1,13 @@
 package web.tools
 
-import org.apache.commons.io.FileUtils
+import web.common.Util.copyFile
+import web.common.Util.stringToFile
 import web.domain.Person
 import web.domain.PersonDetail
 import web.domain.Photo
 import web.domain.Production
 import web.domain.Site
-import web.server.engine.PageGenerator
+import web.server.engine.PageBuilder
 import web.server.mail.HtmlPrettyPrinter
 import web.server.sitemap.SiteMapBuilder
 import web.server.sitemap.SiteMapReader
@@ -18,7 +19,6 @@ import java.io.File
 import java.io.FileReader
 import java.io.FileWriter
 import java.io.PrintWriter
-import java.nio.charset.Charset
 import scala.collection.mutable.ListBuffer
 
 object SiteBuilderTool {
@@ -32,12 +32,13 @@ object SiteBuilderTool {
 
 class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
 
-  private val updatedUrls = List("index.html", "producties.html", "personen-lijst.html").map(_.r) // can include wildcards; these url's will get the current system time as lastModifiedTime
+  // can include wildcards; these url's will get the current system time as lastModifiedTime
+  private val updatedUrls = List("index.html", "producties.html", "personen-lijst.html").map(_.r)
   private val oldSiteMap: Map[String, SiteMapUrl] = readOldSiteMap()
   private val siteMapBuilder = new SiteMapBuilder(updatedUrls, oldSiteMap)
 
   val htmlPrettyPrinter = new HtmlPrettyPrinter()
-  private val pg = new PageGenerator(htmlPrettyPrinter)
+  private val pageBuilder = new PageBuilder(htmlPrettyPrinter)
   private val images = new ImageParser(options).parse()
 
   def make(): Unit = {
@@ -101,8 +102,8 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
 
   private def merge(context: Map[String, Any], templateName: String, outputFilename: String): Unit = {
     siteMapBuilder.addUrl(outputFilename.substring("/home/marcv/wrk/web/staging/web/".length)) // TODO clean up literal reference
-    val result = pg.generate(context, templateName)
-    FileUtils.writeStringToFile(new File(outputFilename), result, Charset.forName("UTF-8"))
+    val result = pageBuilder.generate(context, templateName)
+    stringToFile(result, outputFilename)
   }
 
   private def makeRootPages(): Unit = {
@@ -178,7 +179,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
     listFiles("wrk/static").foreach { filename =>
       val source = new File("wrk/static/" + filename)
       val destination = new File(options.rootDir + filename)
-      FileUtils.copyFile(source, destination)
+      copyFile(source, destination)
     }
   }
 
@@ -194,7 +195,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
   }
 
   private def listFiles(dir: String): Seq[String] = {
-    new File(dir).list().filterNot(_.endsWith(".svn")).sorted
+    new File(dir).list().sorted
   }
 
   private def generateFaceBook(): Unit = {

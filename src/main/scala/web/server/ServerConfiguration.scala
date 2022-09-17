@@ -16,7 +16,6 @@ class ServerConfiguration {
   def mailSender: JavaMailSender = {
     val javaMailSender = new JavaMailSenderImpl()
 
-
     val properties = new Properties()
     properties.load(new FileReader(new File("/kpn/conf/server-mail.properties")))
     javaMailSender.setHost(properties.getProperty("spring.mail.host"))

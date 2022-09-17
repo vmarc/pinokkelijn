@@ -14,7 +14,7 @@ class SiteMapBuilder(updatedUrls: Seq[Regex], oldSiteMap: Map[String, SiteMapUrl
 
   def build(): Seq[SiteMapUrl] = newSiteMap.toSeq
 
-  def addUrl(location: String) {
+  def addUrl(location: String): Unit = {
     val priority = location match {
       case "index.html" => "1.0"
       case x if (isPriorityUrl(x)) => "0.8"
@@ -40,10 +40,14 @@ class SiteMapBuilder(updatedUrls: Seq[Regex], oldSiteMap: Map[String, SiteMapUrl
   }
 
   // location matches one of the patterns in 'priorityUrls'
-  private def isPriorityUrl(url: String): Boolean = matching(url, priorityUrls)
+  private def isPriorityUrl(url: String): Boolean = {
+    matching(url, priorityUrls)
+  }
 
   // url matches one of the patterns in 'updatedUrls'
-  private def isUpdatedUrl(url: String): Boolean = matching(url, updatedUrls)
+  private def isUpdatedUrl(url: String): Boolean = {
+    matching(url, updatedUrls)
+  }
 
   private def matching(value: String, regexes: Seq[Regex]): Boolean = {
     regexes.exists(regex => regex.pattern.matcher(value).matches)
