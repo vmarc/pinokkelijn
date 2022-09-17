@@ -30,7 +30,7 @@ class MailFacade(
       "images" -> images,
       "reservation" -> reservation
     )
-    pageGenerator.generate(context, "templates/reservation-nok.ssp")
+    pageGenerator.build(context, "templates/reservation-nok.ssp")
   }
 
   def reaction(reaction: Reaction): String = {
@@ -62,7 +62,7 @@ class MailFacade(
       "images" -> images,
       "reaction" -> reaction
     )
-    pageGenerator.generate(context, "templates/reaction-ok.ssp")
+    pageGenerator.build(context, "templates/reaction-ok.ssp")
   }
 
   def reservationOk(reservation: Reservation): String = {
@@ -77,6 +77,6 @@ class MailFacade(
       "images" -> images,
       "reservation" -> reservation
     )
-    pageGenerator.generate(context, "templates/reservation-ok.ssp")
+    pageGenerator.build(context, "templates/reservation-ok.ssp")
   }
 }

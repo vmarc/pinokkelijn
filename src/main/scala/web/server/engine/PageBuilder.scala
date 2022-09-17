@@ -12,7 +12,7 @@ import java.io.StringWriter
 @Component
 class PageBuilder(htmlPrettyPrinter: HtmlPrettyPrinter) {
 
-  def generate(context: Map[String, Any], templateName: String): String = {
+  def build(context: Map[String, Any], templateName: String): String = {
 
     val engine = new TemplateEngine
     val parentTemplate = engine.load("templates/page.ssp")

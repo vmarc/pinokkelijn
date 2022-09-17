@@ -1,6 +1,7 @@
 package web.tools
 
 import web.common.Util.copyFile
+import web.common.Util.slide
 import web.common.Util.stringToFile
 import web.domain.Person
 import web.domain.PersonDetail
@@ -14,12 +15,12 @@ import web.server.sitemap.SiteMapReader
 import web.server.sitemap.SiteMapUrl
 import web.server.sitemap.SiteMapWriter
 import web.view.PersonInfo
+import web.view.Triplet
 
 import java.io.File
 import java.io.FileReader
 import java.io.FileWriter
 import java.io.PrintWriter
-import scala.collection.mutable.ListBuffer
 
 object SiteBuilderTool {
   def main(args: Array[String]): Unit = {
@@ -62,15 +63,14 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
 
     if (options.productions) {
       makeProductionsPages()
-      slide(site.productions) foreach { productionTriplet =>
+      slide(site.productions).foreach { productionTriplet =>
         makePage(productionTriplet)
       }
     }
 
     if (options.persons) {
       makePersonsPages()
-      slide(site.persons) foreach { personTriplet =>
-        val person = personTriplet.current
+      slide(site.persons).foreach { personTriplet =>
         makePersonPage(personTriplet)
       }
     }
@@ -97,12 +97,12 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       "images" -> images,
     )
 
-    merge(context, "index.ssp", options.rootDir + "index.html")
+    build(context, "index.ssp", options.rootDir + "index.html")
   }
 
-  private def merge(context: Map[String, Any], templateName: String, outputFilename: String): Unit = {
-    siteMapBuilder.addUrl(outputFilename.substring("/home/marcv/wrk/web/staging/web/".length)) // TODO clean up literal reference
-    val result = pageBuilder.generate(context, templateName)
+  private def build(context: Map[String, Any], templateName: String, outputFilename: String): Unit = {
+    siteMapBuilder.addUrl(outputFilename.substring(options.rootDir.length + 1))
+    val result = pageBuilder.build(context, templateName)
     stringToFile(result, outputFilename)
   }
 
@@ -114,7 +114,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
     )
     listFiles("wrk/pages").filter(_.endsWith(".ssp")) foreach { filename =>
       val output = options.rootDir + filename.replace(".ssp", "")
-      merge(context, filename, output)
+      build(context, filename, output)
     }
   }
 
@@ -124,8 +124,8 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       "images" -> images,
       "productions" -> site.productions.reverse
     )
-    merge(context, "templates/productions.ssp", options.rootDir + "producties.html")
-    merge(context, "templates/posters.ssp", options.rootDir + "posters.html")
+    build(context, "templates/productions.ssp", options.rootDir + "producties.html")
+    build(context, "templates/posters.ssp", options.rootDir + "posters.html")
   }
 
   private def makePersonsPages(): Unit = {
@@ -134,7 +134,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       "images" -> images,
       "letterPersonsCollection" -> site.letterPersonsCollection
     )
-    merge(context, "templates/persons.ssp", options.rootDir + "personen-lijst.html")
+    build(context, "templates/persons.ssp", options.rootDir + "personen-lijst.html")
   }
 
   private def makePersonPage(personTriplet: Triplet[Person]): Unit = {
@@ -148,7 +148,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       "images" -> images,
       "info" -> personInfo
     )
-    merge(context, "templates/person.ssp", options.personsDir + person.key + ".html")
+    build(context, "templates/person.ssp", options.personsDir + person.key + ".html")
   }
 
   private def makePage(productions: Triplet[Production]): Unit = {
@@ -171,8 +171,8 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       "nextProduction" -> productions.next,
       "photos" -> photos
     )
-    merge(context, "templates/production.ssp", options.dir(productions.current.id) + "index.html")
-    merge(context, "templates/productionPhotos.ssp", options.dir(productions.current.id) + "photos.html")
+    build(context, "templates/production.ssp", options.dir(productions.current.id) + "index.html")
+    build(context, "templates/productionPhotos.ssp", options.dir(productions.current.id) + "photos.html")
   }
 
   private def copyStaticContents(): Unit = {
@@ -183,23 +183,12 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
     }
   }
 
-  private def slide[A](list: Seq[A]): Seq[Triplet[A]] = {
-    val result = new ListBuffer[Triplet[A]]()
-    list.indices.foreach { index =>
-      val current = list(index)
-      val previous = if (index == 0) None else Some(list(index - 1))
-      val next = if (index < (list.size - 1)) Some(list(index + 1)) else None
-      result += new Triplet[A](previous, current, next)
-    }
-    result.toList
-  }
-
   private def listFiles(dir: String): Seq[String] = {
     new File(dir).list().sorted
   }
 
   private def generateFaceBook(): Unit = {
-    val persons = site.persons.filter(images.hasPerson).sortWith(popularity)
+    val persons = site.persons.filter(images.hasPerson).sortWith(Person.compareByPopularity)
     val personInfos = persons.map { person =>
       val details: Seq[PersonDetail] = if (options.isWeb) person.webDetails else person.details
       PersonInfo(person, None, None, details)
@@ -209,29 +198,6 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       "images" -> images,
       "personInfos" -> personInfos
     )
-    merge(context, "templates/faces.ssp", options.rootDir + "/personen-koppen.html")
-  }
-
-  private def popularity(person1: Person, person2: Person): Boolean = {
-    if (person1.details.head.production.id > person2.details.head.production.id) {
-      true
-    }
-    else if (person1.details.head.production.id < person2.details.head.production.id) {
-      false
-    }
-    else {
-
-      if (person1.details.size > person2.details.size) {
-        true
-      }
-      else if (person1.details.size < person2.details.size) {
-        false
-      }
-      else {
-        person1.fullName < person2.fullName
-      }
-    }
+    build(context, "templates/faces.ssp", options.rootDir + "/personen-koppen.html")
   }
 }
-
-case class Triplet[A](previous: Option[A], current: A, next: Option[A])

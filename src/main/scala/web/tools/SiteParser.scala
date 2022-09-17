@@ -32,7 +32,6 @@ class SiteParser(xmldir: String) {
   private def loadProductions(personsByName: Map[String, Person]): List[Production] = {
     productionFiles.map { file =>
       val node = loadFile(file)
-
       try {
         val productionId = (node \ "@id").text
         Production(
@@ -168,17 +167,7 @@ class SiteParser(xmldir: String) {
         key -> person
       }
     }
-    enriched.values.toList.sortWith(alphabetical)
-  }
-
-  private def alphabetical = {
-    (person1: Person, person2: Person) =>
-      if (person1.lastName == person2.lastName) {
-        person1.firstName < person2.firstName
-      }
-      else {
-        person1.lastName < person2.lastName
-      }
+    enriched.values.toSeq.sortWith(Person.compareByName)
   }
 
   private def personKey(lastName: String, firstName: String): String = {
