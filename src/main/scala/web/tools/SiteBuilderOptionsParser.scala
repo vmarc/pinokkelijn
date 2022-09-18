@@ -6,7 +6,7 @@ class SiteBuilderOptionsParser {
 
   def options(args: Array[String]): SiteBuilderOptions = {
 
-    val parser = new scopt.OptionParser[SiteBuilderOptions]("SiteGenerator") {
+    val parser = new scopt.OptionParser[SiteBuilderOptions]("SiteBuilder") {
       opt[String]('s', "source") action { (v, o) => o.copy(sourceDir = v) } text "source root directory"
       opt[String]('d', "destination") action { (v, o) => o.copy(stagingDir = v) } text "staging root directory"
       opt[String]('t', "target") action { (v, o) => o.copy(target = v) } text "staging target: 'cd' or 'web'"

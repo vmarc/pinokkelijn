@@ -1,6 +1,7 @@
 package web.tools
 
 import web.common.Util.copyFile
+import web.common.Util.listFiles
 import web.common.Util.slide
 import web.common.Util.stringToFile
 import web.domain.Person
@@ -26,7 +27,7 @@ object SiteBuilderTool {
   def main(args: Array[String]): Unit = {
     val options = new SiteBuilderOptionsParser().options(args)
     val site = new SiteParser(options.xmlDir).site()
-    new SiteBuilderTool(site, options).make()
+    new SiteBuilderTool(site, options).build()
     println("Ready")
   }
 }
@@ -42,7 +43,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
   private val pageBuilder = new PageBuilder(htmlPrettyPrinter)
   private val images = new ImageParser(options).parse()
 
-  def make(): Unit = {
+  def build(): Unit = {
 
     new DirectoryBuilder(site, options).build()
 
@@ -97,7 +98,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       "images" -> images,
     )
 
-    build(context, "index.ssp", options.rootDir + "index.html")
+    build(context, "templates/index.ssp", options.rootDir + "index.html")
   }
 
   private def build(context: Map[String, Any], templateName: String, outputFilename: String): Unit = {
@@ -107,14 +108,15 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
   }
 
   private def makeRootPages(): Unit = {
+    val sourceDir = options.sourceDir + "/wrk/pages"
     val context = Map[String, Any](
       "root" -> ".",
       "images" -> images,
       "site" -> site
     )
-    listFiles("wrk/pages").filter(_.endsWith(".ssp")) foreach { filename =>
+    listFiles(sourceDir).map(_.getName).filter(_.endsWith(".ssp")).foreach { filename =>
       val output = options.rootDir + filename.replace(".ssp", "")
-      build(context, filename, output)
+      build(context, "pages/" + filename, output)
     }
   }
 
@@ -176,15 +178,12 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
   }
 
   private def copyStaticContents(): Unit = {
-    listFiles("wrk/static").foreach { filename =>
-      val source = new File("wrk/static/" + filename)
+    val sourceDir = options.sourceDir + "/wrk/static/"
+    listFiles(sourceDir).map(_.getName).foreach { filename =>
+      val source = new File(sourceDir + filename)
       val destination = new File(options.rootDir + filename)
       copyFile(source, destination)
     }
-  }
-
-  private def listFiles(dir: String): Seq[String] = {
-    new File(dir).list().sorted
   }
 
   private def generateFaceBook(): Unit = {

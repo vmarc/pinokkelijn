@@ -62,13 +62,10 @@ case class SiteBuilderOptions(
 
   def posterFile(production: Production): String = s"${dir(production.id)}${production.id}-poster.jpg"
 
-  def personSourcePhoto(person: Person): String = s"wrk/images/persons/${person.key}.jpg"
+  def personSourcePhoto(person: Person): String = s"$sourceDir/wrk/images/persons/${person.key}.jpg"
 
   def smallPersonPhotoFile(person: Person): String = s"${personsDir}fotos-klein/${person.key}.jpg"
 
   def largePersonPhotoFile(person: Person): String = s"${personsDir}fotos-groot/${person.key}.jpg"
 
-  def smallPersonPhoto(person: Person): String = s"personen/fotos-klein/${person.key}.jpg".format()
-
-  def largePersonPhoto(person: Person): String = s"personen/fotos-groot/${person.key}.jpg"
 }

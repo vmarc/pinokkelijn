@@ -1,6 +1,7 @@
 package web.tools
 
 import web.common.Util.copyFile
+import web.common.Util.listFiles
 import web.domain.Site
 
 import java.io.File
@@ -22,7 +23,7 @@ case class CopiedImage(source: String, destination: String)
  * Copies images from the working to the staging
  * directories.
  */
-class ImageCopy(site: Site, config: SiteBuilderOptions) {
+class ImageCopy(site: Site, options: SiteBuilderOptions) {
 
   def build(): Unit = {
     val copies = productionPhotoCopies ++ personPhotoCopies ++ homeImageCopies ++ otherFiles
@@ -31,32 +32,34 @@ class ImageCopy(site: Site, config: SiteBuilderOptions) {
     printf("File copy: total number of files: %d, files copied (or atttempted to copy): %d\n", copies.size, filtered.size)
   }
 
-  def otherFiles: Seq[CopiedImage] = {
-    // TODO
-    //  Path.fromString("wrk/highslide").descendants().toList.map { src =>
-    //    new CopiedImage(src.path, src.path.replace("wrk/", config.rootDir))
-    //  }
-    Seq.empty
+  private def otherFiles: Seq[CopiedImage] = {
+    val sourceDir = options.sourceDir + "/wrk/"
+    listFiles(sourceDir + "highslide", recursive = true).map { sourceFile =>
+      val source = sourceFile.getAbsolutePath
+      val destination = options.rootDir + source.substring(sourceDir.length)
+      CopiedImage(source, destination)
+    }
   }
 
   private def homeImageCopies: Seq[CopiedImage] = {
-    val dirs = Seq("images" /*, "images/fons", "images/richard", "images/seppe", "images/maan", "images/festival", "images/yvonne"*/)
-    val images = dirs.map("wrk/" + _).map(new File(_)).flatMap(imageFiles)
+    val sourceDir = options.sourceDir + "/wrk/"
+    val dirs = Seq("images")
+    val images = dirs.map(sourceDir + _).map(new File(_)).flatMap(imageFiles)
     images.map { image =>
       val source = image.getAbsolutePath
-      val destination = config.rootDir + image.getAbsolutePath.substring((config.sourceDir + "/wrk/").length)
+      val destination = options.rootDir + image.getAbsolutePath.substring(sourceDir.length)
       CopiedImage(source, destination)
     }
   }
 
   private def productionPhotoCopies: Seq[CopiedImage] = {
     site.productions.flatMap { production =>
-      val dir = new File(config.productionSourceDir(production))
+      val dir = new File(options.productionSourceDir(production))
       if (dir.exists) {
         val images = imageFiles(dir)
         images.filterNot(_.getName.contains("poster")).map { file =>
           val src = file.getAbsolutePath
-          val dst = config.dir(production.id) + file.getName
+          val dst = options.dir(production.id) + file.getName
           CopiedImage(src, dst)
         }
       }
@@ -67,11 +70,17 @@ class ImageCopy(site: Site, config: SiteBuilderOptions) {
   }
 
   private def personPhotoCopies: Seq[CopiedImage] = {
-    val personsWithPhoto = site.persons.filter { person => new File(config.personSourcePhoto(person)).exists }
-    personsWithPhoto.map { person =>
-      val src = config.personSourcePhoto(person)
-      val dst = config.largePersonPhoto(person)
-      CopiedImage(src, dst)
+    val personsWithPhoto = site.persons.filter { person =>
+      new File(options.personSourcePhoto(person)).exists
+    }
+    personsWithPhoto.flatMap { person =>
+      val src = options.personSourcePhoto(person)
+      val small = options.smallPersonPhotoFile(person)
+      val large = options.largePersonPhotoFile(person)
+      Seq(
+        CopiedImage(src, small),
+        CopiedImage(src, large)
+      )
     }
   }
 

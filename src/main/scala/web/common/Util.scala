@@ -13,8 +13,9 @@ object Util {
     FileUtils.forceMkdir(new File(dirname))
   }
 
-  def listFiles(sourceDirectory: String, extensions: Seq[String], recursive: Boolean = false): Seq[File] = {
-    FileUtils.listFiles(new File(sourceDirectory), extensions.toArray, recursive).asScala.toSeq
+  def listFiles(sourceDirectory: String, extensions: Seq[String] = null, recursive: Boolean = false): Seq[File] = {
+    val extensionsArray = if (extensions == null) null else extensions.toArray
+    FileUtils.listFiles(new File(sourceDirectory), extensionsArray, recursive).asScala.toSeq
   }
 
   def copyFile(sourceFile: File, destinationFile: File): Unit = {

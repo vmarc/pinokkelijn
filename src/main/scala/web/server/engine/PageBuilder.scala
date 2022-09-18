@@ -47,10 +47,6 @@ class PageBuilder(htmlPrettyPrinter: HtmlPrettyPrinter) {
     engine.layout(parentTemplate, renderContext2)
 
     val outputString = sw2.toString
-    val prettyfied = htmlPrettyPrinter.prettyPrint(outputString)
-    if (!prettyfied.contains("-//W3C//DTD XHTML 1.0 Strict//EN")) {
-      throw new IllegalStateException(" does not contain DOCTYPE \"-//W3C//DTD XHTML 1.0 Strict//EN\" SHOULD FIX THIS")
-    }
-    prettyfied
+    htmlPrettyPrinter.prettyPrint(outputString)
   }
 }
