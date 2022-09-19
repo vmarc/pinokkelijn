@@ -178,7 +178,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
   }
 
   private def copyStaticContents(): Unit = {
-    val sourceDir = options.sourceDir + "/wrk/static/"
+    val sourceDir = "src/main/resources/static/"
     listFiles(sourceDir).map(_.getName).foreach { filename =>
       val source = new File(sourceDir + filename)
       val destination = new File(options.rootDir + filename)

@@ -1,5 +1,6 @@
 package web.tools
 
+import web.common.Util.exists
 import web.common.Util.listFiles
 import web.domain.ImageDimension
 import web.view.Images
@@ -30,7 +31,7 @@ class ImageParser(config: SiteBuilderOptions) {
   }
 
   private def loadCachedDimensions(): Seq[(String, ImageDimension)] = {
-    if (!new File(cacheFilename).exists) {
+    if (!exists(cacheFilename)) {
       Nil
     }
     else {

@@ -1,6 +1,7 @@
 package web.tools
 
 import web.common.Util.copyFile
+import web.common.Util.exists
 import web.common.Util.listFiles
 import web.domain.Site
 
@@ -27,7 +28,7 @@ class ImageCopy(site: Site, options: SiteBuilderOptions) {
 
   def build(): Unit = {
     val copies = productionPhotoCopies ++ personPhotoCopies ++ homeImageCopies ++ otherFiles
-    val filtered = copies.filterNot { copy => new File(copy.destination).exists }
+    val filtered = copies.filterNot { copy => exists(copy.destination) }
     filtered.foreach(cp)
     printf("File copy: total number of files: %d, files copied (or atttempted to copy): %d\n", copies.size, filtered.size)
   }
@@ -71,7 +72,7 @@ class ImageCopy(site: Site, options: SiteBuilderOptions) {
 
   private def personPhotoCopies: Seq[CopiedImage] = {
     val personsWithPhoto = site.persons.filter { person =>
-      new File(options.personSourcePhoto(person)).exists
+      exists(options.personSourcePhoto(person))
     }
     personsWithPhoto.flatMap { person =>
       val src = options.personSourcePhoto(person)

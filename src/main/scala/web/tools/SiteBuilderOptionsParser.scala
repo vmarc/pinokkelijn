@@ -1,6 +1,6 @@
 package web.tools
 
-import java.io.File
+import web.common.Util.exists
 
 class SiteBuilderOptionsParser {
 
@@ -28,13 +28,13 @@ class SiteBuilderOptionsParser {
           sys.exit(-1)
       }
 
-      if (!new File(options.sourceDir).exists) {
+      if (!exists(options.sourceDir)) {
         println("File in --source parameter does not exist")
         println(parser.usage)
         sys.exit(-1)
       }
 
-      if (!new File(options.stagingDir).exists) {
+      if (!exists(options.stagingDir)) {
         println("File in --destination parameter does not exist")
         println(parser.usage)
         sys.exit(-1)

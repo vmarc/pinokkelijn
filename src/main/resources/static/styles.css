@@ -150,12 +150,12 @@ a.external {
    min-height: 100%;
    height: auto !important;
    height: 100%;
-   margin: 0 auto -3em;
+   margin: 0 auto -4em;
 }
 
 #push 
 {
-  height: 3em;
+  height: 4em;
   clear: both;
 } 
 
@@ -176,7 +176,7 @@ a.external {
 }
 
 #footer {
-  height: 3em;
+  height: 4em;
   clear: both;
   background-color: #f1f1f1;
 }
@@ -186,11 +186,14 @@ a.external {
 }
 
 #footer-content {
-	padding: 0.5em;
+	padding: 0.3em;
 	font-size: 85%;
   text-align: center;
 }
 
+#footer-content > div {
+	padding: 0.3em;
+}
 
 .image-group {
 	clear: both;
