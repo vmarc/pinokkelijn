@@ -24,25 +24,6 @@ case class Photo(
 
   def personTitleText: String = productionPersonsText2
 
-  def altText: String = {
-    descriptionText + personsText
-
-    // TODO link naar persoon zelf hoeft niet
-    // TODO kan wel rol/taak toevoegen aan naam van persoon op de foto
-
-
-    /** *
-     * #if (current.photographer.nonEmpty)
-     * <tr  align='right' class='photographer'>
-     * <td align='right' width='*'>
-     * <%--                  [foto: ${current.photographer}] --%>
-     * </td>
-     * </tr>
-     * #end
-     * * */
-
-  }
-
   private def descriptionText: String = {
     if (description.isEmpty) {
       ""
@@ -64,7 +45,7 @@ case class Photo(
           person.name
         }
         else {
-          "<a href='../../personen/%s.html'>%s</a>".format(person.key, person.name)
+          s"<a href='../../personen/${person.key}.html'>${person.name}</a>"
         }
       }.mkString("&nbsp;|&nbsp;")
 
@@ -84,7 +65,7 @@ case class Photo(
           person.name
         }
         else {
-          "<a href='../../personen/%s.html'>%s</a>".format(person.key, person.name)
+          s"<a href='../../personen/${person.key}.html'>${person.name}</a>"
         }
       }.mkString("&nbsp;|&nbsp;")
 
@@ -94,12 +75,6 @@ case class Photo(
 
   private def productionPersonsText2: String = {
     persons.map(_.name).mkString(" - ", ", ", "")
-    //    if (persons isEmpty) { // TODO remove if above statement works ok
-    //      ""
-    //    }
-    //    else {
-    //      " - " + persons.map(_.name).mkString(", ")
-    //    }
   }
 
   private def personPersonsText: String = {
@@ -114,7 +89,7 @@ case class Photo(
           person.name
         }
         else {
-          "<a href='%s.html'>%s</a>".format(person.key, person.name) // <== this is what is different with previous function
+          s"<a href='${person.key}.html'>${person.name}</a>" // <== this is what is different with previous function
         }
       }.mkString("&nbsp;|&nbsp;")
 

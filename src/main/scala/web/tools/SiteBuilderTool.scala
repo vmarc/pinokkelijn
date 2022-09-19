@@ -115,7 +115,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       "site" -> site
     )
     listFiles(sourceDir).map(_.getName).filter(_.endsWith(".ssp")).foreach { filename =>
-      val output = options.rootDir + filename.replace(".ssp", "")
+      val output = options.rootDir + filename.replace(".ssp", ".html")
       build(context, "pages/" + filename, output)
     }
   }
@@ -174,7 +174,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       "photos" -> photos
     )
     build(context, "templates/production.ssp", options.dir(productions.current.id) + "index.html")
-    build(context, "templates/productionPhotos.ssp", options.dir(productions.current.id) + "photos.html")
+    build(context, "templates/production-photos.ssp", options.dir(productions.current.id) + "photos.html")
   }
 
   private def copyStaticContents(): Unit = {

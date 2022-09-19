@@ -1,8 +1,0 @@
-<div id="container">
-  <div id="top">
-	<% render("_header.ssp") %> 
-  </div>
-
-  <div id="content-box">
-    <div id="content-left">
-      <div id="content">

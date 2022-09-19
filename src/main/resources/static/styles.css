@@ -250,8 +250,6 @@ a.external {
 
 /*********************************************/
 
-
-
 /** persons page **/
 
 .persons {
@@ -435,21 +433,6 @@ p.subtitle {
 
 /** home page **/
 
-.berthe {
-	width: 25em;
-	margin-left: auto;
-	margin-right: auto;
-	font-size: 120%;
-}
-
-.berthe-right {
-	text-align: right;
-}
-
-.berthe-bold {
-	color: #e32400;
-}
-
 .home h1 {
 	border-top: 2px solid lightgray;
 	margin-top: 1em;
@@ -486,89 +469,6 @@ p.subtitle {
 	margin-left: 3em;
 }
 
-/** links pages **/
-
-
-.links-title-comment {
-	color: gray;
-  padding-left: 0.5em;
-	font-weight: normal;
-}
-
-.links-header-menu ul {
-}
-
-.links-header-menu li {
-	display: inline-block;
-/*  border-left: solid 1px #a0a0a0; */
-/*  padding-left: 0.5em; */
-/*  padding-right: 0.5em; */
-}
-
-.links-header-menu-item {
-  padding-left: 0em;
-  padding-right: 0.5em;
-  margin-left: 0em;
-  margin-right: 0em;
-
-}
-
-a.links-header-menu-item-disabled:link, a.links-header-menu-item-disabled:visited, a.links-header-menu-item-disabled:hover {
-  padding-left: 0em;
-  padding-right: 0.5em;
-  margin-left: 0em;
-  margin-right: 0em;
-
-	text-decoration: none;	
-	color: black;
-}
-
-.links-header-menu-count {
-	color: gray;
-  padding-left: 0em;
-  padding-right: 0.5em;
-  margin-left: 0em;
-  margin-right: 0em;
-}
-
-.links-letter-link-gap {
-	margin-top: 1.5em;
-}
-
-.links-letter-link li {
-
-}
-
-.links-letter .number {
-	float: left;
-	width: 2.5em;
-}
-
-a.link-letter {
-	width: 1em;
-  padding-right: 0.5em;
-}
-
-a.link-letter-disabled:link, a.link-letter-disabled:visited, a.link-letter-disabled:hover {
-	width: 1em;
-  padding-right: 0.5em;
-	text-decoration: none;	
-	color: black;
-}
-
-
-
-
-.links-letter-location {
-	color: gray;
-/*  padding-left: 1em; */
-}
-
-.link-location {
-	color: gray;
-/*  padding-left: 1em; */
-}
-
 .faces {
 	padding-top: 2em;
 	padding-bottom: 4em;
@@ -587,5 +487,3 @@ a.link-letter-disabled:link, a.link-letter-disabled:visited, a.link-letter-disab
 	display: block;
 	margin: auto;
 }
-
-
