@@ -23,7 +23,7 @@ class Images(config: SiteBuilderOptions, imageDimensions: Map[String, ImageDimen
   }
 
   def small(person: Person): String = {
-    val src = config.smallPersonPhotoFile(person)
+    val src = config.smallPersonPhotoName(person)
     val dimension = imageDimensions(src)
     val alt = person.name
     image(src, dimension, alt)
@@ -96,10 +96,12 @@ class Images(config: SiteBuilderOptions, imageDimensions: Map[String, ImageDimen
     image(src, dimension, alt)
   }
 
-  def hasPerson(person: Person): Boolean = imageDimensions.contains(config.largePersonPhotoFile(person))
+  def hasPerson(person: Person): Boolean = {
+    imageDimensions.contains(config.largePersonPhotoName(person))
+  }
 
   def person(person: Person): String = {
-    val dimension = imageDimensions(config.largePersonPhotoFile(person))
+    val dimension = imageDimensions(config.largePersonPhotoName(person))
     val alt = person.name
     val src = "fotos-groot/%s.jpg".format(person.key)
     image(src, dimension, alt)

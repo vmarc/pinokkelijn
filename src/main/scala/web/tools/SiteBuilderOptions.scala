@@ -68,4 +68,9 @@ case class SiteBuilderOptions(
 
   def largePersonPhotoFile(person: Person): String = s"${personsDir}fotos-groot/${person.key}.jpg"
 
+  def smallPersonPhotoName(person: Person): String = s"personen/fotos-klein/${person.key}.jpg"
+
+  def largePersonPhotoName(person: Person): String = s"personen/fotos-groot/${person.key}.jpg"
+
+
 }

@@ -114,10 +114,10 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       "images" -> images,
       "site" -> site
     )
-    listFiles(sourceDir).map(_.getName).filter(_.endsWith(".ssp")).foreach { filename =>
-      val output = options.rootDir + filename.replace(".ssp", ".html")
-      build(context, "pages/" + filename, output)
-    }
+    build(context, "templates/leden.ssp", options.rootDir + "leden.html")
+    build(context, "templates/intro.ssp", options.rootDir + "intro.html")
+    build(context, "templates/reaction.ssp", options.rootDir + "reaction.html")
+    build(context, "templates/reservation.ssp", options.rootDir + "reservation.html")
   }
 
   private def makeProductionsPages(): Unit = {
