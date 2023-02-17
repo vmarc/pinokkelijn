@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="2019a" jaar="2019" titel="Hap en Stap">
+
+  <korte-beschrijving>
+    Openluchttheaterfestival Hap en Stap Nispen.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+      Pinokkelijn speelde de eenakters "Theater" en "Het verwaande varkentje".
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Vrijdag 26 mei</opvoering>
+  </opvoeringen>
+
+  <plaats>Openluchttheater Nispen</plaats>
+
+  <acteurs>
+  </acteurs>
+
+  <taken>
+  </taken>
+
+  <tekst>
+  </tekst>
+
+  <fotos>
+    <!--
+      <foto id="2019a-001" web="false" fotograaf="xxx">
+        <personen>
+        </personen>
+      </foto>
+    -->
+  </fotos>
+</productie>

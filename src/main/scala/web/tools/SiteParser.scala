@@ -180,5 +180,7 @@ class SiteParser(xmldir: String) {
       .replaceAll(" de ", " De ")
       .replaceAll("-", "")
       .replaceAll(" ", "")
+      .replaceAll("ë", "e")
+      .replaceAll("ï", "i")
   }
 }

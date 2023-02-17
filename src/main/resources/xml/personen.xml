@@ -6,7 +6,7 @@
   <persoon naam="Avanture" voornaam="Eddy"/>
   <persoon naam="Baetens" voornaam="Lander"/>
   <persoon naam="Baetens" voornaam="Marc"/>
-  <persoon naam="Bergmans" voornaam="Karine"/>
+  <persoon naam="Bergmans" voornaam="Carine"/>
   <persoon naam="Berte" voornaam="Rudi"/>
   <persoon naam="Bisschops" voornaam="Gilberte"/>
   <persoon naam="Blommaert" voornaam="Rita"/>
@@ -29,10 +29,12 @@
   <persoon naam="de Herdt" voornaam="Gert"/>
   <persoon naam="De Keyser" voornaam="B@eacute;atrice"/>
   <persoon naam="De Kock" voornaam="Jarrick"/>
-  <persoon naam="de Lombaerde" voornaam="Mieke"/>
+  <persoon naam="De Lombaerde" voornaam="Mieke"/>
   <persoon naam="De Rijck" voornaam="Chris"/>
   <persoon naam="De Roover" voornaam="Adriaan"/>
   <persoon naam="De Roover" voornaam="Juul"/>
+  <persoon naam="De Rop" voornaam="Noëlla"/>
+  <persoon naam="De Rop" voornaam="Werner"/>
   <persoon naam="De Schepper" voornaam="Jan"/>
   <persoon naam="Devos" voornaam="Bas"/>
   <persoon naam="Devos" voornaam="Eli"/>
@@ -42,6 +44,7 @@
   <persoon naam="Dillen" voornaam="Andr@eacute;"/>
   <persoon naam="Dockx" voornaam="Hugo"/>
   <persoon naam="Dufraing" voornaam="Herman"/>
+  <persoon naam="Dufraing" voornaam="Valerie"/>
   <persoon naam="Dupont" voornaam="Roger"/>
   <persoon naam="Engelse" voornaam="Monique"/>
   <persoon naam="Focketyn" voornaam="Frank"/>
@@ -80,10 +83,12 @@
   <persoon naam="Koch" voornaam="Erna"/>
   <persoon naam="Lammens" voornaam="Mimi"/>
   <persoon naam="Lauwers" voornaam="Kris"/>
+  <persoon naam="Lauwers" voornaam="Marc"/>
   <persoon naam="Leenknecht" voornaam="Ria"/>
   <persoon naam="Leenknecht" voornaam="Sonja"/>
   <persoon naam="Leenknecht" voornaam="Tamara"/>
   <persoon naam="Leys" voornaam="Linda"/>
+  <persoon naam="Loos" voornaam="Hannes"/>
   <persoon naam="Maes" voornaam="Dirk"/>
   <persoon naam="Mennes" voornaam="Carla"/>
   <persoon naam="Mennes" voornaam="Koen"/>
@@ -126,6 +131,7 @@
   <persoon naam="Schoeters" voornaam="Marijke"/>
   <persoon naam="Scholiers" voornaam="Katrien"/>
   <persoon naam="Seifert" voornaam="J@ouml;rg"/>
+  <persoon naam="Simon" voornaam="Anaïs"/>
   <persoon naam="Smout" voornaam="Linda"/>
   <persoon naam="Snoeyers" voornaam="Lisette"/>
   <persoon naam="Staelen" voornaam="Yves"/>
@@ -150,7 +156,9 @@
   <persoon naam="Van Doren" voornaam="Marcel"/>
   <persoon naam="Van Eerdewegh" voornaam="Jef"/>
   <persoon naam="Van Ginderen" voornaam="Jef"/>
+  <persoon naam="Van Ginneken" voornaam="Isis"/>
   <persoon naam="Van Hecke" voornaam="Peter"/>
+  <persoon naam="Van Herwegen" voornaam="Kobe"/>
   <persoon naam="Van Hille" voornaam="Myriam"/>
   <persoon naam="Van Hoof" voornaam="Ben"/>
   <persoon naam="Van Hoydonck" voornaam="Inge"/>

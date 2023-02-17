@@ -45,7 +45,7 @@
 
     <acteur rol="Oma" naam="Leta Jamin"/>
     <acteur rol="Mams" naam="Lieve Frateur"/>
-    <acteur rol="Mrs. Barker" naam="Mieke de Lombaerde"/>
+    <acteur rol="Mrs. Barker" naam="Mieke De Lombaerde"/>
     <acteur rol="Paps" naam="Herman Dufraing"/>
     <acteur rol="Jongeman" naam="Jan van den Maagdenberg"/>
     <acteur rol="Oma" naam="Kristin Verbeeck"/>
@@ -403,7 +403,7 @@
 
     <foto id="1997-19" web="true">
       <personen>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
         <naam>Jan van den Maagdenberg</naam>
         <naam>Lieve Frateur</naam>
       </personen>
@@ -411,7 +411,7 @@
 
     <foto id="1997-20" web="true">
       <personen>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
         <naam>Lieve Frateur</naam>
         <naam>Herman Dufraing</naam>
       </personen>
@@ -428,7 +428,7 @@
       <personen>
         <naam>Jan van den Maagdenberg</naam>
         <naam>Kris Verellen</naam>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
       </personen>
     </foto>
 
@@ -459,7 +459,7 @@
 
     <foto id="1997-27" web="true">
       <personen>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
         <naam>Lieve Frateur</naam>
       </personen>
     </foto>
@@ -467,7 +467,7 @@
     <foto id="1997-28" web="true">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
       </personen>
     </foto>
   </fotos>

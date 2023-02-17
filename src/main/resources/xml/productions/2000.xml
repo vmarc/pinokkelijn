@@ -37,7 +37,7 @@
   <acteurs>
     <acteur rol="PARKER" naam="Herman Dufraing">suikerfabrikant</acteur>
     <acteur rol="JULIE" naam="Eva van den Maagdenberg">zijn dochter</acteur>
-    <acteur rol="GLENDA" naam="Mieke de Lombaerde">zijn tweede echtgenote</acteur>
+    <acteur rol="GLENDA" naam="Mieke De Lombaerde">zijn tweede echtgenote</acteur>
     <acteur rol="HUTCHINSON" naam="Luc Brosens">huisdokter</acteur>
     <acteur rol="MOLLIE" naam="Lieve Frateur">vrouw van Hutchinson</acteur>
     <acteur rol="BECKHAM" naam="Edwin Tas">student</acteur>
@@ -149,20 +149,20 @@
 
     <foto id="2000-05">
       <personen>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
         <naam>Luc Brosens</naam>
       </personen>
     </foto>
 
     <foto id="2000-06" web="true">
       <personen>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
       </personen>
     </foto>
 
     <foto id="2000-07">
       <personen>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
         <naam>Lieve Frateur</naam>
       </personen>
     </foto>
@@ -202,21 +202,21 @@
 
     <foto id="2000-13">
       <personen>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
         <naam>Herman Dufraing</naam>
       </personen>
     </foto>
 
     <foto id="2000-14" web="true">
       <personen>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
         <naam>Herman Dufraing</naam>
       </personen>
     </foto>
 
     <foto id="2000-15">
       <personen>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
         <naam>Herman Dufraing</naam>
       </personen>
     </foto>
@@ -291,7 +291,7 @@
     <foto id="2000-26" web="true">
       <personen>
         <naam>Edwin Tas</naam>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
       </personen>
     </foto>
 
@@ -325,7 +325,7 @@
     <foto id="2000-31" web="true">
       <personen>
         <naam>Edwin Tas</naam>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
       </personen>
     </foto>
 
@@ -338,13 +338,13 @@
 
     <foto id="2000-33" web="true">
       <personen>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
       </personen>
     </foto>
 
     <foto id="2000-34" web="true">
       <personen>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
       </personen>
     </foto>
 
@@ -419,7 +419,7 @@
 
     <foto id="2000-45" web="true">
       <personen>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
         <naam>Lieve Frateur</naam>
       </personen>
     </foto>
@@ -433,7 +433,7 @@
 
     <foto id="2000-47">
       <personen>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
         <naam>Eva van den Maagdenberg</naam>
         <naam>Herman Dufraing</naam>
         <naam>Lieve Frateur</naam>
@@ -443,7 +443,7 @@
 
     <foto id="2000-48">
       <personen>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
         <naam>Eva van den Maagdenberg</naam>
         <naam>Herman Dufraing</naam>
         <naam>Lieve Frateur</naam>
@@ -460,7 +460,7 @@
 
     <foto id="2000-50" web="true">
       <personen>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
         <naam>Lieve Frateur</naam>
       </personen>
     </foto>
@@ -477,7 +477,7 @@
         <naam>Lieve Frateur</naam>
         <naam>Herman Dufraing</naam>
         <naam>Eva van den Maagdenberg</naam>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
       </personen>
     </foto>
 
@@ -485,7 +485,7 @@
       <personen>
         <naam>Werner Janssens</naam>
         <naam>Herman Dufraing</naam>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
       </personen>
     </foto>
 
@@ -506,7 +506,7 @@
     <foto id="2000-56">
       <personen>
         <naam>Edwin Tas</naam>
-        <naam>Mieke de Lombaerde</naam>
+        <naam>Mieke De Lombaerde</naam>
       </personen>
     </foto>
 
