@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1985d" jaar="1985" titel="De huistiran">
+
+  <korte-beschrijving>
+    Herneming van dit blijspel in twee bedrijven door
+    Godfried Bomans in een regie van Cit Peeters.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>7 december 1985</opvoering>
+    <opvoering>8 december 1985</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <acteurs>
+    <acteur rol="MARIA" naam="Chris Hoppenbrouwers"/>
+    <acteur rol="JAN" naam="Luc Brosens"/>
+    <acteur rol="HENDRIK" naam="Fons Janssens"/>
+    <acteur rol="DE TIRAN" naam="Guy Noppe"/>
+    <acteur rol="ANNA" naam="Rita Blommaert"/>
+    <acteur rol="WITTEBOL" naam="Seppe Hertogs"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Cit Peeters</naam>
+    </taak>
+    <taak beschrijving="Voorzegger">
+      <naam>Richard Van Roey</naam>
+    </taak>
+    <taak beschrijving="Decor">
+      <naam>Jan Hectors</naam>
+      <naam>Ren@eacute; Fret</naam>
+    </taak>
+    <taak beschrijving="Kostuums">
+      <naam>Carla Mennes</naam>
+    </taak>
+    <taak beschrijving="Grime">
+      <naam>Linda Smout</naam>
+    </taak>
+    <taak beschrijving="Affiche">
+      <naam>Francis Theuns</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Godfried Bomans</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+    <H2>Godfried Bomans</H2>
+    <p>
+      <img class="right" src='1985d-bomans.jpg' width='203' height='231' alt="Godfried Bomans"/>
+      In 1939 schrijft de 26-jarige student wijsbegeerte en psychologie
+      het toneelstuk "De Huistiran" en klucht in twee bedrijven. Reeds in
+      1931 heeft hij het treurspel "Bloed en Liefde", met 32 rollen, omdat
+      zijn klas 32 leerlingen telt, geschreven. In 1937 verschijnt zijn
+      eerste boek: "Memoires of gedenkschriften van Mr.P.Bas".
+    </p>
+
+    <p>
+      Godfried Bomans is de Charles Dickens van de lage landen. Beide auteurs
+      bezaten een rijke woordenschat en een scherp inzicht in het menselijk gedrag.
+    </p>
+  </tekst>
+
+  <fotos>
+    <foto id="1985d-01" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1985d-02" web="true">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Seppe Hertogs</naam>
+        <naam>Guy Noppe</naam>
+      </personen>
+    </foto>
+
+    <foto id="1985d-03" web="true">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Seppe Hertogs</naam>
+        <naam>Guy Noppe</naam>
+      </personen>
+    </foto>
+
+    <foto id="1985d-04" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Chris Hoppenbrouwers</naam>
+        <naam>Fons Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1985d-05" web="true">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Guy Noppe</naam>
+      </personen>
+    </foto>
+
+    <foto id="1985d-06" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Chris Hoppenbrouwers</naam>
+      </personen>
+    </foto>
+
+    <foto id="1985d-07" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Chris Hoppenbrouwers</naam>
+        <naam>Seppe Hertogs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1985d-08" web="true">
+      <personen>
+        <naam>Seppe Hertogs</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+  </fotos>
+</productie>

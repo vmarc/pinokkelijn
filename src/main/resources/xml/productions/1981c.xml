@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1981c" jaar="1981" titel="De driftkoppen">
+
+  <korte-beschrijving>
+    Komische eenakter van Anton Tsjechov in een regie van Cit Peeters.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>eerste opvoering: 18 decmeber 1981</opvoering>
+    <opvoering>3 opvoeringen</opvoering>
+    <opvoering>hernomen in 85</opvoering>
+  </opvoeringen>
+
+  <plaats>2x Parochie Centrum Essen-Statie 1x Gildenhuis Essen</plaats>
+
+  <acteurs>
+    <acteur rol="STEPAN STEPANOWITSJ TSJOEBOEKOV" naam="Richard Van Roey"/>
+    <acteur rol="NATALJA STEPANOWNA" naam="Sonja Leenknecht"/>
+    <acteur rol="IWAN WASILJEWITSJ Lomov" naam="Paul Ruys"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Cit Peeters</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Anton Tsjechov</naam>
+    </taak>
+  </taken>
+
+  <fotos>
+  </fotos>
+</productie>

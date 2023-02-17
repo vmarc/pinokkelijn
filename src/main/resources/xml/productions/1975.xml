@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1975" jaar="1975" titel="De avond van de zevende juli">
+
+  <korte-beschrijving>
+    Dwaas blijspel in drie bedrijven door Gerard Van Dijk in een regie van Paul Ruys.
+  </korte-beschrijving>
+
+  <beschrijving>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Zondag 2 februari 1975 (Ten voordele van MILAC - Essen</opvoering>
+    <opvoering>Zondag 23 maart 1975 (Ten voordele van Chiro Happydorp)</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <acteurs>
+    <acteur rol="MARTIN VAN WIJNGAARDEN" naam="Fons Janssens">notaris</acteur>
+    <acteur rol="MELIE" naam="Joke Platteau">vrouw</acteur>
+    <acteur rol="JAN" naam="Jef Brosens">de zoon</acteur>
+    <acteur rol="ANKIE" naam="Chris Hontel@eacute;">de dochter</acteur>
+    <acteur rol="HANNA" naam="Lif Verbeeck">huishoudster</acteur>
+    <acteur rol="HENRIETTE VAN TERWINSELEN" naam="Rita Janssens">freule</acteur>
+    <acteur rol="ENGELBERT ANGEVARE" naam="Joos Janssens">huisknecht</acteur>
+    <acteur rol="HARRY DE GLINT" naam="Guy Janssens">advocaat</acteur>
+    <acteur rol="JOKE VAN ANRAAD" naam="Yolande Verbeeck">meisje</acteur>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Paul Ruys</naam>
+    </taak>
+    <taak beschrijving="Voorzegger">
+      <naam>Albert Brosens</naam>
+    </taak>
+    <taak beschrijving="Technische medewerking">
+      <naam>Jan Brosens</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Gerard van Dijck</naam>
+    </taak>
+  </taken>
+
+  <fotos>
+    <foto id="1975-01" web="true" description="Dit is een beschrijving van de foto.">
+      <personen>
+        <naam>Yolande Verbeeck</naam>
+        <naam>Jef Brosens</naam>
+        <naam>Joke Platteau</naam>
+        <naam>Fons Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-02" web="true">
+      <personen>
+        <naam>Fons Janssens</naam>
+        <naam>Yolande Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-03" web="true">
+      <personen>
+        <naam>Fons Janssens</naam>
+        <naam>Guy Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-04" web="true">
+      <personen>
+        <naam>Yolande Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-05" web="true">
+      <personen>
+        <naam>Jef Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-06" web="true">
+      <personen>
+        <naam>Guy Janssens</naam>
+        <naam>Chris Hontel@eacute;</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-07" web="true">
+      <personen>
+        <naam>Yolande Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-08" web="true">
+      <personen>
+        <naam>Joos Janssens</naam>
+        <naam>Guy Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-09" web="true">
+      <personen>
+        <naam>Jef Brosens</naam>
+        <naam>Chris Hontel@eacute;</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-10" web="true">
+      <personen>
+        <naam>Chris Hontel@eacute;</naam>
+        <naam>Guy Janssens</naam>
+        <naam>Yolande Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-11" web="true">
+      <personen>
+        <naam>Rita Janssens</naam>
+        <naam>Joos Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-12" web="true">
+      <personen>
+        <naam>Guy Janssens</naam>
+        <naam>Joke Platteau</naam>
+        <naam>Rita Janssens</naam>
+        <naam>Yolande Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-13" web="true">
+      <personen>
+        <naam>Joke Platteau</naam>
+        <naam>Yolande Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-14" web="true">
+      <personen>
+        <naam>Joos Janssens</naam>
+        <naam>Guy Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-15" web="true">
+      <personen>
+        <naam>Yolande Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-16" web="true">
+      <personen>
+        <naam>Chris Hontel@eacute;</naam>
+        <naam>Guy Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-17" web="true">
+      <personen>
+        <naam>Guy Janssens</naam>
+        <naam>Lif Verbeeck</naam>
+        <naam>Joos Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-18" web="true">
+      <personen>
+        <naam>Yolande Verbeeck</naam>
+        <naam>Jef Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-19" web="true">
+      <personen>
+        <naam>Fons Janssens</naam>
+        <naam>Joke Platteau</naam>
+      </personen>
+    </foto>
+
+    <foto id="1975-20" web="true">
+      <personen>
+        <naam>Joos Janssens</naam>
+      </personen>
+    </foto>
+  </fotos>
+</productie>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1979b" jaar="1979" titel="Karolus het konijn">
+
+  <korte-beschrijving>
+    Klucht in @eacute;@eacute;n bedrijf door Dick van Maasland in een regie van Fons Janssens.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <img class="right" src="1979b-karolus.jpg" width='219' height='296' alt="Karolus"/>
+    <p>
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Zondag 25 maart 1979</opvoering>
+    <opvoering>3 opvoeringen</opvoering>
+  </opvoeringen>
+
+  <plaats>Mariaberg</plaats>
+
+  <acteurs>
+    <acteur rol="ANTON" naam="Jef Brosens">de heer des huizes</acteur>
+    <acteur rol="TERRY" naam="Mieke Moons">de vrouw van de heer des huizes</acteur>
+    <acteur rol="HARRY" naam="Stefan Deckers">vader van Terry</acteur>
+    <acteur rol="GREET" naam="Kristin Verbeeck">de kranige meid</acteur>
+    <acteur rol="LUBBERT" naam="Francis Theuns">de behulpzame buurman</acteur>
+    <acteur rol="AGAATH" naam="Annemie Van Tilborgh">juffrouw van de televiesie</acteur>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Fons Janssens</naam>
+    </taak>
+    <taak beschrijving="Voorzegger">
+      <naam>Liliane De Cock</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Dick van Maasland</naam>
+    </taak>
+  </taken>
+
+  <fotos>
+  </fotos>
+</productie>

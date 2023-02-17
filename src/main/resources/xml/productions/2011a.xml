@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="2011a" jaar="2011" titel="Spieler-eitjes">
+
+  <korte-beschrijving>
+    Theatercaf@eacute;: Een vaatje toneel, met een vleugje vertelsels vol schuimende liederen.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>Op het programma:</p>
+    <ul>
+      <li>Het verhaal van de drie vrouwtjes, naar Boccaccio</li>
+      <li>Levensliederen, door Juffrouw Chagrijn en de Banjoman</li>
+      <li>Winteravond, eenakter van Hugo Claus</li>
+    </ul>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Zaterdag 1 april 2011 20.30u</opvoering>
+    <opvoering>Zondag 2 april 2011 20.30u</opvoering>
+  </opvoeringen>
+
+  <plaats>Zaal Volkshuis, Stationsstraat 136 Essen</plaats>
+
+  <acteurs>
+    <acteur rol="Juffrouw Chagrijn" naam="Kristien de Waal"/>
+    <acteur rol="Banjoman" naam="J@ouml;rg Seifert"/>
+
+    <acteur rol="Verteller (Boccaccio)" naam="Guido Janssen"/>
+
+    <acteur rol="Winteravond" naam="Rita Blommaert"/>
+    <acteur rol="Winteravond" naam="Kristien de Waal"/>
+    <acteur rol="Winteravond" naam="Jan Wils"/>
+    <acteur rol="Winteravond" naam="Luc Brosens"/>
+    <acteur rol="Winteravond" naam="Paul Ruys"/>
+    <acteur rol="Muziek Winteravond" naam="Pat Scheldeman"/>
+
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Lieve Frateur</naam>
+    </taak>
+
+    <taak beschrijving="Technische assistentie">
+      <naam>Cit Peeters</naam>
+    </taak>
+
+    <taak beschrijving="Licht">
+      <naam>Marc Vergouwen</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+
+    <h2>Het verhaal van de drie vrouwtjes</h2>
+    <p>
+      <img src='2011a-eitjes-1.jpg' width='320' height='267' alt="Het verhaal van de drie vrouwtjes"/>
+    </p>
+
+    <h2>De Banjoman</h2>
+    <p>
+      <img src='2011a-eitjes-2.jpg' width='320' height='214' alt="De Banjoman"/>
+    </p>
+
+    <h2>Winteravond</h2>
+    <p>
+      <img src='2011a-eitjes-3.jpg' width='213' height='320' alt="Winteravond"/>
+    </p>
+    <p>
+      <img src='2011a-eitjes-4.jpg' width='214' height='320' alt="Winteravond"/>
+    </p>
+    <p>
+      <img src='2011a-eitjes-5.jpg' width='320' height='214' alt="Winteravond"/>
+    </p>
+
+  </tekst>
+
+  <fotos>
+
+    <foto id="2011a-001" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Guido Janssen</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-002" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Guido Janssen</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-004" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Guido Janssen</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-003" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Guido Janssen</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-005" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Guido Janssen</naam>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-006" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Guido Janssen</naam>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-007" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Guido Janssen</naam>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-008" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-009" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Guido Janssen</naam>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-010" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Guido Janssen</naam>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-011" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Guido Janssen</naam>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-012" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Guido Janssen</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-013" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-014" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-015" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-016" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-017" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-018" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-019" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+      </personen>
+    </foto>
+
+    <foto id="2011a-020" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+      </personen>
+    </foto>
+
+    <foto id="2011a-021" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Rita Blommaert</naam>
+        <naam>Ren@eacute; Fret</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-022" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-023" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-024" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-025" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-026" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-027" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-028" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-029" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-030" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-031" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-032" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-033" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-034" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-035" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-036" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-037" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-038" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-039" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-040" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-041" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-042" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-043" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-044" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-045" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Pat Scheldeman</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-046" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Pat Scheldeman</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-047" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-048" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-049" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-050" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Paul Ruys</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-051" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-052" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-053" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Paul Ruys</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-054" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-055" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Paul Ruys</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-056" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-057" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-058" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-059" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Jan Wils</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-060" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Paul Ruys</naam>
+        <naam>Jan Wils</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-061" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-062" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-063" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-064" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-065" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-066" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-067" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-068" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-069" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Jan Wils</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-070" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-071" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-072" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-073" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-074" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Paul Ruys</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-075" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Jan Wils</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-076" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-077" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-078" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-079" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-080" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Paul Ruys</naam>
+        <naam>Jan Wils</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-081" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Paul Ruys</naam>
+        <naam>Jan Wils</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-082" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-083" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-084" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-085" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-086" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-087" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-088" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-089" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-090" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-091" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-092" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-093" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-094" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Jan Wils</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-095" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Jan Wils</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-096" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-097" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-098" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-099" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-100" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-101" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-102" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Jan Wils</naam>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-103" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-104" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-105" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Jan Wils</naam>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-106" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-107" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-108" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-109" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-110" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-111" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-112" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-113" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-114" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-115" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-116" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-117" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-118" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-119" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-120" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-121" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-122" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-123" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-124" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-125" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Paul Ruys</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-126" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-127" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-128" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-129" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Jan Wils</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-130" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-131" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-132" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-133" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-134" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-135" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-136" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-137" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-138" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-139" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-140" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-141" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-142" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-143" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-144" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-145" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-146" web="false" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>J@ouml;rg Seifert</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+
+    <foto id="2011a-147" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Paul Ruys</naam>
+        <naam>Rita Blommaert</naam>
+        <naam>Jan Wils</naam>
+        <naam>Guido Janssen</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+  </fotos>
+</productie>

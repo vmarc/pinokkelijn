@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1979a" jaar="1979" titel="Kat in de zak">
+
+  <korte-beschrijving>
+    Franse komedie van Georges Feydeau in een regie van Paul Ruys.
+  </korte-beschrijving>
+
+  <beschrijving>
+
+    <p>
+      In het Parijs van de late 19de eeuw woont de parvenu Pacarel
+      met zijn tweede vrouw Marthe, zijn verwende dochter Julie, de
+      zelfgenoegzame dokter Consternation en zijn bazige vrouw Amadine.
+      Zij verwachten Dufiche, een operazanger uit Bordeaux; Pacarel heeft
+      hem uitgenodigd om een opera, gecomponeerd door Julie, te komen
+      zingen.
+    </p>
+    <p>
+      Plots arriveert Dufalset, de zoon van een oude kennis van Pacarel,
+      deze komt studeren in Parijs.
+    </p>
+    <p>
+      Pacarel en zijn huisgenoten denken dat het Dufiche is en zo
+      begint een eindeloze reeks verwikkelingen.
+    </p>
+    <p>
+      In deze stiuaties mengen zich nog de huisknecht Tiburce en
+      Desfriques-en-dos, de bizarre vrijer van Julie...
+    </p>
+    <p>
+      Er is genoeg stof voor een goede Franse komedie.
+    </p>
+
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>5 januari 1979</opvoering>
+    <opvoering>2 opvoeringen</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <acteurs>
+    <acteur rol="PACAREL" naam="Fons Janssens"></acteur>
+    <acteur rol="MARTHE" naam="Greet Van Ael"></acteur>
+    <acteur rol="LE DOCTEUR CONSTERNATION" naam="Jef Brosens"/>
+    <acteur rol="AMANDINE" naam="Kristin Verbeeck"></acteur>
+    <acteur rol="JULIE" naam="Sonja Leenknecht"></acteur>
+    <acteur rol="TIBURCE" naam="Guy Noppe"></acteur>
+    <acteur rol="DUFALSET" naam="Cit Peeters"></acteur>
+    <acteur rol="LES FRIQUES EN DOS" naam="Ivo Nijs"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Paul Ruys</naam>
+    </taak>
+    <taak beschrijving="Voorzegger">
+      <naam>Liliane De Cock</naam>
+    </taak>
+    <taak beschrijving="Decor">
+      <naam>Jan De Schepper</naam>
+    </taak>
+    <taak beschrijving="Kapsels">
+      <naam>Guy Nelen</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Georges Feydeau</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+    <H2>Georges Feydeau (1862-1921)</H2>
+    <p>
+      Franse toneelschrijver. Hij kreeg reeds vlug algemene bekendheid
+      met geestige, originele, vaak virtuoos geschreven blijspelen die
+      sinds ze zijn geschreven nog steeds worden opgevoerd met veel
+      succes.
+    </p>
+    <p>
+      De stukken situeren zich in het Parijse burgermilieu van
+      het einde van de 19de eeuw: de sfeer is lichtzinnig, wuft; titels
+      als "monsieur chasse" - "occupe-toi d'Amelie" - "Ne te prom@egrave;ne
+      donc pas toute nue" - "l'hotel du libre @eacute;change" en "Kant aan
+      mijn broek" liegen er niet om!
+    </p>
+  </tekst>
+
+  <tekst>
+    <H2>Link</H2>
+    <p>
+      Zie ook:
+      <A href='../2000/index.html'>Herneming in 2000</A>
+    </p>
+  </tekst>
+
+  <fotos>
+    <foto id="1979a-01" web="true">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979a-02" web="true">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Guy Noppe</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979a-03" web="true">
+      <personen>
+        <naam>Jef Brosens</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Greet Van Ael</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979a-04" web="true">
+      <personen>
+        <naam>Jef Brosens</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Greet Van Ael</naam>
+        <naam>Guy Noppe</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979a-05" web="true">
+      <personen>
+        <naam>Fons Janssens</naam>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979a-06" web="true">
+      <personen>
+        <naam>Jef Brosens</naam>
+        <naam>Greet Van Ael</naam>
+        <naam>Guy Noppe</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+  </fotos>
+</productie>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="2015" jaar="2015" titel="Dimmen!">
+
+  <korte-beschrijving>
+    Een romantische komedie die gecompliceerde relaties tussen mannen en vrouwen verkent.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+      Naar <b>@quot;The Taming of the Shrew@quot;</b> (De getemde feeks) van <i>William Shakespeare</i>,
+      in een flitsende, eigentijdse bewerking van Jan De Vuyst en Dirk Tanghe.
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Vrijdag 20 maart</opvoering>
+    <opvoering>Zaterdag 21 maart</opvoering>
+    <opvoering>Vrijdag 27 maart</opvoering>
+    <opvoering>Zaterdag 28 maart</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis, Stationsstraat 59 Essen</plaats>
+
+  <acteurs>
+    <acteur rol="" naam="Kristien de Waal"/>
+    <acteur rol="" naam="Herman Dufraing"/>
+    <acteur rol="" naam="Sanne Clous"/>
+    <acteur rol="" naam="Jan Meeusen"/>
+    <acteur rol="" naam="Kris Lauwers"/>
+    <acteur rol="" naam="Gilberte Verbeeck"/>
+    <acteur rol="" naam="Lieve Frateur"/>
+    <acteur rol="" naam="Rita Blommaert"/>
+    <acteur rol="" naam="Chris De Rijck"/>
+    <acteur rol="" naam="Marianne Verbeeck"/>
+    <acteur rol="" naam="Linda Leys"/>
+    <acteur rol="" naam="Luc Brosens"/>
+    <acteur rol="" naam="Cit Peeters"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Ben Van Hoof</naam>
+    </taak>
+    <taak beschrijving="Licht">
+      <naam>Marc Vergouwen</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+    <p>
+      <img src="../../images/dimmen1.jpg" width="300" height="452" alt="Dimmen"/>
+      <img src="../../images/dimmen2.jpg" width="300" height="452" alt="Dimmen"/>
+      <br/>
+      <i>repetitiefotos</i>
+    </p>
+
+    <p>
+      De lieftallige Bianca mag niet trouwen vooraleer haar zus Katharina een man heeft. Katharina is niet op
+      haar mondje gevallen en wordt door haar omgeving als een echte feeks beschouwd. Twee aanbidders van Bianca
+      besluiten dan om een man te zoeken voor Katharina.
+    </p>
+    <p>
+      In deze bewerking werd het mes gezet in tal van verwikkelingen en personages van  het oorspronkelijke stuk
+      van William Shakespeare. In het middelpunt staan de soms letterlijke botsingen tussen de hoofdpersonages,
+      met een ironische blik op @quot;feeks@quot; en @quot;temmer@quot;.
+    </p>
+    <p>
+      Hilarisch zijn de lachwekkende avances van de vrijers van Bianca, de fratsen van de bedienden en de knipogen
+      naar de moderne media. De felle dialogen, in de taal van vandaag, worden afgewisseld met muziek en pantomime
+      en zorgen voor vaart en een hoog spektakelgehalte.
+    </p>
+  </tekst>
+
+  <fotos>
+    <!--
+      <foto id="2013-001" web="false" fotograaf="Marijke Bisschops">
+        <personen>
+        </personen>
+      </foto>
+    -->
+  </fotos>
+</productie>

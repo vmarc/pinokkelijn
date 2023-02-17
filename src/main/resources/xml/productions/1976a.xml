@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1976a" jaar="1976" titel="De huistiran">
+
+  <korte-beschrijving>
+    Een blijspel in twee bedrijven door Godfried Bomans in een regie van Joos Janssens.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+      De "tiran" is een gepensioneerd kolonel van het leger.
+      Hij heeft een dochter op huwbare leeftijd.
+    </p>
+    <p>
+      Aan kandidaten ontbreekt het niet, maar vader vindt dat
+      ze het nergens beter kan hebben dan thuis. De
+      begrijpende moeder en de diplomatische huisknecht doen
+      natuurlijk ook hun duit in het zakje.
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Zaterdag 7 februari 1976 (ten voordele van MILAC Essen)</opvoering>
+    <opvoering>Zondag 15 februari</opvoering>
+    <opvoering>Zondag 21 maart 1976 (ten voordele van Chiro Happydorp)</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <acteurs>
+    <acteur rol="DE TIRAN" naam="Hugo Dockx"/>
+    <acteur rol="ANNIE" naam="Greet Van Ael">de vrouw</acteur>
+    <acteur rol="MARIA" naam="Lif Verbeeck">de dochter</acteur>
+    <acteur rol="JAN RAMPOEN" naam="Jef Brosens"/>
+    <acteur rol="A.J.H. WITTEBOL" naam="Paul Ruys"/>
+    <acteur rol="HENDRIK" naam="Fons Janssens">de huisknecht</acteur>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Joos Janssens</naam>
+    </taak>
+    <taak beschrijving="Voorzegger">
+      <naam>Chris Hontel@eacute;</naam>
+      <naam>Rita Janssens</naam>
+    </taak>
+    <taak beschrijving="Grime en kostumering">
+      <naam>Liliane De Cock</naam>
+    </taak>
+    <taak beschrijving="Decorontwerp">
+      <naam>Joos Janssens</naam>
+    </taak>
+    <taak beschrijving="Toneeltechniek">
+      <naam>Guy Janssens</naam>
+    </taak>
+    <taak beschrijving="Belichting">
+      <naam>Jan Brosens</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Godfried Bomans</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+    <H2>Over het stuk</H2>
+    <p>
+      Het stuk speelt ten huize van "de tiran".
+    </p>
+    <p>
+      De gekende en veel te vroeg gestorven Nederlandse auteur
+      <B>Godfried Bomans</B>
+      heeft dit stuk geschreven kort voor de
+      tweede wereldoorlog, voor de
+      <B>gemobiliseerde soldaten</B>
+      die in gans Nederland en vooral langs de grenzen gelegerd
+      waren.
+    </p>
+    <p>
+      Het stuk werd honderden malen met succes opgevoerd, eerst
+      voor de gemobiliseerde soldaten, nadien voor het groot
+      publiek.
+    </p>
+    <p>
+      De humorist Bomans heeft de situatie op een fijne manier
+      tot een verrassend einde uitgewerkt.
+    </p>
+    <p>
+      In zijn inleiding tot het stuk schreef hij: "Aan hen die mij
+      vragen wat de bedoeling, de strekking, van het stuk is,
+      antwoord ik: onze soldaten <B>een vrolijke avond</B> bezorgen".
+    </p>
+  </tekst>
+
+  <fotos>
+    <foto id="1976a-01" web="true">
+      <personen>
+        <naam>Lif Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1976a-02">
+      <personen>
+        <naam>Fons Janssens</naam>
+        <naam>Greet Van Ael</naam>
+      </personen>
+    </foto>
+
+    <foto id="1976a-03">
+      <personen>
+        <naam>Jef Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1976a-04">
+      <personen>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="1976a-05">
+      <personen>
+        <naam>Paul Ruys</naam>
+        <naam>Lif Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1976a-06" web="true">
+      <personen>
+        <naam>Greet Van Ael</naam>
+        <naam>Hugo Dockx</naam>
+      </personen>
+    </foto>
+
+    <foto id="1976a-07">
+      <personen>
+        <naam>Paul Ruys</naam>
+        <naam>Greet Van Ael</naam>
+        <naam>Hugo Dockx</naam>
+      </personen>
+    </foto>
+
+    <foto id="1976a-08" web="true">
+      <personen>
+        <naam>Paul Ruys</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Jef Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1976a-09">
+      <personen>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="1976a-10">
+      <personen>
+        <naam>Hugo Dockx</naam>
+      </personen>
+    </foto>
+  </fotos>
+</productie>

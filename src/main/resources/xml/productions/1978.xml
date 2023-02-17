@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1978" jaar="1978" titel="De duivel en de non">
+
+  <korte-beschrijving>
+    Een mirakelspel in vier bedrijven van Bernard Kemp in een regie van Fons Janssens.
+  </korte-beschrijving>
+
+  <beschrijving>
+
+    <p>
+      Benard Kemp schreef dit stuk in 1956. Zelfs de duivel Mefisto wordt
+      gered door de grenzeloze onbegrijpelijke hoop. Middeleeuws in vorm
+      en thema; universeel door zijn problematiek.
+    </p>
+    <p>
+      De eerste drie bedrijven spelen zich af in een kloostercel, het vierde
+      bedrijf in het voorgeborchte van de hel.
+    </p>
+
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Zondag 9 april 1978</opvoering>
+    <opvoering>Zaterdag 27 mei 1978</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <acteurs>
+    <acteur rol="ZUSTER MARGRIET" naam="Sonja Leenknecht">zuster</acteur>
+    <acteur rol="ZUSTER GERTRUDIS" naam="Lif Verbeeck">zuster</acteur>
+    <acteur rol="MEFISTO" naam="Andr@eacute; Vloeberghs">duivel</acteur>
+    <acteur rol="GABRIEL" naam="Paul Ruys">engel</acteur>
+    <acteur rol="MASKEROEN" naam="Cit Peeters">duivel</acteur>
+    <acteur rol="BRUIDEGOM" naam="Joos Janssens"/>
+    <acteur rol="STEM" naam="Joos Janssens"/>
+    <acteur rol="DUIVEL" naam="Kristin Verbeeck"/>
+    <acteur rol="DUIVEL" naam="Guy Janssens"/>
+    <acteur rol="DUIVEL" naam="Chris Hontel@eacute;"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Fons Janssens</naam>
+    </taak>
+    <taak beschrijving="Voorzegger">
+      <naam>Chris Hontel@eacute;</naam>
+    </taak>
+    <taak beschrijving="Decor">
+      <naam>Joos Janssens</naam>
+      <naam>Lif Verbeeck</naam>
+    </taak>
+    <taak beschrijving="Technische medewerking">
+      <naam>Liliane De Cock</naam>
+      <naam>Jef Brosens</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Bernard Kemp</naam>
+    </taak>
+  </taken>
+
+  <fotos>
+    <foto id="1978-01" web="true">
+      <personen>
+        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1978-02" web="true">
+      <personen>
+        <naam>Lif Verbeeck</naam>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1978-03" web="true">
+      <personen>
+        <naam>Paul Ruys</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Andr@eacute; Vloeberghs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1978-04" web="true">
+      <personen>
+        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>Paul Ruys</naam>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1978-05" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1978-06" web="true">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1978-07" web="true">
+      <personen>
+        <naam>Andr@eacute; Vloeberghs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1978-08" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>Lif Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1978-09" web="true">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Lif Verbeeck</naam>
+        <naam>Andr@eacute; Vloeberghs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1978-10" web="true">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1978-11" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1978-12" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Lif Verbeeck</naam>
+        <naam>Andr@eacute; Vloeberghs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1978-13" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Lif Verbeeck</naam>
+        <naam>Andr@eacute; Vloeberghs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1978-14" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Lif Verbeeck</naam>
+        <naam>Andr@eacute; Vloeberghs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1978-15" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Lif Verbeeck</naam>
+        <naam>Andr@eacute; Vloeberghs</naam>
+      </personen>
+    </foto>
+  </fotos>
+</productie>

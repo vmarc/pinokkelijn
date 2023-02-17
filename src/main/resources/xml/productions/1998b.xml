@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1998b" jaar="1998" titel="Het eerste avondmaal">
+
+  <korte-beschrijving>
+    Toneelspel van en met Sonja Leenknecht.
+  </korte-beschrijving>
+
+  <beschrijving>
+
+    <p>
+      "Het Eerste Avondmaal" gaat niet over Jezus en zijn twaalf apostelen
+      maar over Jef, een jongeman van 20 jaar die zijn eerste avondmaal zal
+      nuttigen bij het gezin van zijn geliefde Wendy.
+    </p>
+
+    <p>
+      Hij zal er kennismaken met de mama en haar 12-jarige hoog opgeschoten
+      drielingzusjes: Ira, Mira en Kira.
+    </p>
+
+    <p>
+      Dat eten een belangrijke sociale bezigheid is wordt hier snel overduidelijk!
+    </p>
+
+    <p>
+      En dan nog iets: in de beslotenheid van een huiskamer gebeuren rare dingen!
+    </p>
+
+    <p>
+      Men zou het kunnen vergelijken met een bezoek aan de dierentuin waar je in
+      een korte tijdspanne een goed overzicht krijgt op de hi@euml;rarchie in de kooien!
+      Wat Jef in ieder geval vlug zal ondervinden is dat hij terechtkomt in een familie met apekuren...
+    </p>
+
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Zaterdag 3 oktober 1998 20:30u</opvoering>
+    <opvoering>Zondag 4 oktober 1998 20:30u</opvoering>
+    <opvoering>Vrijdag 9 oktober 1998 20:30u</opvoering>
+    <opvoering>Zaterdag 10 oktober 1998 20:30u</opvoering>
+    <opvoering>Zondag 11 oktober 1998 20:30u</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen, Zolder Oude pastorij</plaats>
+
+  <acteurs>
+    <acteur rol="JEF" naam="Jan van den Maagdenberg">vrijer van Wendy</acteur>
+    <acteur rol="WENDY" naam="Marijke Schoeters">oudste dochter</acteur>
+    <acteur rol="IRA" naam="An Van Roey">1ste drieling</acteur>
+    <acteur rol="MIRA" naam="Liesje Ribbens">2de drieling</acteur>
+    <acteur rol="KIRA" naam="Eva van den Maagdenberg">3de drieling</acteur>
+    <acteur rol="MOEDER" naam="Sonja Leenknecht">ma of mama</acteur>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie en bewerking">
+      <naam>Sonja Leenknecht</naam>
+      <naam>Kristin Verbeeck</naam>
+    </taak>
+    <taak beschrijving="Voorzegger">
+      <naam>Kristin Verbeeck</naam>
+    </taak>
+    <taak beschrijving="Decor">
+      <naam>Luc Brosens</naam>
+      <naam>Cit Peeters</naam>
+      <naam>Walter Nelen</naam>
+      <naam>Marc Vergouwen</naam>
+    </taak>
+    <taak beschrijving="Kostuums">
+      <naam>Kristin Verbeeck</naam>
+      <naam>Sonja Leenknecht</naam>
+      <naam>Gilberte Bisschops</naam>
+    </taak>
+    <taak beschrijving="Licht">
+      <naam>Marc Vergouwen</naam>
+    </taak>
+    <taak beschrijving="Geluid">
+      <naam>Joris Verbeeck</naam>
+    </taak>
+    <taak beschrijving="Affiche">
+      <naam>Lander Baetens</naam>
+    </taak>
+    <taak beschrijving="Regie-assistentie">
+      <naam>Gilberte Bisschops</naam>
+    </taak>
+    <taak beschrijving="Productieleiding">
+      <naam>Kristin Verbeeck</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>Sonja Leenknecht</naam>
+    </taak>
+
+    <!-- insert header here? -->
+
+    <taak beschrijving="Nocquarium creaturen">
+      <naam>Adriaan De Roover</naam>
+      <naam>Katrien Brosens</naam>
+      <naam>Annelies Brosens</naam>
+      <naam>B@eacute;atrice De Keyser</naam>
+      <naam>Lieve Frateur</naam>
+      <naam>Herman Dufraing</naam>
+      <naam>Luc Brosens</naam>
+      <naam>Cit Peeters</naam>
+      <naam>Richard Van Roey</naam>
+      <naam>Krista Nuyten</naam>
+      <naam>Kris Verellen</naam>
+      <naam>Paul Ruys</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+    <H2>Gevonden op de uitnodiging</H2>
+    <p>
+      Ons huis dat is een apekot
+      <BR/>Parlez-vous
+      <BR/>We worden allemaal stapelzot
+      <BR/>Parlez-vous
+      <BR/>De kinderen zijn er erg aan toe
+      <BR/>Maar ik ben eigenlijk ook wel goed
+      <BR/>Inke pinke parlez-vous
+    </p>
+  </tekst>
+
+  <tekst>
+    <H2>Iets over de auteur</H2>
+
+    <p>
+      De schrijfster van dit theaterwerkstuk
+      <BR/>komt van een verre planeet.
+      <BR/>Waar of wanneer ze precies geboren is
+      <BR/>weet niemand, zelfs zij niet.
+      <BR/>Haar taak hier op aarde weet ze wel.
+      <BR/>Ze is namelijk hier tot groot jolijt van iedereen!
+      <BR/>Zij heeft zowel dierlijke als menselijke eigenschappen,
+      <BR/>welke u persoonlijk zult kunnen vastellen bij het zien van
+      <BR/>"Het Eerste Avondmaal".
+      <BR/>En nu ga ik jullie nog eens wat zeggen!
+      <BR/>Zij wenst u, hoe kan het ook anders:
+      <BR/>JOLIG KIJKGENOT!!
+    </p>
+  </tekst>
+
+  <tekst>
+    <H2>Parallelie</H2>
+    <p>
+      Er was eens een aapje
+      <BR/>Dat ging naar de zoo
+      <BR/>Hij wou eens gaan kijken
+      <BR/>Naar mensen en zo
+      <BR/>Hij zag mannen, vrouwen en kinderen in kooien
+      <BR/>En dacht: holala, die zitten zeker vol vlooien
+      <BR/>Op afstand aanschouwde hij hun menselijk gedrag
+      <BR/>En kwam tot de conclusie dat wat hij daar zag
+      <BR/>Eigenlijk niet zo heel veel verschil vertoonde
+      <BR/>Met dat wat zij deden op de plaats waar hij woonde
+      <BR/>Hij slaagde er in om een mensenkindje te kopen
+      <BR/>Zodat het bij hem vrij rond zou kunnen lopen
+      <BR/>Men zou bijna spreken van een geslaagd experiment
+      <BR/>Ware het niet dat de hele apetent
+      <BR/>Zich dubbel lagen te plooien
+      <BR/>Van de jeuk door de mensenvlooien
+      <BR/>
+      <BR/>Sonja
+    </p>
+  </tekst>
+
+  <fotos>
+    <foto id="1998b-01" web="true">
+      <personen>
+        <naam>Marijke Schoeters</naam>
+        <naam>Jan van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-02">
+      <personen>
+        <naam>Marijke Schoeters</naam>
+        <naam>Jan van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-03"/>
+
+    <foto id="1998b-04"/>
+
+    <foto id="1998b-05"/>
+
+    <foto id="1998b-06"/>
+
+    <foto id="1998b-07">
+      <personen>
+        <naam>An Van Roey</naam>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>Liesje Ribbens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-08">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-09">
+      <personen>
+        <naam>Liesje Ribbens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-10">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-11">
+      <personen>
+        <naam>An Van Roey</naam>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>Liesje Ribbens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-12">
+      <personen>
+        <naam>An Van Roey</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Liesje Ribbens</naam>
+        <naam>Eva van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-13" web="true">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-14">
+      <personen>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Liesje Ribbens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-15">
+      <personen>
+        <naam>An Van Roey</naam>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>Liesje Ribbens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-16" web="true">
+      <personen>
+        <naam>Eva van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-17">
+      <personen>
+        <naam>Marijke Schoeters</naam>
+        <naam>Liesje Ribbens</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>An Van Roey</naam>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>Eva van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-18">
+      <personen>
+        <naam>Liesje Ribbens</naam>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-19">
+      <personen>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>An Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-20">
+      <personen>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-21" web="true">
+      <personen>
+        <naam>Liesje Ribbens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-22">
+      <personen>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>An Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-23">
+      <personen>
+        <naam>An Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-24">
+      <personen>
+        <naam>An Van Roey</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Eva van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-25">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Liesje Ribbens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-26">
+      <personen>
+        <naam>An Van Roey</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Liesje Ribbens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-27">
+      <personen>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>An Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-28">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+        <naam>An Van Roey</naam>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>Liesje Ribbens</naam>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-29">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+        <naam>An Van Roey</naam>
+        <naam>Liesje Ribbens</naam>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>Marijke Schoeters</naam>
+        <naam>Jan van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-30" web="true">
+      <personen>
+        <naam>Marijke Schoeters</naam>
+        <naam>Jan van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-31">
+      <personen>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-32">
+      <personen>
+        <naam>Jan van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-33">
+      <personen>
+        <naam>An Van Roey</naam>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>Liesje Ribbens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-34" web="true">
+      <personen>
+        <naam>Marijke Schoeters</naam>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-35">
+      <personen>
+        <naam>Marijke Schoeters</naam>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-36">
+      <personen>
+        <naam>Jan van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-37">
+      <personen>
+        <naam>Marijke Schoeters</naam>
+        <naam>Liesje Ribbens</naam>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>An Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-38">
+      <personen>
+        <naam>Marijke Schoeters</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>Jan van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-39">
+      <personen>
+        <naam>Liesje Ribbens</naam>
+        <naam>Jan van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-40" web="true">
+      <personen>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>An Van Roey</naam>
+        <naam>Liesje Ribbens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-41">
+      <personen>
+        <naam>An Van Roey</naam>
+        <naam>Liesje Ribbens</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Eva van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-42" web="true">
+      <personen>
+        <naam>An Van Roey</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Liesje Ribbens</naam>
+        <naam>Eva van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-43">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Marijke Schoeters</naam>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>Eva van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-44">
+      <personen>
+        <naam>Liesje Ribbens</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Jan van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-45" web="true">
+      <personen>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-46" web="true">
+      <personen>
+        <naam>Liesje Ribbens</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Jan van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-47">
+      <personen>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>An Van Roey</naam>
+        <naam>Liesje Ribbens</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-48">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-49" web="true">
+      <personen>
+        <naam>Liesje Ribbens</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-50">
+      <personen>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-51">
+      <personen>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-52">
+      <personen>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>An Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-53">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-54">
+      <personen>
+        <naam>Liesje Ribbens</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-55">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-56">
+      <personen>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>An Van Roey</naam>
+        <naam>Liesje Ribbens</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-57" web="true">
+      <personen>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-58">
+      <personen>
+        <naam>Liesje Ribbens</naam>
+        <naam>Marijke Schoeters</naam>
+        <naam>An Van Roey</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Jan van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-59">
+      <personen>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>Marijke Schoeters</naam>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-60">
+      <personen>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-61">
+      <personen>
+        <naam>Jan van den Maagdenberg</naam>
+        <naam>Marijke Schoeters</naam>
+        <naam>An Van Roey</naam>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-62">
+      <personen>
+        <naam>Marijke Schoeters</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Jan van den Maagdenberg</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-63"/>
+
+    <foto id="1998b-64" web="true"/>
+    <foto id="1998b-65"/>
+    <foto id="1998b-66" web="true"/>
+
+    <foto id="1998b-67" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-68" web="true"/>
+    <foto id="1998b-69"/>
+    <foto id="1998b-70" web="true"/>
+
+    <foto id="1998b-71">
+      <personen>
+        <naam>Werner Janssens</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Cit Peeters</naam>
+        <naam>B@eacute;atrice De Keyser</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-72"/>
+    <foto id="1998b-73" web="true"/>
+    <foto id="1998b-74"/>
+    <foto id="1998b-75"/>
+    <foto id="1998b-76"/>
+    <foto id="1998b-77" web="true"/>
+    <foto id="1998b-78"/>
+    <foto id="1998b-79" web="true"/>
+
+    <foto id="1998b-80">
+      <personen>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-81" web="true"/>
+    <foto id="1998b-82"/>
+    <foto id="1998b-83"/>
+    <foto id="1998b-84"/>
+    <foto id="1998b-85"/>
+    <foto id="1998b-86"/>
+    <foto id="1998b-87"/>
+    <foto id="1998b-88"/>
+
+    <foto id="1998b-89">
+      <personen>
+        <naam>Kris Verellen</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Eva van den Maagdenberg</naam>
+        <naam>Lieve Frateur</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Marc Vergouwen</naam>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-90">
+      <personen>
+        <naam>Marc Vergouwen</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-91">
+      <personen>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-92">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-93" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1998b-94">
+      <personen>
+        <naam>B@eacute;atrice De Keyser</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Marc Vergouwen</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+  </fotos>
+</productie>

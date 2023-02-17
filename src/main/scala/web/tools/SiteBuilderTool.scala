@@ -83,7 +83,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
   }
 
   private def readOldSiteMap(): Map[String, SiteMapUrl] = {
-    val reader = new FileReader(options.sourceDir + "/wrk/xml/sitemap.xml")
+    val reader = new FileReader(options.xmlDir + "/sitemap.xml")
     try {
       new SiteMapReader(reader).read()
     }

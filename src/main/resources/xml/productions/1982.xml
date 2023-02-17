@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1982" jaar="1982" titel="Alles voor de tuin">
+
+  <korte-beschrijving>
+    Een tragi-komisch toneelstuk van Edward Albee in een regie van Gerbrand Van Soom.
+  </korte-beschrijving>
+
+  <beschrijving>
+
+    <p>
+      "Alles voor de tuin" speelt in de woning van Jenny en Richard, in
+      @eacute;@eacute;n van de voorsteden van een Amerikaanse grootstad.
+    </p>
+    <p>
+      Alhoewel Richard een behoorlijke broodwinning heeft, zou Jenny
+      graag mee uit werken gaan om ook wat te verdienen, want ze leven
+      eigenlijk boven hun stand. Maar Richard is daar niet voor te vinden...
+    </p>
+    <p>
+      Met dit gegeven als basis maakte Albee een onbarmhartige tekening
+      van een hedendaagse "beschaafde" samenleving, waarin alle leugen en
+      bedrog geoorloofd is om aan het alles zaligmakende geld te komen en
+      waarin men, volgens de principes van Mevr. Toothe, de dingen die
+      moeilijk of ongemakkelijk zijn om mee te leven, maar moet zien te
+      vergeten.
+    </p>
+
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>20 maart 1982</opvoering>
+    <opvoering>21 maart 1982</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <acteurs>
+    <acteur rol="JENNY" naam="Mieke Moons"/>
+    <acteur rol="RICHARD" naam="Gerbrand Van Soom">Jenny's man</acteur>
+    <acteur rol="JACK" naam="Paul Ruys">vriend des huizes</acteur>
+    <acteur rol="MEVROUW TOOTHE" naam="Carla Mennes"/>
+    <acteur rol="ROGER" naam="Peter Van Hecke">zoon van Jenny en Richard</acteur>
+    <acteur rol="CHUCK" naam="Jef Brosens"/>
+    <acteur rol="BERYL" naam="Kristin Verbeeck">Chuck's vrouw</acteur>
+    <acteur rol="GILBERT" naam="Richard Van Roey"/>
+    <acteur rol="LOUISE" naam="Rita Blommaert">Gilbert's vrouw</acteur>
+    <acteur rol="PERRY" naam="Pep Andriessen"/>
+    <acteur rol="CYNTHIA" naam="Rita Van Wetswinkel">Perry's vrouw</acteur>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Gerbrand Van Soom</naam>
+    </taak>
+    <taak beschrijving="Regie-assistent">
+      <naam>Fons Janssens</naam>
+    </taak>
+    <taak beschrijving="Voorzegger">
+      <naam>Tamara Leenknecht</naam>
+    </taak>
+    <taak beschrijving="Decor - licht - geluid">
+      <naam>Cit Peeters</naam>
+    </taak>
+    <taak beschrijving="Grime">
+      <naam>Linda Smout</naam>
+    </taak>
+    <taak beschrijving="Rekwisieten">
+      <naam>Liliane De Cock</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Edward Albee</naam>
+    </taak>
+    <taak beschrijving="Vertaling">
+      <naam>*Ernst Van Altena</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+    <H2>De auteur</H2>
+
+    <p>
+      Edward Albee is @eacute;@eacute;n van de belangrijkste
+      hedendaagse Amerikaanse toneelauteurs. Hij werd geboren in
+      1928, in Washington en groeide op als de geadopteerde zoon
+      van een miljonair.
+    </p>
+    <p>
+      Hij verwierf faam met zijn eenakters "The Zoo Story", "The death of
+      Bessie Smith" en "The American Dream".
+    </p>
+    <p>
+      Zijn eerste avondvullend stuk "Who's afraid op Viriginia Woolf"
+      werd meteen een groot succes en maakte hem internationaal beroemd.
+      Nadien volgden "Tiny Alice", "A delicate Balance" en het recente
+      "The Lady from Bubuque".
+    </p>
+    <p>
+      "Everything in the garden" (Alles voor de tuin) dateert uit 1968 en
+      werd geschreven naar het gelijknamige stuk van Giles Cooper.
+    </p>
+  </tekst>
+
+  <tekst>
+    <H2>Citaten</H2>
+    <p>
+      <B>Richard</B>
+      <BR/>
+      Als we niet zo nodig net zo moesten leven als onze vrienden,
+      zouden we eens iets opzij kunnen leggen.
+    </p>
+    <p>
+      <B>Jenny</B>
+      <BR/>
+      Je hebt geld in soorten: te weinig, te veel en net genoeg.
+    </p>
+    <p>
+      <B>Jack</B>
+      <BR/>
+      Geld wil altijd meer geld als gezelschap.
+    </p>
+  </tekst>
+
+  <fotos>
+    <foto id="1982-01" web="true">
+      <personen>
+        <naam>Gerbrand Van Soom</naam>
+        <naam>Mieke Moons</naam>
+      </personen>
+    </foto>
+
+    <foto id="1982-02" web="true">
+      <personen>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="1982-03" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+        <naam>Carla Mennes</naam>
+      </personen>
+    </foto>
+
+    <foto id="1982-04" web="true">
+      <personen>
+        <naam>Rita Van Wetswinkel</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Gerbrand Van Soom</naam>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="1982-05" web="true">
+      <personen>
+        <naam>Rita Van Wetswinkel</naam>
+        <naam>Carla Mennes</naam>
+        <naam>Rita Blommaert</naam>
+        <naam>Mieke Moons</naam>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1982-06" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+        <naam>Pep Andriessen</naam>
+        <naam>Mieke Moons</naam>
+        <naam>Rita Van Wetswinkel</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Rita Blommaert</naam>
+        <naam>Carla Mennes</naam>
+        <naam>Jef Brosens</naam>
+        <naam>Gerbrand Van Soom</naam>
+      </personen>
+    </foto>
+  </fotos>
+</productie>

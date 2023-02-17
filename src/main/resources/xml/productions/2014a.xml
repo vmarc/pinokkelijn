@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="2014a" jaar="2014" titel="Grimmig">
+
+  <korte-beschrijving>
+  </korte-beschrijving>
+
+  <beschrijving>
+    <img class="centered" src="../../images/grimmig.jpg" width="240" height="81" alt="Grimmig"/>
+
+    <p>
+      GRimmig.
+    </p>
+    <p>
+      Maar ook GRoezelig en GRauw.
+    </p>
+    <p>
+      Soms GRofweg GRuwelijk.
+    </p>
+    <p>
+      Misschien zelfs GRiezelig.
+    </p>
+    <p>
+      GRappen en GRollen, dat zeker ook.
+    </p>
+    <p>
+      Én een GRootmoeder, die mag niet ontbreken.
+    </p>
+
+    <hr/>
+
+    <p>
+      In het begin was er niets.
+    </p>
+    <p>
+      Geen script, geen uitgeschreven dialogen, geen vastgelegd decor.
+    </p>
+    <p>
+      Niets.
+    </p>
+    <p>
+      Enkel een leeg blad en een heleboel fantasie.
+    </p>
+    <p>
+      Een enthousiaste GRoep theaterliefhebbers – van GRoentjes tot GRijsaards – GReep GRetig deze kans om zelf te
+      creëren.
+    </p>
+    <p>
+      Met ‘GRimmig’ als GRandioze resultaat.
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Vrijdag 19 september</opvoering>
+    <opvoering>Zaterdag 20 september</opvoering>
+    <opvoering>Zondag 21 september</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuys, Stationsstraat 59 Essen</plaats>
+
+  <acteurs>
+    <!--
+    <acteur rol="" naam=""/>
+    -->
+  </acteurs>
+
+  <taken>
+    <!--
+    <taak beschrijving="Regie">
+      <naam>Walter Nelen</naam>
+    </taak>
+    <taak beschrijving="Licht">
+      <naam>Marc Vergouwen</naam>
+    </taak>
+    -->
+  </taken>
+
+  <tekst>
+  </tekst>
+
+  <fotos>
+    <!--
+      <foto id="2013-001" web="false" fotograaf="Marijke Bisschops">
+        <personen>
+        </personen>
+      </foto>
+    -->
+  </fotos>
+</productie>

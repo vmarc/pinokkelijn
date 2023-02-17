@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1981b" jaar="1981" titel="Antigone">
+
+  <korte-beschrijving>
+    Tragedie van Jean Anouilh in een regie van Stan Milbou.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Eerste opvoering: 5 september 1981</opvoering>
+    <opvoering>6 opvoeringen</opvoering>
+    <opvoering>Hernomen in 84/85: 5 opvoeringen</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <acteurs>
+    <acteur rol="ANTIGONE" naam="Mieke Moons"/>
+    <acteur rol="KREOON" naam="Gerbrand Van Soom"/>
+    <acteur rol="HAIMOON" naam="Herman Jacobs"/>
+    <acteur rol="ISMENE" naam="Sonja Leenknecht"/>
+    <acteur rol="DE DOOD" naam="Carla Mennes"/>
+    <acteur rol="VERTELLER" naam="Stan Milbou"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Stan Milbou</naam>
+    </taak>
+    <taak beschrijving="Geluid">
+      <naam>Cit Peeters</naam>
+    </taak>
+    <taak beschrijving="Licht">
+      <naam>Francis Theuns</naam>
+    </taak>
+    <taak beschrijving="Decorontwerp">
+      <naam>Ivo Nijs</naam>
+    </taak>
+    <taak beschrijving="Decoruitvoering">
+      <naam>Cit Peeters</naam>
+      <naam>Francis Theuns</naam>
+      <naam>Kristin Verbeeck</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Jean Anouilh</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+    <p>
+    </p>
+  </tekst>
+
+  <fotos>
+  </fotos>
+</productie>

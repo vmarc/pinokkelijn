@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1998c" jaar="1998" titel="Benefietavond podium Gildenhuis">
+
+  <korte-beschrijving>
+    Benefietavond voor een nieuw podium in het gildenhuis.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+      <B>Met optreden van</B>
+
+      <BR/>- Operette-ensemble Belcanto
+      <BR/>- Zangkoor Sint Cecilia
+      <BR/>- Accordeonvereniging Hoger Streven
+      <BR/>- Toneel Pinokkelijn
+    </p>
+
+    <p>
+      <B>Eugene en Eugenie</B>
+      <BR/>Verassingsoptreden van goochelaar Herman Dufraing en zijn
+      lieftallige assistente Carine.
+    </p>
+    <p>
+      <B>Het ingebeelde podium van Pinokkeliere</B>
+      <BR/>een komisch gelegenheidsstuk in @eacute;@eacute;n bedrijf.
+      <BR/>
+      <BR/>Dokter Leon, zijn huisgenoten en de podiumdokters maken
+      op een zeer ongebruikelijke wijze het podium onveilig, waarbij
+      de spaanders om de oren vliegen!
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Zaterdag 18 april 1998</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <taken>
+    <taak beschrijving="Speler">
+      <naam>Edwin Tas</naam>
+      <naam>Jan van den Maagdenberg</naam>
+      <naam>Richard Van Roey</naam>
+      <naam>Sonja Leenknecht</naam>
+      <naam>Kristin Verbeeck</naam>
+      <naam>Paul Ruys</naam>
+      <naam>Luc Brosens</naam>
+      <naam>Gilberte Bisschops</naam>
+      <naam>Cit Peeters</naam>
+      <naam>Lieve Frateur</naam>
+      <naam>Eva van den Maagdenberg</naam>
+      <naam>Herman Dufraing</naam>
+      <naam>An Van Roey</naam>
+    </taak>
+    <taak beschrijving="Licht">
+      <naam>Marc Vergouwen</naam>
+    </taak>
+    <taak beschrijving="Geluid">
+      <naam>Joris Verbeeck</naam>
+    </taak>
+  </taken>
+
+
+  <fotos>
+  </fotos>
+</productie>

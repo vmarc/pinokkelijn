@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="2017" jaar="2017" titel="De manke">
+
+  <korte-beschrijving>
+    Naar <i>@quot;The Cripple of Inishmaan@quot;</i> van Martin McDonagh.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+      Op het kleine eiland Inishmaan valt er niet veel te beleven. De dagelijkse sleur wordt afgewisseld met een
+      vete om een gans en een kat, dorpsgeheimen en roddels.
+    </p>
+    <p>
+      Tot op zekere dag een Amerikaanse filmploeg op het
+      naburige eiland neerstrijkt om een film te draaien over het leven op de eilanden. De jongeren zien hierin
+      een kans om weg te raken uit het isolement, en dromen al van een filmcarrière in Hollywood.
+    </p>
+    <p>
+      Ook Manke Danny waagt zijn kans, en slaagt er warempel als enige in om te vertrekken.
+    </p>
+    <p>
+      Maar niet voor lang...
+    </p>
+    <p>
+      <img class="center" src="../../images/demanke.jpg" width="600" height="424" alt="De Manke"/>
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Vrijdag 21 april 2017 20:00u</opvoering>
+    <opvoering>Zaterdag 22 april 2017 20:00u</opvoering>
+    <opvoering>Vrijdag 28 april 2017 20:00u</opvoering>
+    <opvoering>Zaterdag 29 april 2017 20:00u</opvoering>
+  </opvoeringen>
+
+  <plaats>Zaal Rex, Spoorwegstraat 11, 2910 Essen</plaats>
+
+  <acteurs>
+    <acteur rol="Danny Gallagher, de manke" naam="Michiel Peeters"/>
+    <acteur rol="Kate Osborne, zijn tante " naam="Gilberte Verbeeck"/>
+    <acteur rol="Eileen Osborne, zijn tante" naam="Kristin Verbeeck"/>
+    <acteur rol="'Hevige' Patsy McCormick " naam="Mitte Scheldeman"/>
+    <acteur rol="Bartley McCormick, haar broer" naam="Jarrick De Kock"/>
+    <acteur rol="Paddy O’Dougal, dorpsgazet" naam="Luc Brosens"/>
+    <acteur rol="Fionna O’Dougal, zijn moeder" naam="Herman Dufraing"/>
+    <acteur rol="Collin Smith, schipper" naam="Jan Meeusen"/>
+    <acteur rol="Dokter McSullivan " naam="Chris De Rijck"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie en bewerking">
+      <naam>Walter Nelen</naam>
+    </taak>
+    <taak beschrijving="Muziek">
+      <naam>Pat Scheldeman</naam>
+      <naam>David Meredith</naam>
+    </taak>
+    <taak beschrijving="Licht">
+      <naam>Marc Vergouwen</naam>
+    </taak>
+    <taak beschrijving="Affiche">
+      <naam>Michiel Peeters</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+    <p>
+      @quot;De Manke@quot; is een humoristisch maar genadeloos portret van een stugge dorpsgemeenschap. Ze wordt bevolkt
+      door kleurrijke personages @quot;met een hoek af@quot;, zo verkrampt en gemeen dat ze ongewild komisch zijn:
+      Paddy de roddelende dorpsgazet met zijn zatte moedertje, hevige Patsy en haar snoepverslaafde broer Bartley,
+      de bange tantes Kate en Eileen, Collin de schipper, de dorpsdokter.
+      Manke Danny wordt behandeld als de dorpsidioot, maar is wel de enige die een boek gelezen heeft.
+    </p>
+
+    <img src="../../images/demanke1.jpg" width="321" height="200" alt="De Manke"/>
+    <img src="../../images/demanke2.jpg" width="217" height="200" alt="De Manke"/>
+
+    <p>
+      1934. Op het kleine eiland Inishmaan valt er niet veel te beleven. De dagelijkse sleur wordt
+      afgewisseld met een vete om een gans en een kat, dorpsgeheimen en roddels. Tot op zekere dag
+      een Amerikaanse filmploeg op het naburige eiland neerstrijkt om een film te draaien over het
+      leven op de eilanden. De jongeren zien hierin een kans om weg te raken uit het isolement, en
+      dromen al van een filmcarrière in Hollywood. Ook Manke Danny waagt zijn kans, en slaagt er
+      warempel als enige in om te vertrekken. Maar niet voor lang...
+    </p>
+
+    <p>
+      Het stuk speelt zich af op een van de Araneilanden voor de westkust van Ierland. De dunbevolkte eilanden,
+      met steile kliffen, eeuwenoude stapelmuurtjes en ongerepte dorpjes zijn van een wilde schoonheid.
+    </p>
+
+    <p>
+      In 1934 draaide de Amerikaanse regisseur Robert Flaherty er zijn documentaire @quot;Man of Aran@quot; (Mensen van
+      Aran),
+      over het harde leven van de vissers. Martin McDonagh gebruikte deze gebeurtenis als uitgangspunt voor zijn
+      toneelstuk
+      @quot;The Cripple of Inishmaan@quot; (De manke).
+    </p>
+
+    <img src="../../images/demanke4.jpg" width="211" height="316" alt="De Manke"/>
+
+    <p>
+      <b>Martin McDonagh</b>
+    </p>
+
+    <p>
+      Engels-Ierse toneelschrijver en filmregisseur, geboren in 1970.
+    </p>
+
+    <p>
+      In 1994 schreef hij zes toneelstukken die zich afspelen in het westen van Ierland : @quot;De Leenane
+      trilogie@quot;
+      en @quot;De Araneilanden trilogie@quot;, waarvan @quot;The Cripple of Inishmaan@quot; het eerste deel is.
+      Ze zijn geschreven in het plaatselijke dialect.
+    </p>
+
+    <p>
+      McDonagh boekte onmiddellijk succes met zijn stukken, maar trapte ook op vele zere tenen, door zijn zwarte humor
+      en soms choquerend sarcasme, zijn spot met de katholieke Kerk en met de romantiek van het Iers nationalisme.
+    </p>
+
+    <img src="../../images/demanke3.jpg" width="326" height="253" alt="De Manke"/>
+  </tekst>
+
+  <fotos>
+    <!--
+    <foto id="2017-001" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+      </personen>
+    </foto>
+    -->
+  </fotos>
+</productie>

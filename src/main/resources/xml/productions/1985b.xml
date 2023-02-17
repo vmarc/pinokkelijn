@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1985b" jaar="1985" titel="Zeg het met bloemen">
+
+  <korte-beschrijving>
+    Herneming van dit stuk uit het seizoen 1973-1974.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>23 februari 1985</opvoering>
+    <opvoering>5 opvoeringen</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <acteurs>
+    <acteur rol="MOEDER" naam="Marie-Louise Gommeren"/>
+    <acteur rol="JAN" naam="Roger Dupont"/>
+    <acteur rol="JAN" naam="Luc Brosens"/>
+    <acteur rol="ANNIE" naam="Rita Van Wetswinkel"/>
+    <acteur rol="BOMPA" naam="Seppe Hertogs"/>
+    <acteur rol="JANUS" naam="Ren@eacute; Fret"/>
+    <acteur rol="JOURNALIST PENNEMANS" naam="Veerle Buermans"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Fons Janssens</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Dick van Maasland</naam>
+    </taak>
+  </taken>
+
+  <fotos>
+  </fotos>
+</productie>

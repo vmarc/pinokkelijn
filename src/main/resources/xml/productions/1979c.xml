@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1979c" jaar="1979" titel="De gelaarsde kat">
+
+  <korte-beschrijving>
+    Een klassiek sprookje in @eacute;@eacute;n
+    bedrijf voor kinderen en alle andere grote mensen,
+    in een bewerking van Lif Verbeeck met muziek en zang.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+      Sprookjes zijn eeuwenoud. Vader vertelt aan zijn kinderen
+      en die kinderen vertellen het aan hun kinderen. Hoe oud het
+      sprookje "De Gelaarsde Kat" ook is, wij vinden het vandaag
+      nog erg boeiend!
+    </p>
+    <p>
+      In sprookjes kan je steeds iets nieuws vinden. Je ontdekt
+      steeds dat er in feite niets veranderd is...
+    </p>
+    <p>
+      Er bestaan nog altijd goede en slechte mensen, geld brengt
+      nog steeds niet het echte geluk, er zijn sterke @eacute;n
+      er zijn slimme mensen...
+    </p>
+    <p>
+      Toneel Pinokkelijn bracht hier het sprookje van een molenaarszoon
+      die samen met zijn slimme kat een groot avontuur beleeft. Want
+      zij zullen het tot koning en hofmaarschalk brengen!
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Eerste opvoering: 19 mei 1979</opvoering>
+    <opvoering>In totaal 35 opvoeringen</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <acteurs>
+    <acteur rol="DE KAT" naam="Sonja Leenknecht"/>
+    <acteur rol="JAN" naam="Andr@eacute; Vloeberghs">de jongste zoon</acteur>
+    <acteur rol="ANTOON" naam="Joos Janssens">de oudste zoon</acteur>
+    <acteur rol="CORNELIS" naam="Cit Peeters">de tweede zoon</acteur>
+    <acteur rol="DE MOLENAAR" naam="Paul Ruys"/>
+    <acteur rol="DE HUISHOUDSTER" naam="Lif Verbeeck"/>
+    <acteur rol="MARIEKE" naam="Rita Blommaert">de meid</acteur>
+    <acteur rol="DE KONING" naam="Paul Ruys"/>
+    <acteur rol="DE PRINSES" naam="Rita Blommaert"/>
+    <acteur rol="GRAAF DE SORCIER DE RIESENTAL" naam="Joos Janssens"/>
+    <acteur rol="KATRIJN" naam="Lif Verbeeck"/>
+    <acteur rol="GRIET" naam="Elke Jordan"/>
+    <acteur rol="FRANS" naam="Herman Nijs"/>
+    <acteur rol="KLAAS" naam="Cit Peeters"/>
+    <acteur rol="EEN MUZIKANT" naam="Herman Jacobs"/>
+    <acteur rol="EEN LAKEI" naam="Francis Theuns"/>
+    <acteur rol="DIENSTMEISJE" naam="Lif Verbeeck"/>
+    <acteur rol="DIENSTMEISJE" naam="Elke Jordan"/>
+    <acteur rol="BOERENKNECHT" naam="Herman Nijs"/>
+    <acteur rol="BOERENKNECHT" naam="Cit Peeters"/>
+    <acteur rol="MUZIKANT" naam="Hilde Noppe">gitaar</acteur>
+    <acteur rol="MUZIKANT" naam="Herman Jacobs">fluit</acteur>
+    <acteur rol="MUZIKANT" naam="Greet Jacobs">fluit</acteur>
+    <acteur rol="MUZIKANT" naam="Lif Verbeeck">viool</acteur>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Lif Verbeeck</naam>
+    </taak>
+    <taak beschrijving="Voorzegger">
+      <naam>Elke Jordan</naam>
+    </taak>
+    <taak beschrijving="Affiche">
+      <naam>Marc Baetens</naam>
+    </taak>
+    <taak beschrijving="Kostuums en grime">
+      <naam>*Het vrouwvolk</naam>
+    </taak>
+    <taak beschrijving="Decor">
+      <naam>*Het manvolk</naam>
+    </taak>
+    <taak beschrijving="Affiche">
+      <naam>Marc Baetens</naam>
+    </taak>
+    <taak beschrijving="Bewerking">
+      <naam>Lif Verbeeck</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+    <H2>Sprookjes</H2>
+    <p>
+      Een sprookje is een gefantaseerd volksverhaal waarin het goede
+      uiteindelijk beloond wordt en het kwade gestraft. "De Gelaarsde
+      Kat" is @eacute;@eacute;n van de sprookjes verzameld door de
+      Fransman Ch. Perrault in zijn "Sprookjes van Moeder de Gans" (1697).
+    </p>
+    <p>
+      In de inleiding van het gekende boek "Sprookjes van Grimm voor Kind
+      en Gezin" (1974) staat geschreven dat "de diepe wijsheid en de
+      liefde die in sprookjes geborgen liggen karaktervormend op het
+      kind inwerken".
+    </p>
+  </tekst>
+
+  <tekst>
+    <H2>Het lied van de huishoudster</H2>
+
+    <p>
+      (muziek L. Verbeeck)
+    </p>
+    <p>
+      Hei molen draai uwe wieken in't rond
+      <BR/>verdien ons wat centen
+      <BR/>voor brood met korenten
+      <BR/>de boter die kost al drie stuivers per pond
+      <BR/>
+      <BR/>vijf centen voor stopwol
+      <BR/>twee voor een pond kaas
+      <BR/>tien stuivers die zijn voor de dokter helaas
+      <BR/>al zal het niet baten
+      <BR/>de baas gaat toch dood
+      <BR/>wind blaas de wieken, gij wind blaas de wieken
+      <BR/>verdien ons wat brood
+      <BR/>
+      <BR/>tien voor medicijnen
+      <BR/>drie voor een fles stroop
+      <BR/>molenaar zorg dat de molen kan draaien
+      <BR/>de wind weer gaat waaien
+      <BR/>ga nog niet dood
+      <BR/>
+      <BR/>uw zonen zijn harder en strenger als gij
+      <BR/>geven geen centen voor brood met korenten
+      <BR/>en boter erbij
+    </p>
+  </tekst>
+
+  <tekst>
+    <H2>Rouwstoet</H2>
+
+    <p>
+      (Engelse melodie 16de eeuw)
+    </p>
+    <p>
+      de goeie baas is doodgegaan
+      <BR/>zijn kaarske voorgoed uitgegaan
+      <BR/>de goeie tijd is nu voorbij
+      <BR/>voor ons komt nu de slavernij
+      <BR/>
+      <BR/>de nieuwe baas is streng en hard
+      <BR/>de geldzucht heeft zijn geest verstard
+      <BR/>en werken, zwoegen, moeten wij
+      <BR/>wij beven voor zijn razernij
+      <BR/>
+      <BR/>geen lach en zang meer in de schuur
+      <BR/>geen danske meer op 't late uur
+      <BR/>met geen lief meideke meer in 't hooi
+      <BR/>het wordt een trieste schrale zooi
+      <BR/>
+      <BR/>de goeie baas is doodgegaan
+      <BR/>de eeuwigheid breekt voor hem aan
+      <BR/>naar 't graf op 't kerkhof naast zijn vrouw
+      <BR/>brengen we hem met spijt en rouw
+    </p>
+  </tekst>
+
+  <tekst>
+    <H2>Slotlied</H2>
+
+    <p>
+      (muziek L.Verbeeck - Fran@ccedil;ois Le Cocq)
+    </p>
+    <p>
+      Esmeralda, lieve prinses
+      <BR/>eerst moet nog komen de zedenles:
+      <BR/>onze vriend Jan, wilt ge hem verschonen
+      <BR/>hij zal u straks zijn talent wel tonen.
+      <BR/>
+      <BR/>Laat hem maar praten wij vieren feest,
+      <BR/>de prinses gaat trouwen,
+      <BR/>'t zal haar niet berouwen
+      <BR/>want die schone jongen, eerst zo bedeesd,
+      <BR/>heeft haar snel veroverd, onbevreesd.
+      <BR/>
+      <BR/>De moraal is duidelijk en klaar:
+      <BR/>'t gezond verstand wilt ge 't bewaren,
+      <BR/>bescherm het met een hoed van goede makelei
+      <BR/>en zie niet op een frank geloof me vrij.
+      <BR/>
+      <BR/>Laat hem maar praten zij vieren feest,
+      <BR/>de prinses gaat trouwen,
+      <BR/>'t zal haar niet berouwen
+      <BR/>want die schone jongen, eerst zo bedeesd,
+      <BR/>heeft haar snel veroverd, onbevreesd.
+      <BR/>
+      <BR/>Houd de pootjes snel bij alle weer
+      <BR/>in sterke laarzen van varkensleer
+      <BR/>houd ze soepel, zet ze goed in't vet
+      <BR/>zo heeft deze kat zijn vel gered.
+      <BR/>
+      <BR/>Een kanten sluier voor de lieve bruid,
+      <BR/>een bruidegom zo schone
+      <BR/>het lijkt of we dromen
+      <BR/>en dan komt het varken met de lange snuit
+      <BR/>en hiermee is ons verhaaltje uit.
+    </p>
+  </tekst>
+
+  <fotos>
+    <foto id="1979c-01" web="true">
+      <personen>
+        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>Lif Verbeeck</naam>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979c-02" web="true">
+      <personen>
+        <naam>Lif Verbeeck</naam>
+        <naam>Paul Ruys</naam>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979c-03" web="true">
+      <personen>
+      </personen>
+    </foto>
+
+    <foto id="1979c-04" web="true">
+      <personen>
+        <naam>Joos Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979c-05" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979c-06" web="true">
+      <personen>
+        <naam>Joos Janssens</naam>
+        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979c-07" web="true">
+      <personen>
+        <naam>Hilde Noppe</naam>
+        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979c-08" web="true">
+      <personen>
+        <naam>Andr@eacute; Vloeberghs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979c-09" web="true">
+      <personen>
+        <naam>Francis Theuns</naam>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979c-10" web="true">
+      <personen>
+        <naam>Francis Theuns</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979c-11" web="true">
+      <personen>
+        <naam>Paul Ruys</naam>
+        <naam>Francis Theuns</naam>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979c-12" web="true">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979c-13" web="true">
+      <personen>
+      </personen>
+    </foto>
+
+    <foto id="1979c-14" web="true">
+      <personen>
+        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>Paul Ruys</naam>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979c-15" web="true">
+      <personen>
+        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979c-16" web="true">
+      <personen>
+        <naam>Elke Jordan</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Lif Verbeeck</naam>
+        <naam>Herman Nijs</naam>
+        <naam>Herman Jacobs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979c-17" web="true">
+      <personen>
+        <naam>Herman Jacobs</naam>
+        <naam>Greet Jacobs</naam>
+        <naam>Hilde Noppe</naam>
+      </personen>
+    </foto>
+
+    <foto id="1979c-18" web="true">
+      Han
+    </foto>
+  </fotos>
+</productie>

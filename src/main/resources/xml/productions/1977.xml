@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1977" jaar="1977" titel="Mijnheer van Zwijnendonck">
+
+  <korte-beschrijving>
+    Stuk van Moli@egrave;re in een regie van Lif Verbeeck.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+      Cornelis Van Zwijnendonck is speciaal van Den Haag naar Antwerpen
+      gekomen om kennis te maken met zijn bruid Julia, de dochter van de
+      rijke burger van Os, die hem zorgvuldig voor haar heeft uitgezocht.
+    </p>
+
+    <p>
+      Wat hij niet weet is dat Julia in het geheim verloofd is met
+      Eduard en dat ze samen met hun vrienden Selmi en N@eacute;rinne
+      voor onze hollander een warme ontvangst voorbereid hebben. Met een
+      aantal kornuiten houden ze zich gereed om met allerlei <I>intriges en
+      valstrikken
+    </I> de huwelijkskandidaat en de hardvochtige vader tot
+      andere gedachten te brengen.
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Zaterdag 21 mei 1977</opvoering>
+    <opvoering>Zondag 22 mei 1977</opvoering>
+    <opvoering>In totaal 10 opvoeringen</opvoering>
+  </opvoeringen>
+
+  <plaats>Oude Pastorij Essen</plaats>
+
+  <acteurs>
+    <acteur rol="MIJNHEER VAN ZWIJNENDONCK" naam="Joos Janssens"></acteur>
+    <acteur rol="SCELMI" naam="Andr@eacute; Vloeberghs">de intrigant</acteur>
+    <acteur rol="N@Eacute;RINNE" naam="Kristin Verbeeck">de intrigante</acteur>
+    <acteur rol="VAN OS" naam="Jef Brosens">de rijke vader</acteur>
+    <acteur rol="JULIA" naam="Lif Verbeeck">de dochter</acteur>
+    <acteur rol="EDUARD" naam="Paul Ruys">de geliefde van Julia</acteur>
+    <acteur rol="1STE DOKTER" naam="Guy Noppe"/>
+    <acteur rol="2DE DOKTER" naam="Sonja Leenknecht"/>
+    <acteur rol="APOTHEKER" naam="Cit Peeters"/>
+    <acteur rol="KLANT" naam="Cit Peeters"/>
+    <acteur rol="KLANT" naam="Guy Noppe"/>
+    <acteur rol="ADVOCAAT" naam="Sonja Leenknecht"/>
+    <acteur rol="ADVOCAAT" naam="Guy Noppe"/>
+    <acteur rol="FIGURANT" naam="Kristin Verbeeck"/>
+    <acteur rol="FIGURANT" naam="Elke Jordan"/>
+    <acteur rol="GERECHTSDIENAAR" naam="Cit Peeters"></acteur>
+    <acteur rol="LUCETTE" naam="Sonja Focketyn">volksvrouw</acteur>
+    <acteur rol="MUZIKANT" naam="Hilde Noppe">gitaar</acteur>
+    <acteur rol="MUZIKANT" naam="Wolf Jordan">fluit</acteur>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Lif Verbeeck</naam>
+    </taak>
+    <taak beschrijving="Voorzegger">
+      <naam>Elke Jordan</naam>
+    </taak>
+    <taak beschrijving="Kostuums, grime">
+      <naam>*Het vrouwvolk</naam>
+    </taak>
+    <taak beschrijving="Decors">
+      <naam>*Het mansvolk</naam>
+    </taak>
+    <taak beschrijving="Affiche, fotos, drukwerk">
+      <naam>Marc Baetens</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Moli@egrave;re</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+    <H2>Uit het programmaboekje</H2>
+    <p>
+      <B>POUR LE DIVERTISSEMENT DU ROI</B>
+    </p>
+    <p>
+      Sire,
+    </p>
+    <p>
+      Vanavond zullen mijn komedianten voor Uwe Majesteit deze eerder
+      korte, maar dan wel bijzonder pittige komedie op de planken
+      brengen.
+    </p>
+    <p>
+      Ik heb dit stuk in @eacute;@eacute;n adem geschreven en daarom
+      eis ik dat mijn komedianten het ook in @eacute;@eacute;n
+      adem voor Uwe Majesteit opvoeren.
+    </p>
+    <p>
+      Wat de verstaanbaarheid betreft: de Heer W.F.Veltman heeft mijn
+      komedie zo prachtig in Uw landstaal omgezet, dat er geen
+      enkele pointe van de oorspronkelijke Franse versie is verloren
+      gegaan.
+    </p>
+    <p>
+      De muziek voor de serenade en het slotlied is ontleend aan de
+      componisten John Dowland en Martini.
+    </p>
+  </tekst>
+
+  <fotos>
+    <foto id="1977-01" web="true">
+      <personen>
+        <naam>Jef Brosens</naam>
+        <naam>Joos Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1977-02" web="true">
+      <personen>
+      </personen>
+    </foto>
+
+    <foto id="1977-03" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="1977-04" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Joos Janssens</naam>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1977-05" web="true">
+      <personen>
+        <naam>Joos Janssens</naam>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="1977-06" web="true">
+      <personen>
+        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>Joos Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1977-07" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Joos Janssens</naam>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1977-08" web="true">
+      <personen>
+        <naam>Paul Ruys</naam>
+        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1977-09" web="true">
+      <personen>
+        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>Joos Janssens</naam>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="1977-10" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Joos Janssens</naam>
+        <naam>Sonja Leenknecht</naam>
+      </personen>
+    </foto>
+
+    <foto id="1977-11" web="true">
+      <personen>
+      </personen>
+    </foto>
+
+    <foto id="1977-12" web="true">
+      <personen>
+        <naam>Lif Verbeeck</naam>
+        <naam>Jef Brosens</naam>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="1977-13" web="true">
+      <personen>
+        <naam>Lif Verbeeck</naam>
+        <naam>Jef Brosens</naam>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="1977-14" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+        <naam>Sonja Focketyn</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Paul Ruys</naam>
+        <naam>Lif Verbeeck</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>Elke Jordan</naam>
+        <naam>Jef Brosens</naam>
+      </personen>
+    </foto>
+  </fotos>
+</productie>

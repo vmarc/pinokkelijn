@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1990a" jaar="1990" titel="Het dievenbal">
+
+  <korte-beschrijving>
+    Een wervelende, lichtvoetige komedie van Jean Annouilh in een regie van Paul Ruys.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+      Uit de aankondiging:
+    </p>
+
+    <p>
+      Kom en zie hoe grote en kleine dieven de show proberen te stelen,
+      hoe sommige personages constant hun gezicht verliezen en wie
+      er eigenlijk bij de neus genomen wordt!
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>17 maart 1990</opvoering>
+    <opvoering>2 opvoeringen</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <acteurs>
+    <acteur rol="MADAME DE WINTER" naam="Lieve Frateur"/>
+    <acteur rol="EDGARD WIRTZ" naam="Cit Peeters"/>
+    <acteur rol="EVA" naam="Lies Nijs">nichtje</acteur>
+    <acteur rol="JULIE" naam="Katrijn Janssens">nichtje</acteur>
+    <acteur rol="MARCEL" naam="Seppe Hertogs">dief</acteur>
+    <acteur rol="PATRICK" naam="Bart Meukens">dief</acteur>
+    <acteur rol="PETER" naam="Luc Brosens">dief</acteur>
+    <acteur rol="POLITIEMAN" naam="Ren@eacute; Fret"/>
+    <acteur rol="POLITIEMAN" naam="Han Ruys"/>
+    <acteur rol="POLITIEMAN" naam="Paul Ruys"/>
+    <acteur rol="DUPONT-DUFORT SENIOR" naam="Guy Noppe">bankier</acteur>
+    <acteur rol="DUPONT-DUFORT JUNIOR" naam="Werner Janssens">bankier</acteur>
+    <acteur rol="HET KLEINE MEISJE" naam="Elke Ruys"/>
+    <acteur rol="DE DETECTIVE" naam="Ren@eacute; Fret"/>
+    <acteur rol="DE SAXOFONISTE" naam="Ria Veris"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Paul Ruys</naam>
+    </taak>
+    <taak beschrijving="Voorzegger">
+      <naam>Richard Van Roey</naam>
+    </taak>
+    <taak beschrijving="Decorontwerp">
+      <naam>Ivo Nijs</naam>
+    </taak>
+    <taak beschrijving="Kostuums">
+      <naam>Marianne Verbeeck</naam>
+      <naam>Gilberte Bisschops</naam>
+      <naam>Annie Vanderzypen</naam>
+    </taak>
+    <taak beschrijving="Geluid">
+      <naam>Joris Verbeeck</naam>
+      <naam>Andr@eacute; Dillen</naam>
+    </taak>
+    <taak beschrijving="Licht">
+      <naam>Marc Vergouwen</naam>
+    </taak>
+    <taak beschrijving="Affiche">
+      <naam>Carla Mennes</naam>
+    </taak>
+    <taak beschrijving="Advies">
+      <naam>Frank Focketyn</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Jean Anouilh</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+    <H2>Over de auteur en het stuk</H2>
+
+    <p>
+      Jean Anouilh schreef "Le Bal des Voleurs" in 1932. Hij noemde
+      het een "com@eacute;die-ballet". Het stuk speelde zich
+      oorspronkelijk af in het decor van een kuuroord uit de vorige eeuw.
+    </p>
+
+    <p>
+      De regisseur heeft de handeling verplaatst naar een
+      Belgische badstad van onze tijd, omwille van de herkenbaarheid.
+    </p>
+
+    <p>
+      De essentie van het stuk is niet veranderd. De personages - die
+      soms aan stripfiguren doen denken - spelen hun groteske spelletjes
+      en verbergen zich achter een masker of een rol. Alleen de kleine
+      Julie blijft zichzelf en vindt het geluk in de liefde...
+    </p>
+  </tekst>
+
+
+  <fotos>
+    <foto id="1990a-01" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-02" web="true">
+      <personen>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-03" web="true">
+      <personen>
+        <naam>Lieve Frateur</naam>
+        <naam>Lies Nijs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-04" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-05" web="true">
+      <personen>
+        <naam>Bart Meukens</naam>
+        <naam>Seppe Hertogs</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-06" web="true">
+      <personen>
+        <naam>Bart Meukens</naam>
+        <naam>Seppe Hertogs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-07" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+        <naam>Lieve Frateur</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-08" web="true">
+      <personen>
+        <naam>Lieve Frateur</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-09" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-10" web="true">
+      <personen>
+        <naam>Katrijn Janssens</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-11" web="true">
+      <personen>
+        <naam>Katrijn Janssens</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-12" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Katrijn Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-13" web="true">
+      <personen>
+        <naam>Katrijn Janssens</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-14" web="true">
+      <personen>
+        <naam>Katrijn Janssens</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-15" web="true">
+      <personen>
+        <naam>Katrijn Janssens</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-16" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-17" web="true">
+      <personen>
+        <naam>Lieve Frateur</naam>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-18" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Katrijn Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-19" web="true">
+      <personen>
+        <naam>Katrijn Janssens</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-20" web="true">
+      <personen>
+        <naam>Bart Meukens</naam>
+        <naam>Lies Nijs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-21" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-22" web="true">
+      <personen>
+        <naam>Katrijn Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-23" web="true">
+      <personen>
+        <naam>Lies Nijs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-24" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Werner Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-25" web="true">
+      <personen>
+        <naam>Werner Janssens</naam>
+        <naam>Guy Noppe</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-26" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Werner Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-27" web="true">
+      <personen>
+        <naam>Werner Janssens</naam>
+        <naam>Guy Noppe</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-28" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Werner Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-29" web="true">
+      <personen>
+        <naam>Werner Janssens</naam>
+        <naam>Guy Noppe</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-30" web="true">
+      <personen>
+        <naam>Lies Nijs</naam>
+        <naam>Katrijn Janssens</naam>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-31" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-32" web="true">
+      <personen>
+        <naam>Katrijn Janssens</naam>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-33" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+        <naam>Guy Noppe</naam>
+        <naam>Werner Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-34" web="true">
+      <personen>
+        <naam>Ren@eacute; Fret</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-35" web="true">
+      <personen>
+        <naam>Katrijn Janssens</naam>
+        <naam>Elke Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-36" web="true">
+      <personen>
+        <naam>Katrijn Janssens</naam>
+        <naam>Lies Nijs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-37" web="true">
+      <personen>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-38" web="true">
+      <personen>
+        <naam>Seppe Hertogs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-39" web="true">
+      <personen>
+        <naam>Seppe Hertogs</naam>
+        <naam>Bart Meukens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-40" web="true">
+      <personen>
+        <naam>Bart Meukens</naam>
+        <naam>Lies Nijs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1990a-41" web="true">
+      <personen>
+        <naam>Lies Nijs</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Lieve Frateur</naam>
+      </personen>
+    </foto>
+  </fotos>
+</productie>

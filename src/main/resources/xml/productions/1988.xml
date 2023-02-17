@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1988" jaar="1988" titel="Drie maal verkocht">
+
+  <korte-beschrijving>
+    Komedie in drie delen van het bekende Franse
+    schrijversduo P.Barillet en J.P.Gr@eacute;dy.
+  </korte-beschrijving>
+
+  <beschrijving>
+
+    <p>
+      Een benedenwoning met tuin in een oud herenhuis in de gegoede
+      Parijse buurt. Hier maken we kennis met Charlotte en Maurice,
+      die bezig zijn hun spullen in te pakken en te verhuizen.
+    </p>
+
+    <p>
+      Twintig jaar lang hebben zij tussen deze muren lief en leed gedeeld...
+      Andere kopers dagen op. Wie zal van deze kale kamers opnieuw
+      een gezellig nestje maken? Het vlotte stel Bob en Jessica,
+      geflankeerd door de excentrieke Betty? De schuchtere Ir@egrave;ne
+      met haar Jo@euml;l?
+    </p>
+
+    <p>
+      Of moeten we wachten op de schilder, die
+      alles gladstrijkt met zijn penseel?
+    </p>
+
+    <p>
+      <BR/>@nbsp;@nbsp;@nbsp;@nbsp; - De schemerlamp (regie Richard Van Roey)
+      <BR/>@nbsp;@nbsp;@nbsp;@nbsp; - Betty Boop (regie Paul Ruys)
+      <BR/>@nbsp;@nbsp;@nbsp;@nbsp; - Toreador (regie Paul Ruys)
+    </p>
+
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>12 maart 1988</opvoering>
+    <opvoering>2 opvoeringen</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <acteurs>
+    <!-- de schemerlamp -->
+
+    <acteur rol="CHARLOTTE" naam="Mieke Moons"/>
+    <acteur rol="MAURICE" naam="Cit Peeters"/>
+    <acteur rol="VERHUIZER" naam="Kris Verellen"/>
+    <acteur rol="VERHUIZER" naam="Rudi Berte"/>
+
+    <!-- Betty Boop -->
+
+    <acteur rol="BETTY" naam="Carla Mennes"/>
+    <acteur rol="BOB" naam="Seppe Hertogs"/>
+    <acteur rol="JESSICA" naam="Marianne Verbeeck"/>
+    <acteur rol="MAKELAAR" naam="Guy Noppe"/>
+
+    <!-- Toreador -->
+
+    <acteur rol="IR@Egrave;NE" naam="Rita Blommaert"/>
+    <acteur rol="SCHILDER" naam="Richard Van Roey"/>
+    <acteur rol="JO@Euml;L" naam="Kris Verellen"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie - De Schemerlamp">
+      <naam>Richard Van Roey</naam>
+    </taak>
+    <taak beschrijving="Regie - Betty Boop">
+      <naam>Paul Ruys</naam>
+    </taak>
+    <taak beschrijving="Regie - Toreador">
+      <naam>Paul Ruys</naam>
+    </taak>
+    <taak beschrijving="Techniek">
+      <naam>Gilberte Bisschops</naam>
+      <naam>Luc Brosens</naam>
+      <naam>Ren@eacute; Fret</naam>
+      <naam>Seppe Hertogs</naam>
+      <naam>Cit Peeters</naam>
+      <naam>Francis Theuns</naam>
+      <naam>Kristin Verbeeck</naam>
+      <naam>Marc Vergouwen</naam>
+    </taak>
+    <taak beschrijving="Kostuums">
+      <naam>Carla Mennes</naam>
+    </taak>
+    <taak beschrijving="Affiche">
+      <naam>Francis Theuns</naam>
+    </taak>
+    <taak beschrijving="Organisatie en co@ouml;rdinatie">
+      <naam>Kristin Verbeeck</naam>
+      <naam>Gilberte Bisschops</naam>
+    </taak>
+    <taak beschrijving="Auteurs">
+      <naam>*P. Barillet en J.P. Gr@eacute;dy</naam>
+    </taak>
+    <taak beschrijving="Vertaling">
+      <naam>*Karel Van Bosheim</naam>
+    </taak>
+  </taken>
+
+  <fotos>
+    <foto id="1988-01" web="true">
+      <personen>
+        <naam>Seppe Hertogs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-02" web="true">
+      <personen>
+        <naam>Seppe Hertogs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-03" web="true">
+      <personen>
+        <naam>Seppe Hertogs</naam>
+        <naam>Carla Mennes</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-04" web="true">
+      <personen>
+        <naam>Seppe Hertogs</naam>
+        <naam>Carla Mennes</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-05" web="true">
+      <personen>
+        <naam>Seppe Hertogs</naam>
+        <naam>Carla Mennes</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-06" web="true">
+      <personen>
+        <naam>Seppe Hertogs</naam>
+        <naam>Carla Mennes</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-07" web="true">
+      <personen>
+        <naam>Seppe Hertogs</naam>
+        <naam>Marianne Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-08" web="true">
+      <personen>
+        <naam>Carla Mennes</naam>
+        <naam>Marianne Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-09" web="true">
+      <personen>
+        <naam>Carla Mennes</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-10" web="true">
+      <personen>
+        <naam>Carla Mennes</naam>
+        <naam>Marianne Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-11" web="true">
+      <personen>
+        <naam>Carla Mennes</naam>
+        <naam>Marianne Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-12" web="true">
+      <personen>
+        <naam>Seppe Hertogs</naam>
+        <naam>Marianne Verbeeck</naam>
+        <naam>Carla Mennes</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-13" web="true">
+      <personen>
+        <naam>Carla Mennes</naam>
+        <naam>Marianne Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-14" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Seppe Hertogs</naam>
+        <naam>Marianne Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-15" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Marianne Verbeeck</naam>
+        <naam>Seppe Hertogs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-16" web="true">
+      <personen>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-17" web="true">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Kris Verellen</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-18" web="true">
+      <personen>
+        <naam>Kris Verellen</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-19" web="true">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-20" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-21" web="true">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-22" web="true">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-23" web="true">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Kris Verellen</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-24" web="true">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-25" web="true">
+      <personen>
+        <naam>Kris Verellen</naam>
+        <naam>Rudi Berte</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-26" web="true">
+      <personen>
+        <naam>Kris Verellen</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-27" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-28" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-29" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-30" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-31" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+        <naam>Mieke Moons</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-32" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-33" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-34" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+        <naam>Mieke Moons</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-35" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-36" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-37" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+        <naam>Cit Peeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1988-38" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+        <naam>Mieke Moons</naam>
+      </personen>
+    </foto>
+  </fotos>
+</productie>

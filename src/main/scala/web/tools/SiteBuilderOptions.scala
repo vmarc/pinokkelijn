@@ -5,7 +5,7 @@ import web.domain.Photo
 import web.domain.Production
 
 case class SiteBuilderOptions(
-  xmlDir: String = "/home/marcv/wrk/projects3/web/wrk/xml",
+  xmlDir: String = "/home/marcv/wrk/projects1/pinokkelijn/src/main/resources/xml",
   sourceDir: String = "/home/marcv/svn/projects/web",
   stagingDir: String = "/home/marcv/wrk/web/staging",
   target: String = "web",

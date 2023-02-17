@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1976b" jaar="1976" titel="Een vleugje lente">
+
+  <korte-beschrijving>
+    Blijspel in drie bedrijven van Peter Coke in een regie van Paul Ruys.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+      Lady B@eacute;atrice, een adelijke dame verhuurt kamers.
+      De huurders: juffrouw Nanette Parry: de kordate spraaklerares,
+      juffrouw Hatfield, een bizar en zenuwachtig vrouwtje en de
+      gepensioneerde Bertie, treffen elkaar in de huiskamer van
+      Lady B@eacute;atrice.
+    </p>
+    <p>
+      Verder is er ook nog Lady Alice Miller, de boezemvriendin
+      van B@eacute;atrice en het dienstmeisje Lily, die na drie
+      jaar gevangenis wegens diefstal, door Lady B@eacute;atrice
+      in dienst werd genomen.
+    </p>
+    <p>
+      Dit stuk "<I>Breath of spring</I>" werd geschreven door de
+      Engelse auteur Peter Coke. Het werd vertaald door Wim Kubbinga
+      onder de titel "<I>Ping zei de klok</I>". Pinokkelijn koos
+      voor een meer letterlijke vertaling van de oorspronkelijke
+      titel, vandaar: "<I>Een vleugje lente</I>".
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>premiere:18 december 1976</opvoering>
+    <opvoering>3 opvoeringen</opvoering>
+  </opvoeringen>
+
+  <plaats>2x Gildenhuis Essen 1x Kalmthout</plaats>
+
+  <acteurs>
+    <acteur rol="LADY B@Eacute;ATRICE" naam="Lif Verbeeck"/>
+    <acteur rol="LADY ALICE MILLER" naam="Sonja Leenknecht"/>
+    <acteur rol="BERTIE" naam="Guy Janssens">de kolonel</acteur>
+    <acteur rol="NANETTE PARRY" naam="Greet Van Ael"/>
+    <acteur rol="ELISABETH HATFIELD" naam="Carla Mennes"/>
+    <acteur rol="LILY THOMSON" naam="Myriam Van Hille">het dienstmeisje</acteur>
+    <acteur rol="INSPECTEUR PAPE" naam="Jef Brosens"/>
+    <acteur rol="AGENT" naam="Fons Janssens"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Paul Ruys</naam>
+    </taak>
+    <taak beschrijving="Voorzegger">
+      <naam>Chris Hontel@eacute;</naam>
+      <naam>Liliane De Cock</naam>
+    </taak>
+    <taak beschrijving="Decor en grafiek">
+      <naam>Joos Janssens</naam>
+      <naam>Marc Baetens</naam>
+    </taak>
+    <taak beschrijving="Grime">
+      <naam>Yolande Verbeeck</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Peter Coke</naam>
+    </taak>
+    <taak beschrijving="Vertaling">
+      <naam>*Wim Kubinga</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+    <H2>De regisseur over het stuk</H2>
+    <p>
+      Ouder wordende mensen beginnen vaak te piekeren: ze zien het niet meer
+      zitten, ze laten zich uitbollen zonder zich nog druk te maken.
+    </p>
+    <p>
+      Peter Coke schreef dit stuk over een dame die toont dat het ook anders
+      kan: Lady B@eacute;atrice Appleby.
+    </p>
+    <p>
+      Toen ze jong was heeft zij gevochten voor het vrouwenkiesrecht, zij
+      was vol vitaliteit en engagement.
+    </p>
+    <p>
+      Nu (kort na W.O.2) is zij oud maar zij heeft nog niets van haar
+      oorspronkelijke <I>vitaliteit</I> verloren.
+    </p>
+    <p>
+      Zij heeft het dienstmeisje Lily aangenomen en deze hierdoor uit de
+      miserie gehaald. Ze gebruikt nog <I>vrouwelijke charmes</I> als het er op
+      aankomt kolonel Bertie te verleiden, al moet zij hier concurreren
+      met haar boezemvriendin, de meer frivole Lady Alice: zij bezielt
+      nog haar medebewoonsters Hatfield en Nanette als deze zich mee in
+      een voor hen <I>beangstigend avontuur</I> storten en zij is nog vindingrijk
+      genoeg om de jonge onervaren inspecteur Pape te misleiden.
+    </p>
+    <p>
+      Met @eacute;@eacute;n zaak heeft B@eacute;atrice wel geluk: <I>toen waren er
+      nog domme inspecteurs</I>.
+    </p>
+    <p>
+      <B>Paul Ruys</B>
+    </p>
+  </tekst>
+
+
+  <tekst>
+    <H2>Ook gevonden in het programmaboekje</H2>
+
+    <!--  TODO css toevoegen voor plaatsen namen links en tekst rechts -->
+
+    <p>Paul Ruys
+      <span>Toneelspelen, regisseren en vooral <I>nakaarten</I> ligt hem zeer aan het hart. Hij is zeer toegewijd.
+      </span>
+    </p>
+    <p>Guy Janssens
+      <span>Zelfs met 20% van zijn degelijkheid reeds een <I>betrouwbaar</I> speler.
+      </span>
+    </p>
+    <p>Sonja Leenknecht
+      <span>Het temperament van een Russiche moeder en ondanks een Nederlandse vader toch niet zuinig op haar <I>
+        charmes</I>.
+      </span>
+    </p>
+    <p>Lif Verbeeck
+      <span>Voor haar spreekwoordelijke <I>slordigheid</I> is op het toneel niets meer te zien.
+      </span>
+    </p>
+    <p>Greet Van Ael
+      <span>Zodra zij het ideale <I>recept</I> voor haar rol ontdekt heeft moet zij hem enkel nog maar met een beetje
+        peper af maken. De regisseur zal er het zout wel opdoen.
+      </span>
+    </p>
+    <p>Myriam Van Hille
+      <span>T'is jammer dat zij er drie jaar voor heeft moeten zitten eer ze ons stuk kon vervolledigen.</span>
+    </p>
+    <p>Carla Mennes
+      <span>Zij denkt dat ze voor een volgend stuk <I>geen tijd meer</I> zal kunnen vrij maken. Wij weten wel beter.
+      </span>
+    </p>
+    <p>Jef Brosens
+      <span>Mag nu eindelijk zijn boekje boven halen.  <I>Vijf dames tegelijk</I>, zou dat wel gaan?
+      </span>
+    </p>
+    <p>Fons Janssens
+      <span>De grote teleurstelling: zegt niets en <I>mag maar vijf minuten op</I>, naar't schijnt...
+      </span>
+    </p>
+  </tekst>
+
+  <fotos>
+    <foto id="1976b-01" web="true">
+      <personen>
+        <naam>Carla Mennes</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Guy Janssens</naam>
+        <naam>Greet Van Ael</naam>
+      </personen>
+    </foto>
+
+    <foto id="1976b-02" web="true">
+      <personen>
+        <naam>Greet Van Ael</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Guy Janssens</naam>
+        <naam>Lif Verbeeck</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Myriam Van Hille</naam>
+        <naam>Jef Brosens</naam>
+        <naam>Carla Mennes</naam>
+      </personen>
+    </foto>
+
+    <foto id="1976b-03" web="true">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Lif Verbeeck</naam>
+        <naam>Guy Janssens</naam>
+        <naam>Greet Van Ael</naam>
+      </personen>
+    </foto>
+
+    <foto id="1976b-04" web="true">
+      <personen>
+        <naam>Carla Mennes</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Jef Brosens</naam>
+        <naam>Guy Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1976b-05" web="true">
+      <personen>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Jef Brosens</naam>
+        <naam>Guy Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1976b-06" web="true">
+      <personen>
+        <naam>Lif Verbeeck</naam>
+        <naam>Guy Janssens</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Jef Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1976b-07" web="true">
+      <personen>
+        <naam>Lif Verbeeck</naam>
+        <naam>Sonja Leenknecht</naam>
+        <naam>Guy Janssens</naam>
+        <naam>Greet Van Ael</naam>
+        <naam>Carla Mennes</naam>
+      </personen>
+    </foto>
+  </fotos>
+</productie>

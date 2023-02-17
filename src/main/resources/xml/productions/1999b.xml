@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1999b" jaar="1999" titel="Smeergeld">
+
+  <korte-beschrijving>
+    Een rood-geel-zwarte komedie van Pierre Soetewey
+    in een regie van Walter Nelen.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p class="italic">
+      "De wereld is een varkenstrog, en wie het meest vreet heeft
+      ook het meest. Er is maar @eacute;@eacute;n probleem:
+      je moet bij de trog geraken"
+    </p>
+
+    <p>
+      Het heeft er alle schijn van dat minister Wevers deze levenswijsheid
+      in praktijk brengt: smeergeld, een villa aan de Azurenkust,...
+      het verhaal klinkt bekend.
+    </p>
+
+    <p>
+      Hij moet het opnemen tegen een callgirl en haar lijfwacht,
+      een europarlementslid en een onderzoeksrechter.
+    </p>
+
+    <p>
+      En de gewone man?
+    </p>
+
+    <p>
+      Die denkt er het zijne van!
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Zaterdag 11 dec 20:30</opvoering>
+    <opvoering>Zondag 12 dec 14:30</opvoering>
+    <opvoering>Vrijdag 17 dec 20:30</opvoering>
+    <opvoering>Zaterdag 18 dec 20:30</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <acteurs>
+    <acteur rol="WERNER WEVERS" naam="Werner Janssens">ex-minister</acteur>
+    <acteur rol="MALOU" naam="Marijke Schoeters">callgirl</acteur>
+    <acteur rol="ANDR@Eacute; DEVOOGDT" naam="Luc Brosens"></acteur>
+    <acteur rol="BERNADETTE" naam="Kristin Verbeeck">huishoudster</acteur>
+    <acteur rol="JAN" naam="Ren@eacute; Fret">bode van het parlement</acteur>
+    <acteur rol="GROSKES" naam="Cis Wagemakers">zware jongen</acteur>
+    <acteur rol="VERA DEJAEGHERE" naam="Eli Devos">onderzoeksrechter</acteur>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Walter Nelen</naam>
+    </taak>
+    <taak beschrijving="Voorzegger">
+      <naam>Gilberte Bisschops</naam>
+    </taak>
+    <taak beschrijving="Decorontwerp">
+      <naam>Walter Nelen</naam>
+    </taak>
+    <taak beschrijving="Technische assistentie">
+      <naam>Cit Peeters</naam>
+    </taak>
+    <taak beschrijving="Grime">
+      <naam>Linda Leys</naam>
+    </taak>
+    <taak beschrijving="Affiche en belichting">
+      <naam>Marc Vergouwen</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Pierre Soetewey</naam>
+    </taak>
+  </taken>
+
+
+  <tekst>
+    <h2>Lied</h2>
+    <p>Gevonden op de uitnodiging:</p>
+    <p class="centered-italic">
+      O dierbaar Belgi@euml; wie wil niet profiteren?
+      <br/>
+      Zelfs een minister is niet vies van wat zwart geld.
+      <br/>
+      Er valt hier altijd wel iets te arrangeren
+      <br/>
+      Als 't maar discreet gebeurt, dat is wat telt.
+      <br/>
+      Wij Belgen zwelgen in al onze schandalen,
+      <br/>
+      Naar buiten toe houden wij ons goed fatsoen.
+      <br/>
+      Vlaming of Waal heeft dezelfde idealen:
+      <br/>
+      't draait om seks, om macht en om de poen!
+      <br/>
+      Om seks, om macht en om de poen!
+      <br/>
+    </p>
+  </tekst>
+
+  <fotos>
+    <foto id="1999b-01" web="true">
+      <personen>
+        <naam>Ren@eacute; Fret</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-02" web="true">
+      <personen>
+        <naam>Werner Janssens</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Ren@eacute; Fret</naam>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-03" web="true">
+      <personen>
+        <naam>Ren@eacute; Fret</naam>
+        <naam>Werner Janssens</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-04" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-05" web="true">
+      <personen>
+        <naam>Ren@eacute; Fret</naam>
+        <naam>Cis Wagemakers</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-06">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Werner Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-07" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-08" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Werner Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-09">
+      <personen>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-10">
+      <personen>
+        <naam>Werner Janssens</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-11">
+      <personen>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-12" web="true">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-13" web="true">
+      <personen>
+        <naam>Ren@eacute; Fret</naam>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-14" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Werner Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-15">
+      <personen>
+        <naam>Werner Janssens</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-16" web="true">
+      <personen>
+        <naam>Marijke Schoeters</naam>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-17">
+      <personen>
+        <naam>Werner Janssens</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-18">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-19" web="true">
+      <personen>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-20" web="true">
+      <personen>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-21" web="true">
+      <personen>
+        <naam>Ren@eacute; Fret</naam>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-22" web="true">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Ren@eacute; Fret</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-23">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-24" web="true">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Werner Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-25">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Cis Wagemakers</naam>
+        <naam>Marijke Schoeters</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-26" web="true">
+      <personen>
+        <naam>Cis Wagemakers</naam>
+        <naam>Werner Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-27">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Cis Wagemakers</naam>
+        <naam>Werner Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-28" web="true">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-29">
+      <personen>
+        <naam>Ren@eacute; Fret</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-30">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-31" web="true">
+      <personen>
+        <naam>Ren@eacute; Fret</naam>
+        <naam>Marijke Schoeters</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Cis Wagemakers</naam>
+        <naam>Eli Devos</naam>
+        <naam>Werner Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1999b-32"/>
+  </fotos>
+</productie>

@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="2001b" jaar="2001" titel="Het huis van Bernarda Alba">
+
+  <korte-beschrijving>
+    Drama van Federico Garcia Lorca, over de vrouwen in de dorpen van Spanje, in een regie van Richard Van Roey.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <img class="right" src='2001b-1.jpg' style='margin:25px; margin-top:5px;' width='125' height='142'
+         alt="Lorca tekening"/>
+    <p>
+      Als de tweede man van Bernarda Alba sterft,
+      kondigt zij een rouwperiode af.
+    </p>
+    <p>
+      "In de acht jaren van rouw zal de lucht van de straat in dit
+      huis niet binnendringen. Wij zullen leven alsof de deuren en
+      ramen met bakstenen dichtgemetseld zijn."
+    </p>
+    <p>
+      Meedogenloos zal zij alle verlangens en gevoelens van haar dochters,
+      die mekaar het licht in de ogen niet funnen, in de kiem smoren. Zij
+      domineert en tiranniseert iedereen.
+    </p>
+    <p>
+      Tot de jongste dochter uitbreekt...
+    </p>
+
+    <img src='2001b-3.gif' width='388' height='326' alt="Lorca"/>
+
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>20 oktober 2001 20:30u (Zaterdag)</opvoering>
+    <opvoering>21 oktober 2001 20:30u (Zondag)</opvoering>
+    <opvoering>26 oktober 2001 20:30u (Vrijdag)</opvoering>
+    <opvoering>27 oktober 2001 20:30u (Zaterdag)</opvoering>
+    <opvoering>
+      <br/>
+      <a href="../../gildenhuis.html">Gildenhuis</a>, Stationsstraat 57, Essen
+      <br/>
+      <br/>
+    </opvoering>
+    <opvoering>26 januari 2002 20:15u (Zaterdag)</opvoering>
+    <opvoering>1 februari 2001 20:15u (Vrijdag)</opvoering>
+    <opvoering>2 februari 2001 20:15u (Zaterdag)</opvoering>
+    <opvoering>
+      <br/>
+      <a href="../../gloriant.html">Theaterstudio Gloriant</a>, Goethestraat 3, Antwerpen linkeroever
+      <br/>
+    </opvoering>
+  </opvoeringen>
+
+  <acteurs>
+    <acteur rol="BERNARDA ALBA" naam="Fannie Godefroit"/>
+    <acteur rol="MARIA JOSEFA" naam="Marie-Louise Gommeren"/>
+    <acteur rol="ANGUSTIAS" naam="Mieke de Lombaerde"/>
+    <acteur rol="MAGDALENA" naam="Krista Nuyten"/>
+    <acteur rol="AMELIA" naam="Karine Bergmans"/>
+    <acteur rol="MARTIRIO" naam="Kristien de Waal"/>
+    <acteur rol="ADELA" naam="Eli Devos"/>
+    <acteur rol="PONCIA" naam="Kristin Verbeeck"/>
+    <acteur rol="MEID" naam="Katleen Cr@eacute;"/>
+    <acteur rol="PRUDENCIA" naam="Rita Blommaert"/>
+  </acteurs>
+
+
+  <taken>
+    <taak beschrijving="Zang">
+      <naam>*Els Anthonissen</naam>
+      <naam>*Annie Witjes</naam>
+      <naam>Marcel Van Doren</naam>
+      <naam>*May Anthonissen</naam>
+      <naam>*Ellen Stijl</naam>
+      <naam>*Hilde Brosens</naam>
+      <naam>An Van Roey</naam>
+    </taak>
+    <taak beschrijving="Regie">
+      <naam>Richard Van Roey</naam>
+    </taak>
+    <taak beschrijving="Regie Assistentie">
+      <naam>Luc Brosens</naam>
+    </taak>
+    <taak beschrijving="Vertaling">
+      <naam>*Hugo Claus</naam>
+    </taak>
+
+    <taak beschrijving="Decor ontwerp">
+      <naam>*Hanneke van de Kerkhof</naam>
+    </taak>
+
+    <taak beschrijving="Decor uitvoering">
+      <naam>Luc Brosens</naam>
+      <naam>Marc Vergouwen</naam>
+      <naam>Ren@eacute; Fret</naam>
+      <naam>Cit Peeters</naam>
+    </taak>
+    <taak beschrijving="Kostuums ontwerp">
+      <naam>*Else Bogaerts</naam>
+    </taak>
+    <taak beschrijving="Kostuums uitvoering">
+      <naam>Kristin Verbeeck</naam>
+      <naam>Fannie Godefroit</naam>
+      <naam>Gilberte Bisschops</naam>
+      <naam>Rita Blommaert</naam>
+      <naam>Annemie van Sweefelt</naam>
+    </taak>
+    <taak beschrijving="Licht">
+      <naam>Walter Nelen</naam>
+      <naam>*Dirk Van Loon</naam>
+      <naam>Marc Vergouwen</naam>
+    </taak>
+    <taak beschrijving="Klank">
+      <naam>*Beno@#238;t Dobbelstein</naam>
+      <naam>Joris Verbeeck</naam>
+      <naam>B@eacute;atrice De Keyser</naam>
+    </taak>
+    <taak beschrijving="Affiche">
+      <naam>*Naar een tekening van Federico Garcia Lorca</naam>
+    </taak>
+    <taak beschrijving="Maaierslied">
+      <naam>*Pat Scheldeman (accordeon)</naam>
+      <naam>Paul Ruys</naam>
+      <naam>Werner Janssens</naam>
+      <naam>Edwin Tas</naam>
+      <naam>Ren@eacute; Fret</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+    <h2>Het huis</h2>
+
+    <p>
+      In het huis van <b>Bernarda Alba</b> heerst tucht, reinheid en fatsoen.
+    </p>
+    <p>
+      Als Bernarda voor de tweede maal weduwe wordt, kondigt zij
+      een rouwperiode van acht jaar af, zoals het iemand van haar stand betaamt.
+    </p>
+    <p>
+      Haar volwassen dochters zien daarmee hun hoop op een man vervliegen -
+      acht lange jaren zullen zij in het huis moeten leven alsof de ramen en deuren
+      zijn dichtgemetseld, naaiend aan een uitzet die ze nooit zullen gebruiken.
+      Alleen de oudste, bijna veertig al en lelijk, zal kunnen trouwen: zij
+      beschikt over de erfenis van haar vader, Bernardas eerste man.
+    </p>
+
+    <img class="left" src='2001b-2.jpg' width='125' height='142' alt="Lorca tekening"/>
+
+    <p>
+      's Nachts komt <b>Pepe el Romano</b>, de mooiste jongen van het
+      dorp, aan haar raam om haar het hof te maken. De nachten zijn heet
+      en alle dochters wakker, aangevreten door verlangen. De geheimen
+      van het huis hangen in de lucht, onzichtbaar voor Bernarda, die er
+      niets van weten wil, maar helder en klaar voor <b>Poncia</b>, de
+      huishoudster. De jaloezie van de gebochelde <b>Martirio</b> die
+      van Pepe el Romano houdt, de verliefdheid van de jongste dochter
+      <b>Adela</b>, die zich in het hooi aan hem geeft - gelaten ziet
+      Poncia de natuur zijn loop nemen. Vergeefs tracht zij Bernarda
+      de ogen te openen. Het is Martirio die tenslotte, in de verzengende
+      duisternis, Adela op weg naar haar geliefde betrapt en verraadt.
+    </p>
+    <p>
+      Een noodlottige afloop is het gevolg.
+    </p>
+  </tekst>
+
+  <tekst>
+    <H2>Over Lorca</H2>
+
+    <p>
+      Federico Garcia Lorca (1898-1936) was bij zijn leven al de
+      beroemdste dichter en toneeelschrijver van Spanje. Hij maakte
+      deel uit van een generatie schrijvers en kunstenaars die,
+      zoals zijn vriend Pablo Neruda later zou zeggen, voor een
+      schitterende wedergeboorte van de Spaanse creativiteit zorgde.
+    </p>
+    <p>
+      Te midden van zijn vrienden ontpopte Garcia Lorca zich als
+      een gepassioneerd zanger, schilder, pianist en sprankelende
+      gespreksgenoot. Maar in zijn hart bleef hij een diep gekweld
+      man. Hij stond weerloos in het leven, ook door het taboe op
+      zijn homosexualitieit.
+    </p>
+    <img class="left" src='2001b-4.gif' width='117' height='129' alt="Lorca"/>
+    <p>
+      In toenemende mate identificeerde hij
+      zich met het nietige, het verdrukte, het vertrapte. Lorca
+      keerde zich tegen ale vormen van totalitarisme, steunde in
+      1936 het Spaanse Volksfront en koos ook in zijn po@euml;zie de
+      kant van de armen en de kanslozen. Het was niet in de laatste
+      plaats daaraan toe te schrijven dat hij in 1936 in de buurt
+      van Granada door falangisten werd vermoord.
+    </p>
+    <p>
+      (Bron : Federico Garcia Lorca - biografie van Gibson).
+    </p>
+
+    <img src='2001b-5.gif' width='138' height='56' alt="Lorca"/>
+  </tekst>
+
+  <tekst>
+    <H2>Over het stuk</H2>
+
+    <img class="right" src='2001b-6.gif' width='241' height='312' alt="Lorca tekening"/>
+
+    <p>
+      Het kan geen toeval zijn geweest dat Lorca een stuk schreef
+      @quot;Het huis van Bernarda Alba@quot; met als thema despotisme,
+      in een tijd dat iedere Spanjaard op zijn vingers kon natellen
+      dat een rechtse staatsgreep een uiterst re@euml;le mogelijkheid
+      was.
+    </p>
+    <p>
+      <B>Bernarda</B>, met haar hypocrisie, haar strenge katholicisme
+      en haar vastbeslotenheid om de vrijheid van andere mensen te
+      onderdrukken, vertegenwoordigt een mentaliteit die de dichter
+      maar al te goed kende.
+    </p>
+    <p>
+      <B>Adela</B>
+      is ongetwijfeld de meest revolutionaire van alle vrouwen
+      die de stukken van Lorca bevolkten. Zij verwerpt de erecode
+      die is gebaseerd op het te allen tijde ophouden van de schijn,
+      en op de overtuiging dat mannen superieur zijn aan vrouwen.
+      Adela komt krachtig op voor haar absolute recht op een eigen
+      sexualiteit (@quot;Ik doe met mijn lichaam wat ik wil@quot;).
+    </p>
+
+    <img class="left" src='2001b-7.gif' width='150' height='158' alt="Lorca tekening"/>
+
+    <p>
+      @quot;Ik ben totaal Spaans, en het zou voor mij onmogelijk
+      zijn buiten mijn geografische begrenzingen te leven.
+      Tegelijkertijd haat ik iedereen die Spaans is, alleen omdat
+      hij als Spanjaard geboren is. Ik ben een broeder van alle
+      mensen en ik verafschuw de persoon die zichzelf opoffert
+      voor een abstract, nationalistisch ideaal alleen omdat hij
+      zijn land liefheeft met een blinddoek voor zijn ogen.
+      Een goed Chinees staat dichter bij mij dan een slechte
+      Spanjaard. Ik druk Spanje uit in mijn werk en voel haar tot
+      in het merg van mijn botten, maar eerst en vooral ben ik
+      kosmopoliet en broeder van allen@quot;.
+    </p>
+
+    <h2>Interview met regisseur Richard Van Roey in de Voorbode</h2>
+    <p>
+      <b>Het huis van Bernarda Alba</b>
+    </p>
+
+    <p>
+      <b>DV:</b>
+      Dit "vrouwen" toneel wordt geregisseerd door een man, wat was de reden voor de keuze van dit theaterstuk?
+    </p>
+
+    <p>
+      <b>Richard Van Roey:</b>
+      Ik wou dit stuk al in 1998 brengen naar aanleiding
+      van het honderste geboortejaar van Lorca. Het was echter niet eenvoudig om
+      voor dit stuk alle personages, tien vrouwen, in te vullen. De speelsters moeten
+      immers in dezelfde periode beschikbaar zijn, het was dus zoeken. De doorbraak
+      kwam na een gesprek met Fannie Godefroit, die graag een rol wou spelen in dit
+      stuk van Lorca.
+    </p>
+
+    <p>
+      <b>DV:</b>
+      De actrices zijn meesterlijk in hun rol, stuk voor stuk sterke personages in dit drama.
+    </p>
+    <p>
+      <b>Richard Van Roey:</b>
+      Vergeet niet dat we hieraan meer dan een jaar gewerkt
+      hebben. Het werd een gezellige samenhangende groep die tot het uiterste gegaan
+      is. Zij groeiden boven zichzelf uit. Het moet voor hen een geweldig gevoel
+      zijn om het publiek zo te kunnen boeien.
+    </p>
+
+    <p>
+      <b>DV:</b>
+      Dit stuk is af. Het decor, kleding, de belichting, muziek... alles is tot in de puntjes geregeld. Puur
+      professioneel.
+    </p>
+    <p>
+      <b>Richard Van Roey:</b>
+      We hebben ook hulp gekregen van jonge specialisten
+      op gebied van geluid en belichting. Het verplaatsbare decor liet ons toe
+      de sc@egrave;ne te verkleinen en de geslotenheid van Alba's huis te beklemtonen.
+    </p>
+
+    <p>
+      <b>DV:</b>
+      Spijtig genoeg geen volle zaal en zo een voorstelling kost voor een amateurgroep toch een pak geld?
+    </p>
+    <p>
+      <b>Richard Van Roey:</b>
+      In de eerste plaats is de groep blij dit stuk te kunnen
+      brengen, maar financieel is het voor Pinokkelijn een zware dobber. Er zijn heel
+      wat kaarten verkocht in voorverkoop. We verwachten dus nogal wat toeschouwers.
+      Maar ja, voor de mensen is er elk weekend in Essen wel wat te doen.
+    </p>
+    <p>
+      <b>DV:</b>
+      Zo veel inzet en klasse verdient een volle zaal. Dit stuk mag je niet missen.
+    </p>
+
+
+    <h1>Auditie</h1>
+
+    <p>
+      Na de (overigens bijzonder succesvolle) opvoeringen van
+      Het huis van Bernarda Alba blijven wij nog met enkele brandende vragen zitten.
+    </p>
+    <p>
+      Wie is eigenlijk die <b>Pepe El Romano</b>, waarvan voortdurend sprake
+      in het stuk?
+    </p>
+    <div>
+      <p>
+        Hij ziet hij eruit?
+      </p>
+      <p>
+        Wat drijft hem?
+      </p>
+      <p>
+        Hoe ervaart hij het als man als het halve dorp (de vrouwelijke helft),
+        en niet in het minst de dochters Alba, hartstochtelijk verliefd op hem
+        zijn?
+      </p>
+    </div>
+    <p>
+    </p>
+    <p>
+      Wij verdenken de regisseur
+      <a href="../../personen/RichardVanRoey.html">Richard Van Roey</a>
+      ervan de rol van <b>Pepe El Romano</b> opzettelijk uit het stuk
+      geschreven te hebben, zodat hij enkel nog de vrouwen overhield om mee
+      te spelen.
+    </p>
+    <p>
+      Bij wijze van protest hiertegen, en om de eer van de mannelijke
+      Pinokkelijners enigsinds te herstellen, hebben wij het idee opgevat
+      om de rol van <b>Pepe El Romano</b> terug in het stuk te schrijven, en
+      hem de meer prominente rol toe te delen, die hij ons inziens meer dan
+      verdient!
+    </p>
+
+    <p>
+      Gevraagd
+    </p>
+    <p>
+      Jong briljant viriel acteur, voor de rol van <b>Pepe El Romano</b>.
+    </p>
+    <p>
+      Overvloedig borsthaar en kunnen paardrijden strekken tot aanbeveling.
+    </p>
+    <p>
+      Kandidaten:
+    </p>
+
+    <img src="../../images/pepe1.jpg" width="140" height="180" alt="kandidaat 1"/>
+    <img src="../../images/pepe2.jpg" width="140" height="180" alt="kandidaat 2"/>
+    <img src="../../images/pepe3.jpg" width="140" height="180" alt="kandidaat 3"/>
+    <br/>
+
+    <p>
+      Stemmen
+    </p>
+    <p>Aantal stemmen uitgebracht tot op 26 Februari 2004:</p>
+    <p>Kandidaat 1:
+      <b>21</b>
+    </p>
+    <p>Kandidaat 2:
+      <b>17</b>
+    </p>
+    <p>Kandidaat 3:
+      <b>15</b>
+    </p>
+
+    <hr/>
+    <p>
+      Reacties
+    </p>
+    <hr/>
+    <p>
+      Nee, ik vind het absoluut niet nodig dat de mannelijke acteurs opgewaardeerd worden!
+      Ze krijgen zo al genoeg aandacht! En trouwens, verdienen ze die wel???
+    </p>
+    <p>
+      Allee, bekijk
+      nu die belachelijke kandidaten die hierboven staan. Als een van die drie zich durft
+      vertonen bij het huis van Bernarda, dan zal ik hem persoonlijk met de mattenklopper
+      wegjagen.
+    </p>
+    <p>
+      Vrouwen onder elkaar, dat is misschien ook niet altijd even plezant, maar
+      daar moet Pepe zich niet mee komen moeien. Maar als ik dan toch moet kiezen, dan
+      lijkt kandidaat twee het meest valabel. Ik denk dat hij blind is, en dus zal hij
+      niet naar de vrouwen kunnen kijken.
+    </p>
+    <p>
+      <b>Poncia</b>
+    </p>
+    <hr/>
+
+    <p>
+      Ik ben het er niet mee eens dat mannen meer aandacht moeten krijgen.
+    </p>
+    <p>
+      Die krijgen ze zo toch al genoeg of niet soms. Jaja het is weer een vrouw die dat zegt. Het klopt
+      dat een wereld met alleen vrouwen ook niet aan mij besteed zou zijn maar moeten de
+      mannen daarom altijd zichtbaar aanwezig zijn? Weten dat ze er zijn is toch al
+      genoeg? En hun afwezigheid maakt toch alleen maar het verlangen sterker? Waarom
+      zeuren ze dan?
+    </p>
+    <p>
+      Trouwens mijn Pepe El Romano zit niet bij deze kandidaten, ik zou hem
+      voor geen geld van de wereld met anderen delen.
+    </p>
+    <p>
+      Maar om de mannen niet nog eens in hun eer te krengen zal ik op alle drie mijn stem uitbrengen. Misschien vallen
+      ze in de smaak bij mijn zussen.
+    </p>
+    <p>
+      <b>Adela</b>
+    </p>
+    <hr/>
+
+
+  </tekst>
+
+  <fotos>
+    <foto id="2001b-001">
+      <personen>
+        <naam>Katleen Cr@eacute;</naam>
+        <naam>Gilberte Bisschops</naam>
+        <naam>Annemie van Sweefelt</naam>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-002" web="true">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Katleen Cr@eacute;</naam>
+        <naam>Mieke de Lombaerde</naam>
+        <naam>Eli Devos</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Marie-Louise Gommeren</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-003">
+      <personen>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-004" web="true">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-005" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-006" web="true">
+      <personen>
+        <naam>Krista Nuyten</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-007">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Karine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-008" web="true">
+      <personen>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-009" web="true">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-010">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-011" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-012">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-013">
+      <personen>
+        <naam>Annemie van Sweefelt</naam>
+        <naam>Eli Devos</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Mieke de Lombaerde</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-014" web="true">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Mieke de Lombaerde</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-015">
+      <personen>
+        <naam>Krista Nuyten</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-016">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-017">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-018">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-019" web="true">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-020">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-021" web="true">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-022">
+      <personen>
+        <naam>Katleen Cr@eacute;</naam>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-023" web="true">
+      <personen>
+        <naam>Marie-Louise Gommeren</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-024" web="true">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-025">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-026" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Katleen Cr@eacute;</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Mieke de Lombaerde</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Eli Devos</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-027">
+      <personen>
+        <naam>B@eacute;atrice De Keyser</naam>
+        <naam>Paul Ruys</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Walter Nelen</naam>
+        <naam>Marc Vergouwen</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-027a" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>B@eacute;atrice De Keyser</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-028" web="true">
+      <personen>
+        <naam>An Van Roey</naam>
+        <naam>Annemie van Sweefelt</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-029" web="true">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-030">
+      <personen>
+        <naam>Katleen Cr@eacute;</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-031">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Katleen Cr@eacute;</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-032" web="true">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Katleen Cr@eacute;</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-033">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Katleen Cr@eacute;</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-034">
+      <personen>
+        <naam>Katleen Cr@eacute;</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-035">
+      <personen>
+        <naam>Katleen Cr@eacute;</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-036" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Katleen Cr@eacute;</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-037">
+      <personen>
+        <naam>Katleen Cr@eacute;</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-038">
+      <personen>
+        <naam>Katleen Cr@eacute;</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-039" web="true">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Mieke de Lombaerde</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-040">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Annemie van Sweefelt</naam>
+        <naam>Katleen Cr@eacute;</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-041">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-042" web="true">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Mieke de Lombaerde</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-043" web="true">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-044" web="true">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-045">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-046" web="true">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-047">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-048" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Karine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-049" web="true">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-050" web="true">
+      <personen>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-051">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-052">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Karine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-052b" web="true">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Karine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-053">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-054" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Karine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-055">
+      <personen>
+        <naam>Karine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-056" web="true">
+      <personen>
+        <naam>Karine Bergmans</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-057">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-058" web="true">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-059" web="true">
+      <personen>
+        <naam>Krista Nuyten</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-060" web="true">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-061" web="true">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-062">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-063">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-064" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-065">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-066">
+      <personen>
+        <naam>Marie-Louise Gommeren</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-067" web="true">
+      <personen>
+        <naam>Marie-Louise Gommeren</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-068">
+      <personen>
+        <naam>Marie-Louise Gommeren</naam>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-069" web="true">
+      <personen>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-070">
+      <personen>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-071">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Krista Nuyten</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-072" web="true">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-073">
+      <personen>
+        <naam>Krista Nuyten</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-074">
+      <personen>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-075">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Karine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-076" web="true">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Krista Nuyten</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-077">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-078" web="true">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-079">
+      <personen>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-080" web="true">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-081" web="true">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-082">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-083">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-084">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-085" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-086">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-087">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-088" web="true">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-089" web="true">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-090">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-091">
+      <personen>
+        <naam>Krista Nuyten</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-092" web="true">
+      <personen>
+        <naam>Krista Nuyten</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-093">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Karine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-094">
+      <personen>
+        <naam>Karine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-095">
+      <personen>
+        <naam>Karine Bergmans</naam>
+        <naam>Eli Devos</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-096" web="true">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-097">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-098">
+      <personen>
+        <naam>Karine Bergmans</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-099">
+      <personen>
+        <naam>Karine Bergmans</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-100" web="true">
+      <personen>
+        <naam>Mieke de Lombaerde</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-101">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-102">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-103">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-104">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-105">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-106">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-107">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-108" web="true">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-109">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-110">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-111">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-112">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-113">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-114">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-115">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-116" web="true">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-117">
+      <personen>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-118">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-119">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-120" web="true">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-121" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Eli Devos</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Mieke de Lombaerde</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-122">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-123" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Krista Nuyten</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-124">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-125">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-126" web="true">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Mieke de Lombaerde</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-127">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-129">
+      <personen>
+        <naam>Krista Nuyten</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-130" web="true">
+      <personen>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-131">
+      <personen>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-132" web="true" fotograaf="Marijke Bisschops">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-133">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-134">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-135" web="true">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-136">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-137">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-138">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-139">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-140" web="true">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Katleen Cr@eacute;</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-141" web="true">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-142">
+      <personen>
+        <naam>Marie-Louise Gommeren</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-143">
+      <personen>
+        <naam>Marie-Louise Gommeren</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-144">
+      <personen>
+        <naam>Marie-Louise Gommeren</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-145">
+      <personen>
+        <naam>Marie-Louise Gommeren</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-146" web="true">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-147">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-148">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-149">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-150">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-151">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-152">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Mieke de Lombaerde</naam>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-153">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-154">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Karine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-155">
+      <personen>
+        <naam>Kristien de Waal</naam>
+        <naam>Mieke de Lombaerde</naam>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-156">
+      <personen>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-157">
+      <personen>
+        <naam>Eli Devos</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Karine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-158">
+      <personen>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-159" web="true"/>
+    <foto id="2001b-160">
+      <personen>
+        <naam>Fannie Godefroit</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Mieke de Lombaerde</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-161" web="true">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Katleen Cr@eacute;</naam>
+        <naam>Kristien de Waal</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-162">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Fannie Godefroit</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-163" web="true">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Rita Blommaert</naam>
+        <naam>Marie-Louise Gommeren</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Katleen Cr@eacute;</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Eli Devos</naam>
+        <naam>Mieke de Lombaerde</naam>
+        <naam>Annemie van Sweefelt</naam>
+        <naam>An Van Roey</naam>
+      </personen>
+    </foto>
+    <foto id="2001b-164">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Karine Bergmans</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Fannie Godefroit</naam>
+        <naam>Mieke de Lombaerde</naam>
+        <naam>Kristien de Waal</naam>
+        <naam>Eli Devos</naam>
+      </personen>
+    </foto>
+  </fotos>
+</productie>

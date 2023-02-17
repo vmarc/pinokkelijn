@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1984b" jaar="1984" titel="Regenwormen">
+
+  <korte-beschrijving>
+    Eenakter van Yvonne Keuls in een regie van Gerbrand Van Soom, gespeeld
+    bij het tienjarig bestaan van Pinokkelijn.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>31 maart 1984</opvoering>
+    <opvoering>1 december 1984 16:00u BGJB</opvoering>
+    <opvoering>16 december 1984 KAV Statie</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <acteurs>
+    <acteur rol="DE HEER SOETERING" naam="Fons Janssens"/>
+    <acteur rol="JUFFROUW EMMY MULLER" naam="Greet Van Ael"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Gerbrand Van Soom</naam>
+    </taak>
+    <taak beschrijving="Productie">
+      <naam>Kristin Verbeeck</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+    <H2>Fragment</H2>
+
+    <div class="fragment">
+      <p>
+        <span class="actor">SOETERING:</span>
+        <span class="text">
+          Juffrouw Muller, u moet niet meer zoveel rekening met mij
+          houden. Ik ben bijna genezen en ik moet proberen
+          zoveel mogelijk zelf te gaan doen.
+        </span>
+      </p>
+      <p>
+        <span class="actor">EMMY:</span>
+        <span class="text">
+          Maar, meneer, de dokter zei...
+        </span>
+      </p>
+      <p>
+        <span class="actor">SOETERING:</span>
+        <span class="text">
+          ... De dokter zei, dat ik mij in acht moest nemen, maar een
+          hartinfarct betekent niet dat ik voor de rest van mijn leven
+          invalide ben.
+        </span>
+      </p>
+      <p>
+        <span class="actor">EMMY:</span>
+        <span class="text">
+          U moet nog veel rusten.
+        </span>
+      </p>
+    </div>
+
+    <div class="fragment">
+      <p>
+        <span class="actor">SOETERING:</span>
+        <span class="text">
+          Nog wel... maar ik voel me alweer een stuk beter en het lijkt
+          me ook niet goed om de zaken ernstiger voor te stellen dan ze
+          zijn. Ik... ben u erg dankbaar.
+        </span>
+      </p>
+      <p>
+        <span class="actor">EMMY:</span>
+        <span class="text">
+          Ach, meneer...
+        </span>
+      </p>
+    </div>
+
+    <div class="fragment">
+      <p>
+        <span class="actor">EMMY:</span>
+        <span class="text">
+          Wat een zon, h@eacute;. En iedere dag maar weer. U boft met
+          deze tuin. U moet eens rekenen hoeveel mensen er op een flat
+          zitten... op een balkon, misschien nog wel op het noorden...
+          en alles is groen... de kamperfoelie is vroeg dit jaar.
+          Ruikt u de kamperfoelie?
+        </span>
+      </p>
+      <p>
+        <span class="actor">SOETERING:</span>
+        <span class="text">
+          Vandaar dat de regenwormen een grote rol spelen als verbeteraars
+          van de grond.
+        </span>
+      </p>
+      <p>
+        <span class="actor">EMMY:</span>
+        <span class="text">
+          Ik dacht alleen maar, dat ze de grond uit kwamen als je met
+          een stok ging pulken...
+        </span>
+      </p>
+    </div>
+
+    <div class="fragment">
+      <p>
+        <span class="actor">SOETERING:</span>
+        <span class="text">
+          Juffrouw Muller, ik heb u al eens eerder gevraagd of u niet
+          de hele dag op sloffen wilt lopen. Het maakt mij nerveus als
+          ik mensen niet kan horen aankomen. Bovendien: het is incorrect.
+        </span>
+      </p>
+    </div>
+
+    <div class="fragment">
+      <p>
+        <span class="actor">EMMY:</span>
+        <span class="text">
+          En met de anderen ben ik ook... bevriend geraakt. Tegen de tijd
+          dat ze weg gingen, kenden we elkaar door en door... noemden we
+          elkaar bij de naam en daarna belden ze me nog vaak op en ik ga
+          nog wel eens kijken bij ze... omdat we... bevriend zijn geraakt.
+          Zullen we elkaar bij de naam noemen?
+        </span>
+      </p>
+    </div>
+
+  </tekst>
+
+  <fotos>
+    <foto id="1984b-01" web="true">
+      <personen>
+        <naam>Greet Van Ael</naam>
+        <naam>Fons Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1984b-02" web="true">
+      <personen>
+        <naam>Greet Van Ael</naam>
+        <naam>Fons Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1984b-03" web="true">
+      <personen>
+        <naam>Greet Van Ael</naam>
+        <naam>Fons Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1984b-04" web="true"/>
+  </fotos>
+</productie>

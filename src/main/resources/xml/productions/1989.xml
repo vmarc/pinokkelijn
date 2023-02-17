@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1989" jaar="1989" titel="Een man voor alle getijden">
+
+  <korte-beschrijving>
+    Toneelspel van Robert Bolt in een regie van Stan Milbou.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>21 januari 1989 20:30</opvoering>
+    <opvoering>22 januari 1989 20:30</opvoering>
+    <opvoering>3 opvoeringen</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <acteurs>
+    <acteur rol="GEWONE MAN" naam="Kris Verellen"/>
+    <acteur rol="SIR THOMAS MORE" naam="Richard Van Roey"/>
+    <acteur rol="RICHARD RICH" naam="Waldo Van Turnhout"/>
+    <acteur rol="DE HERTOG VAN NORFOLK" naam="Cit Peeters"/>
+    <acteur rol="ALICE MORE" naam="Mieke Moons"/>
+    <acteur rol="MARGARET MORE" naam="Krista Nuyten"/>
+    <acteur rol="KARDINAAL WOLSEY" naam="Fons Janssens"/>
+    <acteur rol="THOMAS CROMWELL" naam="Guy Noppe"/>
+    <acteur rol="CHAPUYS" naam="Ren@eacute; Fret"/>
+    <acteur rol="WILLIAM ROPER" naam="Bart Meukens"/>
+    <acteur rol="KONING HENDRIK VIII" naam="Seppe Hertogs"/>
+    <acteur rol="EEN VROUW" naam="Kristin Verbeeck"/>
+    <acteur rol="CRANMER" naam="Gerbrand Van Soom"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Stan Milbou</naam>
+    </taak>
+    <taak beschrijving="Decor">
+      <naam>Kristin Verbeeck</naam>
+      <naam>Gilberte Bisschops</naam>
+      <naam>Cit Peeters</naam>
+      <naam>Ren@eacute; Fret</naam>
+      <naam>Luc Brosens</naam>
+    </taak>
+    <taak beschrijving="Kostuums">
+      <naam>Carla Mennes</naam>
+    </taak>
+    <taak beschrijving="Geluid">
+      <naam>Stan Milbou</naam>
+      <naam>Joris Verbeeck</naam>
+      <naam>Andr@eacute; Dillen</naam>
+    </taak>
+    <taak beschrijving="Licht">
+      <naam>Marc Vergouwen</naam>
+    </taak>
+    <taak beschrijving="Affiche">
+      <naam>Francis Theuns</naam>
+    </taak>
+    <taak beschrijving="Regie-assistentie, productieleiding">
+      <naam>Kristin Verbeeck</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Robert Bolt</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+    <H2>De regisseur over het stuk</H2>
+
+    <p>
+      Een stuk dat berust op feiten uit de geschiedenis, met
+      personages die bepaald worden door de positie en het
+      karakter van historische figuren.
+    </p>
+
+    <p>
+      Een museumstuk, compleet met decor, muziek en kostuums?
+      De weergave, de imitatie van hoe het toen was: net echt
+      zoals vroeger? Een ingeblikt document?
+    </p>
+
+    <p>
+      Wellicht interessant om afstandelijk en van op een afstand,
+      misschien met een glimlach, te bekijken. Maar voor een
+      goed stuk is dat toch te weinig.
+    </p>
+
+    <p>
+      De geschiedenis, het geschiedenisje, is misschien niet
+      meer dan een aanleiding, is zelfs noodzakelijk alleen maar
+      een kapstok om ook vandaag nog een jas aan te hangen.
+    </p>
+
+    <p>
+      In "Een man voor <B>alle</B> getijden" wordt die functie
+      in de titel al aangegeven. En dat slaat, voor mij, niet
+      alleen op de man die het slachtoffer wordt van zijn
+      eigen rechtgeaardheid, Thomas More. Er is in het hele
+      stuk niet @eacute;@eacute;n personage dat niet "van alle
+      tijden" zou zijn: Hendrik staat voor vele koninkjes (en
+      voor ieder die zich op zijn eigen terreintje als een
+      despoot gedraagt en voor zijn eigen macht of wellust
+      de spelregels naar zijn hand zet); ook ambitie - van alle
+      tijden; opportunisme, schijnheiligheid - dito; of de vriend
+      die niet sterk genoeg is, de reactionair niet mild, de
+      windvaan niet rijp; en wat van de kleine man die niet vies is
+      van kleine profijtjes?
+    </p>
+
+    <p>
+      Ze gaan hier voor de bijl.
+    </p>
+
+    <p>
+      Stan Milbou
+    </p>
+  </tekst>
+
+  <tekst>
+    <H2>De geschiedenis</H2>
+
+    <p>
+      DE GEBOORTE VAN EEN NIEUWE TIJD
+    </p>
+
+    <p>
+      De zestiende eeuw is in veel opzichten een keerpunt in de
+      geschiedenis. De oude wereld barst uit zijn voegen.
+    </p>
+
+    <p>
+      Uit de feodale verbrokkeling van de Middeleeuwen worden de
+      moderne Europese staten geboren.
+    </p>
+
+    <p>
+      Hendrik VIII, Frans I en Karel V versterken hun vorstelijke
+      positie ten opzichte van de adel en de Kerk.
+    </p>
+
+    <p>
+      Cultuur en wetenschap staan niet langer in dienst van de religie;
+      de nieuwe mens is zelfbewust, kritisch en nieuwsgierig. Grote
+      geleerden met internationale faam zoals Erasmus en Thomas More
+      dragen in hun geschriften het nieuwe gedachtengoed uit.
+    </p>
+
+    <p>
+      En de gewone man? Alle verworvenheden en vooruitgang ten spijt,
+      moet hij zoals steeds trachten te overleven, in honger, armoede,
+      oorlog, pest en ongeletterdheid.
+    </p>
+
+    <p>
+      ENGELAND EN DE TUDORS
+    </p>
+
+    <p>
+      In de vijftiende eeuw wordt Engeland verscheurd door de
+      Rozenoorlogen: de huizen van Lancaster en York betwisten
+      elkaar het koningsschap, en de adellijke rivaliserende
+      families moorden elkaar uit. Hendrik VII Tudor wordt eerder
+      toevallig koning (de kroon heeft hij op het slagveld uit een
+      doornstruik geplukt), en schept weer rust en orde in het land.
+    </p>
+
+    <p>
+      Zijn oudste zoon huwt de Spaanse prinses Catharina van Aragon,
+      maar sterft kort daarop. Hendrik volgt dan in 1509 zijn vader
+      op en trouwt met de weduwe van zijn broer, iets waarvoor toen
+      een speciale dispensatie van de paus nodig was.
+    </p>
+
+    <p>
+      HENDRIK VIII ALS JONGE KONING
+    </p>
+
+    <p>
+      Hendrik VIII is een echt renaissancevorst, cultuurminnend, zeer
+      begaafd, met een knap en rijzig figuur en zeer energiek. Hij is
+      echter ook grillig en onberekenbaar, wreed en verkwistend.
+      Tegenstanders worden ongenadig uit de weg geruimd als dat voor
+      zijn politieke of persoonlijke plannen nodig is. De adel vertrouwt
+      hij niet - de Rozenoorlogen liggen nog te vers in het geheugen - en
+      daarom omringt hij zich met raadgevers van burgerlijke komaf, die
+      zeer bekwaam zijn en de staat organiseren en besturen.
+    </p>
+
+    <p>
+      HET CONFLICT MET ROME
+    </p>
+
+    <p>
+      De grootste bekommernis van Hendrik is, dat Catharina hem geen
+      mannelijke troonopvolger kan schenken. Andere edelen, zoals de
+      zoon van de hertog van Norfolk, kunnen immers ook nog aanspraak
+      maken op de troon en na de dood van Hendrik zou de strijd om de
+      opvolging opnieuw losbarsten.
+    </p>
+
+    <p>
+      Een scheiding en een tweede huwelijk met Anna Boleyn lijkt de
+      aangewezen oplossing. Als de paus om politieke redenen zijn
+      toestemming weigert, breekt Hendrik met het pauselijk gezag
+      en vaardigt de Akte van Suprematie uit, die bepaalt dat de
+      koning het hoofd van de Engelse kerk is. Door de Successiewet
+      wordt de dochter van Catharina tot bastaard verklaard en de
+      kinderen van Hendrik en Anna tot wettige troonopvolgers. Alle
+      geestelijken en vooraanstaande personen worden verplicht om
+      zich aan deze wetten te onderwerpen. Wie weigert, zoals
+      Thomas More, wordt vervolgd. Katholiek verzet wordt dankbaar
+      aangegrepen om de goederen van de Kerk te kunnen aanslaan.
+    </p>
+
+    <p>
+      Toch is deze afscheiding geen reformatie: Hendrik blijft
+      een trouw aanhanger van de offici@euml;le kerkelijke
+      leerstellingen en betwist enkel het gezag van de paus.
+    </p>
+
+    <p>
+      KONING BLAUWBAARD
+    </p>
+
+    <p>
+      De arme Catharina van Aragon sterft eenzaam in ballingschap,
+      maar ook Anna Boleyn kan niet lang van haar koninklijke status
+      genieten. Als zij een dochter ter wereld brengt en niet de
+      gewenste zoon, wordt zij beschuldigd van hoogverraad en
+      terechtgesteld. De koning trouwt daarna nog vier keer.
+      Jane Seymour baart de langverwachte zoon maar sterft in het
+      kraambed; Anna van Kleef wordt verstoten (omdat zij te lelijk
+      is), Catherine Howard wordt onthoofd wegens overspel en
+      Catherine Parr tenslotte overleeft haar echtgenoot, die in
+      1547 overlijdt aan syfilis.
+    </p>
+  </tekst>
+
+
+  <fotos>
+
+    <foto id="1989-01" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Seppe Hertogs</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-02" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+        <naam>Fons Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-03" web="true">
+      <personen>
+        <naam>Fons Janssens</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-04" web="true">
+      <personen>
+        <naam>Fons Janssens</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-05" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+        <naam>Seppe Hertogs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-06" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+        <naam>Seppe Hertogs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-07" web="true">
+      <personen>
+        <naam>Seppe Hertogs</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-08" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+        <naam>Mieke Moons</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-09" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-10" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Waldo Van Turnhout</naam>
+        <naam>Gerbrand Van Soom</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Kris Verellen</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-11" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Waldo Van Turnhout</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Gerbrand Van Soom</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Kris Verellen</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-12" web="true">
+      <personen>
+        <naam>Waldo Van Turnhout</naam>
+        <naam>Guy Noppe</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Gerbrand Van Soom</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-13" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-14" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Waldo Van Turnhout</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-15" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Bart Meukens</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-16" web="true">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Bart Meukens</naam>
+        <naam>Mieke Moons</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-17" web="true">
+      <personen>
+        <naam>Bart Meukens</naam>
+        <naam>Mieke Moons</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Krista Nuyten</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-18" web="true">
+      <personen>
+        <naam>Bart Meukens</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Krista Nuyten</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-19" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Krista Nuyten</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-20" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+        <naam>Mieke Moons</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Seppe Hertogs</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-21" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+        <naam>Mieke Moons</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Seppe Hertogs</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-22" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Ren@eacute; Fret</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-23" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Ren@eacute; Fret</naam>
+        <naam>Waldo Van Turnhout</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-24" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Kris Verellen</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-25" web="true">
+      <personen>
+        <naam>Kris Verellen</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-26" web="true">
+      <personen>
+        <naam>Cit Peeters</naam>
+        <naam>Mieke Moons</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-27" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Kris Verellen</naam>
+        <naam>Waldo Van Turnhout</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Krista Nuyten</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-28" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Waldo Van Turnhout</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Krista Nuyten</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-29" web="true">
+      <personen>
+        <naam>Waldo Van Turnhout</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-30" web="true">
+      <personen>
+        <naam>Kris Verellen</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-31" web="true">
+      <personen>
+        <naam>Kris Verellen</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Guy Noppe</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-32" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Gerbrand Van Soom</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Kris Verellen</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-33" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+        <naam>Guy Noppe</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Gerbrand Van Soom</naam>
+        <naam>Waldo Van Turnhout</naam>
+        <naam>Kris Verellen</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-34" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+        <naam>Guy Noppe</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Gerbrand Van Soom</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-35" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+        <naam>Guy Noppe</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Gerbrand Van Soom</naam>
+        <naam>Kris Verellen</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-36" web="true">
+      <personen>
+        <naam>Guy Noppe</naam>
+        <naam>Kris Verellen</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-37" web="true">
+      <personen>
+        <naam>Bart Meukens</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Mieke Moons</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-38" web="true">
+      <personen>
+        <naam>Bart Meukens</naam>
+        <naam>Mieke Moons</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Kris Verellen</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-39" web="true">
+      <personen>
+        <naam>Ren@eacute; Fret</naam>
+        <naam>Kris Verellen</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-40" web="true">
+      <personen>
+        <naam>Waldo Van Turnhout</naam>
+        <naam>Guy Noppe</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-41" web="true">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Bart Meukens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-42" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+        <naam>Kris Verellen</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-43" web="true">
+      <personen>
+        <naam>Mieke Moons</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Bart Meukens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-44" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+        <naam>Mieke Moons</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-45" web="true">
+      <personen>
+        <naam>Krista Nuyten</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-46" web="true">
+      <personen>
+        <naam>Stan Milbou</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Kris Verellen</naam>
+        <naam>Seppe Hertogs</naam>
+        <naam>Bart Meukens</naam>
+        <naam>Guy Noppe</naam>
+        <naam>Gerbrand Van Soom</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Mieke Moons</naam>
+      </personen>
+    </foto>
+
+    <foto id="1989-47" web="true">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Gerbrand Van Soom</naam>
+        <naam>Seppe Hertogs</naam>
+        <naam>Bart Meukens</naam>
+        <naam>Ren@eacute; Fret</naam>
+        <naam>Guy Noppe</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Krista Nuyten</naam>
+        <naam>Mieke Moons</naam>
+        <naam>Cit Peeters</naam>
+        <naam>Stan Milbou</naam>
+        <naam>Waldo Van Turnhout</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Kris Verellen</naam>
+      </personen>
+    </foto>
+  </fotos>
+</productie>

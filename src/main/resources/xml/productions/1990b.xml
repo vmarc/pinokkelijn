@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1990b" jaar="1990" titel="Aardbeien met slagroom">
+
+  <korte-beschrijving>
+    Een zwarte komedie in @eacute;@eacute;n bedrijf
+    van Bruce Fisk in een regie van Fons Janssens.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+      In een afgelegen landhuisje in Engeland wonen de ongetrouwde
+      zussen Jones met hun oude vader. Veel bezoek krijgen ze
+      niet: alleen de oude dokter Price en de buurman, een
+      gepensioneerde kolonel, komen geregeld over de vloer...
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>27 april 1990</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <acteurs>
+    <acteur rol="MARY JONES" naam="Annie Vanderzypen"/>
+    <acteur rol="HESTER JONES" naam="Rita Blommaert"/>
+    <acteur rol="ROBERT TITHERIDGE" naam="Fons Janssens">kolonel</acteur>
+    <acteur rol="WILLIAM VARLEY" naam="Tom Vandekeybus">dokter</acteur>
+    <acteur rol="STEM VAN HENRY JONES" naam="Richard Van Roey"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Fons Janssens</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Bruce Fisk</naam>
+    </taak>
+  </taken>
+
+  <fotos>
+  </fotos>
+</productie>

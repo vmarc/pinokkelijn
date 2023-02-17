@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1983a" jaar="1983" titel="Valstrik voor een man alleen">
+
+  <korte-beschrijving>
+    Thriller in drie bedrijven door Robert Thomas in een regie van Paul Ruys.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+      We bevinden ons in een chalet in de bergen, nabij Chamonix.
+      Enkele dagen geleden is hier het echtpaar Corban aangekomen,
+      om er zijn vakantie door te brengen. Na enkele dagen is de
+      echtgenote Corban verdwenen: Dani@euml;l roept er de politie bij.
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>5 maart 1983</opvoering>
+    <opvoering>6 maart 1983</opvoering>
+  </opvoeringen>
+
+  <plaats>Gildenhuis Stationsstraat Essen</plaats>
+
+  <acteurs>
+    <acteur rol="DE MAN" naam="Luc Brosens"/>
+    <acteur rol="DE COMMISARIS" naam="Richard Van Roey"/>
+    <acteur rol="DE PASTOOR" naam="Fons Janssens"/>
+    <acteur rol="DE VROUW" naam="Greet Jacobs"/>
+    <acteur rol="DE LANDLOPER" naam="Guy Noppe"/>
+    <acteur rol="DE VERPLEEGSTER" naam="Rita Blommaert"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Paul Ruys</naam>
+    </taak>
+    <taak beschrijving="Voorzegger">
+      <naam>Seppe Hertogs</naam>
+    </taak>
+    <taak beschrijving="Licht en geluid">
+      <naam>Francis Theuns</naam>
+    </taak>
+    <taak beschrijving="Decor">
+      <naam>Kristin Verbeeck</naam>
+      <naam>Jan Hectors</naam>
+    </taak>
+    <taak beschrijving="Rekwisieten">
+      <naam>Lieve Frateur</naam>
+      <naam>Mieke Moons</naam>
+    </taak>
+    <taak beschrijving="Grime">
+      <naam>Linda Smout</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Robert Thomas</naam>
+    </taak>
+  </taken>
+
+  <!--
+    <tekst>
+      <H2>Toespraak op etentje na de opvoering</H2>
+      <p>
+      Beste vrienden,
+      </p><p>
+      We zitten hier allemaal lekker te eten en te drinken, maar zijn
+      we er ons wel van bewust dat we dit eigenlijk te danken hebben
+      aan wijlen mevrouw Elisabeth Corban, geboren Marcelllin.
+      Was zij niet vermoord, dan was er geen valstrik nodig geweest
+      en dan zaten wij nu niet hier.
+      </p><p>
+      In mijn hoedanigheid van plaatsvervangend pastoor van Saint
+      Jean heb ik dan ook gedacht er goed aan te doen om u te roepen,
+      commisaris en om de feiten nog eens op een rijtje te zetten,
+      ter nagedachtenis van deze grote, knappe, rijke, een tikkeltje
+      verwaande blondine,
+      </p><p>
+      <BR />Er was eens een heel aardig blondje,
+      <BR />Ze had niet meer genoeg met haar hondje:
+      <BR />Ze wilde een man.
+      <BR />Toen kwam die Corban,
+      <BR />En hij zoende haar eerst op haar mondje.
+      <BR />
+      <BR />In 'n kerk in de Haut'-Pyrenee@euml;n,
+      <BR />Heel knussetjes met zijn getwee@euml;n,
+      <BR />Zijn ze vlug dan getrouwd.
+      <BR />Maar het heeft haar berouwd,
+      <BR />Ze hadden maar amper gevree@euml;n.
+      <BR />
+      <BR />Naar Veneti@euml; met de "Maria-Christina",
+      <BR />En daar in het Hotel de Regina,
+      <BR />En dan naar Gen@egrave;ve
+      <BR />Om nog wat te bel@egrave;ven
+      <BR />Bij n' whisky en een glas orangina.
+      <BR />
+      <BR />Na al dat gezellige zwalpen
+      <BR />Naar 't chalet van een vriend in de Alpen.
+      <BR />Toen heeft hij haar vermoord
+      <BR />En in 't water gesmoord
+      <BR />Van 'n rivier in 't For@ecirc;t de Chmoi-lpen.
+      <BR />
+      <BR />De politie ging hij alarmeren,
+      <BR />Want zijn vrouwtje die was hem gaan smeren.
+      <BR />Commissaris Richaard,
+      <BR />Van geen kleintje vervaard,
+      <BR />Die zou hem eens mores gaan leren.
+      <BR />
+      <BR />Met de hulp van wat vrouwen en mannen
+      <BR />Werd Corbaantje een valstrik gespannen
+      <BR />En 't duurde niet lang:
+      <BR />Stilaan werd hij bang,
+      <BR />En 't kwam langzaam in kruiken en kannen.
+      <BR />
+      <BR />Met 'n bekende artiest, La Merlouche,
+      <BR />De pastoor, en dat was er ne louche,
+      <BR />Met Florence de Brunette
+      <BR />En Berton met haar gazetten
+      <BR />Werd 't voor Dani@euml;ltje een heel koude douche.
+      <BR />
+      <BR />Het was Linda die allen grimeerde,
+      <BR />En Seppe die duchtig souffleerde,
+      <BR />Dekor van Kristin en Jan,
+      <BR />Rekwisieten: Mieke, Lieve en Lilian,
+      <BR />En Cis, die met licht en met klank animeerde.
+      <BR />
+      <BR />Met Greet als het vals Liesebetje,
+      <BR />Kwam Luc in een moeilijk parketje.
+      <BR />En met Rita Berton
+      <BR />die haar rol ook goed kon,
+      <BR />Ging het zachtjesaan boven zijn petje.
+      <BR />
+      <BR />Ook Gie Merluche, een uitzonderlijk goede,
+      <BR />Al begon hij wat vroeg reeds te bloeden,
+      <BR />En die valse pastoor,
+      <BR />Maar die had Luk spoedig door.
+      <BR />Wie had het allemaal kunnen vermoeden!
+      <BR />
+      <BR />En toen't commissariske, heel goed bedreven,
+      <BR />Den Dani@euml;l een spuiteke wilde gaan geven
+      <BR />Met wat Pentotal,
+      <BR />Viel Corban in de val,
+      <BR />En heeft hij de strijd wel op moeten geven.
+      <BR />
+      <BR />En Lukske Corban's grote verlangen
+      <BR />Om Elisabeth's centjes te vangen,
+      <BR />Ging op in de mist
+      <BR />En v@oacute;@oacute;r hij het wist
+      <BR />Hing den Dani@euml;l netjes te hangen!
+      <BR />
+      <BR />DE MORAAL:
+      <BR />Meisjes pas op voor de venten,
+      <BR />Want ze hebben het gemunt op uw centen!
+      <BR />
+      <BR />Mannen, zoals ge weer eens ziet:
+      <BR />De volmaakte misdaad bestaat nog niet.
+      <BR />
+      <BR />DE CONCLUSIES:
+      <BR />Pinokkelijn, met zijn dochters en zonen,
+      <BR />Heeft deze keer weer opnieuw kunnen tonen,
+      <BR />Dat het nogal wat kan:
+      <BR />Zie maar de foto's van Marjan
+      <BR />Die deze prestatie netjes bekronen.
+      <BR />
+      <BR />En de Paul, die de zaak regisseerde,
+      <BR />Zou verdienen dat z'hem dekoreerden.
+      <BR />Dus besloten wij:
+      <BR />Hij krijgt een streepke bij
+      <BR />Op het frakske waarmee jij poseerde.
+      <BR />
+      <BR />Pastoor MAXIMIN
+      <BR />(plaatsvervanger van Pastoor SIMONAT)
+      </p>
+      </tekst>
+   -->
+
+  <fotos>
+    <foto id="1983a-01" web="true">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-02" web="true">
+      <personen>
+        <naam>Fons Janssens</naam>
+        <naam>Greet Jacobs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-03" web="true">
+      <personen>
+        <naam>Greet Jacobs</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Guy Noppe</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-04" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Guy Noppe</naam>
+        <naam>Greet Jacobs</naam>
+        <naam>Fons Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-05" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Greet Jacobs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-06" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Greet Jacobs</naam>
+        <naam>Fons Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-07" web="true">
+      <personen>
+        <naam>Paul Ruys</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Rita Blommaert</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-08" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-09" web="true">
+      <personen>
+        <naam>Greet Jacobs</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Fons Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-10" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-11" web="true">
+      <personen>
+        <naam>Rita Blommaert</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-12" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Greet Jacobs</naam>
+        <naam>Fons Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-13" web="true">
+      <personen>
+        <naam>Greet Jacobs</naam>
+        <naam>Luc Brosens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-14" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Greet Jacobs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-15" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-16" web="true">
+
+      <personen>
+        <naam>Richard Van Roey</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-17" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Greet Jacobs</naam>
+        <naam>Rita Blommaert</naam>
+        <naam>Fons Janssens</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-18" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Greet Jacobs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-19" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Paul Ruys</naam>
+        <naam>Rita Blommaert</naam>
+        <naam>Guy Noppe</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Greet Jacobs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-20" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Richard Van Roey</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-21" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Guy Noppe</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-22" web="true">
+      <personen>
+        <naam>Luc Brosens</naam>
+        <naam>Richard Van Roey</naam>
+        <naam>Greet Jacobs</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Rita Blommaert</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-23" web="true">
+      <personen>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-24" web="true">
+      <personen>
+        <naam>Seppe Hertogs</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-25" web="true">
+      <personen>
+        <naam>Greet Jacobs</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-26" web="true">
+      <personen>
+        <naam>Richard Van Roey</naam>
+        <naam>Rita Blommaert</naam>
+        <naam>Greet Jacobs</naam>
+        <naam>Luc Brosens</naam>
+        <naam>Fons Janssens</naam>
+        <naam>Paul Ruys</naam>
+      </personen>
+    </foto>
+
+    <foto id="1983a-27" web="true">
+      <personen>
+        <naam>Francis Theuns</naam>
+      </personen>
+    </foto>
+  </fotos>
+</productie>

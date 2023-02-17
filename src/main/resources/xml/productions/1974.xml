@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="1974" jaar="1974" titel="Zeg het met bloemen">
+
+  <korte-beschrijving>
+    Een komische eenakter van Dick van Maasland in een regie van Fons Janssens.
+  </korte-beschrijving>
+
+  <beschrijving>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Zondag 31 maart 1974</opvoering>
+    <opvoering>Zondag 6 oktober 1974</opvoering>
+    <opvoering>Vrijdag 18 oktober 1974</opvoering>
+    <opvoering>Zondag 8 december 1974</opvoering>
+    <opvoering>hernomen in 84/85: 5 opvoeringen</opvoering>
+  </opvoeringen>
+
+  <plaats>3x Mariaberg / 1x Gildenhuis</plaats>
+
+  <acteurs>
+    <acteur rol="ANNIE" naam="Magda Janssens">het jonge vrouwtje</acteur>
+    <acteur rol="MA" naam="Joke Platteau">moeder van Annie</acteur>
+    <acteur rol="JAN" naam="Jef Brosens">echtgenoot van Annie</acteur>
+    <acteur rol="BOMPA" naam="Guy Janssens">onverslijtbare ouwe snoeper</acteur>
+    <acteur rol="JANUS" naam="Joos Janssens">vagebond</acteur>
+    <acteur rol="PENNEMANS" naam="Chris Hontel@eacute;">journaliste</acteur>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Fons Janssens</naam>
+    </taak>
+    <taak beschrijving="Voorzegger">
+      <naam>Albert Brosens</naam>
+      <naam>Rita Janssens</naam>
+    </taak>
+    <taak beschrijving="Technische medewerking">
+      <naam>Albert Brosens</naam>
+      <naam>Jef Brosens</naam>
+    </taak>
+    <taak beschrijving="Grime">
+      <naam>Lieve Janssens</naam>
+      <naam>Rita Janssens</naam>
+    </taak>
+    <taak beschrijving="Auteur">
+      <naam>*Dick van Maasland</naam>
+    </taak>
+  </taken>
+
+  <fotos>
+    <foto id="1974-01" web="true">
+    </foto>
+    <foto id="1974-02" web="true">
+    </foto>
+  </fotos>
+</productie>
