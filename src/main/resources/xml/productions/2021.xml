@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="2021" jaar="2021" titel="Het spoor kwijt">
+
+  <korte-beschrijving>
+    Een luchtige toneelvoorstelling voor iedereen vanaf 8 jaar.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p class="bold">
+      Vijf vrienden voor het leven. Door dik en dun.
+    </p>
+    <p class="vertical-spacer bold">
+      Maar wat gebeurt er als zij het spoor kwijt zijn?
+    </p>
+    <p class="bold">
+      Dan komen de duiveltjes naar boven...
+    </p>
+    <p class="vertical-spacer bold">
+      Want is die kortste weg wel écht de kortste?
+    </p>
+    <p class="bold">
+      Staken en blijven liggen, of verder stappen?
+    </p>
+    <p class="bold">
+      En wat als er een haar in de boter zit?
+    </p>
+    <p class="bold">
+      Of iemand begint te stinken?
+    </p>
+    <p class="bold">
+      Wat als er eten nodig is en het overleven je noopt tot kannibalisme?
+    </p>
+    <p class="bold">
+      Of als de dood om het hoekje loert? .....
+    </p>
+    <p class="vertical-spacer bold">
+      Maar goed, vrienden blijven vrienden.
+    </p>
+    <p class="bold">
+      Ook al verdwijnt er af en toe wel eens een kruimeltje...
+    </p>
+    <p class="vertical-spacer">
+      <i>"Het spoor kwijt"</i>
+      is een luchtige toneelvoorstelling,
+    </p>
+    <p>
+      speels en verrassend en met een fijne portie ondeugende humor.
+    </p>
+    <p>
+      Af en toe pijnlijk herkenbaar...
+    </p>
+    <p>
+      Maar altijd met een stevige knipoog.
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Vrijdag 25 juni 20:30u</opvoering>
+    <opvoering>Zaterdag 26 juni 13:30u</opvoering>
+    <opvoering>Zaterdag 26 juni 20:30u</opvoering>
+  </opvoeringen>
+
+  <plaats>Paviljoen, Korte Leemstraat 31, 2910 Essen</plaats>
+
+  <acteurs>
+    <acteur rol="" naam="Carine Bergmans"/>
+    <acteur rol="" naam="Gilberte Verbeeck"/>
+    <acteur rol="" naam="Jan Meeusen"/>
+    <acteur rol="" naam="Hans Bosmans"/>
+    <acteur rol="" naam="*Thea Bierbooms"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>*Eric Vanthillo</naam>
+    </taak>
+  </taken>
+
+  <tekst>
+  </tekst>
+
+  <fotos>
+  </fotos>
+</productie>

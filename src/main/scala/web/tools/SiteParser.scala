@@ -76,11 +76,19 @@ class SiteParser(xmldir: String) {
   private def parseActors(personsByName: Map[String, Person], node: NodeSeq): Seq[Actor] = {
     (node \ "acteur").map { actor =>
       val name = (actor \ "@naam").text
-      val person = personsByName.getOrElse(name, {
-        throw new RuntimeException("Onbekende acteur: <" + name + ">, kontroleer spelling of voeg toe in personen.xml")
-      })
+
+      val person = if (name.startsWith("*")) {
+        Person("", name.drop(1), "", Seq.empty)
+      }
+      else {
+        personsByName.getOrElse(name, {
+          throw new RuntimeException("Onbekende acteur: <" + name + ">, kontroleer spelling of voeg toe in personen.xml")
+        })
+      }
+
       val role = (actor \ "@rol").text
       val description = actor.text
+
       Actor(person, role, description)
     }
   }
