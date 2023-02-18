@@ -226,6 +226,10 @@ a.external {
 	color: #606060;
 }
 
+.vertical-spacer {
+	margin-top: 3.5em;
+}
+
 /*** New **************************************/
 
 .top-menu li {

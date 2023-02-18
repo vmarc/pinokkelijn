@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="2013a" jaar="2013" titel="A Marriage Proposal">
+
+  <korte-beschrijving>
+    In een regie van Cit Peeters.
+  </korte-beschrijving>
+
+  <beschrijving>
+    <p>
+      <b>
+        Pinokkelijn en EJA in Edinburgh!
+      </b>
+    </p>
+    <p>
+      In augustus trokken Pinokkelijn en <a href="https://eja.be/">EJA</a> (jeugdtheater uit Wildert)
+      naar het Fringe-theaterfestival in Edinburgh.
+    </p>
+    <p>
+      Pinokkelijn speelde <i>"A Marriage Proposal"</i>, de Engelse versie van de eenakter <i>"De driftkoppen"</i>
+      van Anton Tsjechov. Dat hilarisch stukje, over een buurman die de hand van de dochter komt vragen, hebben
+      we vroeger al een aantal keren opgevoerd.
+    </p>
+    <p>
+      EJA speelde <i>"Robin Hood"</i>.
+    </p>
+    <p>
+      Vooraleer ons aan het Schotse publiek te gaan vertonen, organiseerden we in Essen enkele
+      try-outs in het Parochiecentrum van Wildert en op de Zomerpicknick in de tuin van de paters
+      Redemptoristen.
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Vrijdag 2 augustus 20u - Wildert</opvoering>
+    <opvoering>Zaterdag 3 augustus 14u - Rommeshoef</opvoering>
+    <opvoering>9 augustus 2013 - Edinburgh</opvoering>
+    <opvoering>10 augustus 2013 - Edinburgh</opvoering>
+  </opvoeringen>
+
+  <acteurs>
+    <acteur rol="vader" naam="Paul Ruys"/>
+    <acteur rol="dochter" naam="Lieve Frateur"/>
+    <acteur rol="dochter" naam="Gilberte Verbeeck"/>
+    <acteur rol="buurman" naam="Cit Peeters"/>
+    <acteur rol="buurman" naam="Philippe Damen"/>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Regie">
+      <naam>Cit Peeters</naam>
+    </taak>
+    <!--    <taak beschrijving="Licht">-->
+    <!--      <naam>Marc Vergouwen</naam>-->
+    <!--    </taak>-->
+  </taken>
+
+  <tekst>
+    <p>
+      Technische informatie van speelplek ('s nachts repeteren!):
+    </p>
+    <img src="../../images/2013a-edinburgh.svg" alt="technische fiche"/>
+  </tekst>
+
+  <fotos>
+  </fotos>
+</productie>
