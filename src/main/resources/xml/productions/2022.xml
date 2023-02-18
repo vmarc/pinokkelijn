@@ -56,7 +56,6 @@
     <taak beschrijving="Piano">
       <naam>Pat Scheldeman</naam>
     </taak>
-    <!-- TODO verder pianiste aanvullen -->
     <taak beschrijving="Grime">
       <naam>Linda Leys</naam>
     </taak>
@@ -269,7 +268,7 @@
         <naam>Marc Vergouwen</naam>
         <naam>Paul Ruys</naam>
         <naam>Marc Lauwers</naam>
-        <naam>Linde Leys</naam>
+        <naam>Linda Leys</naam>
         <naam>Mieke De Lombaerde</naam>
         <naam>Carine Bergmans</naam>
         <naam>Cit Peeters</naam>
@@ -1039,4205 +1038,1239 @@
         <naam>Marijke Schoeters</naam>
       </personen>
     </foto>
-
-
-
-    <foto id="2022-176" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-176" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Jan Meeusen</naam>
       </personen>
     </foto>
     <foto id="2022-177" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Jan Meeusen</naam>
       </personen>
     </foto>
     <foto id="2022-178" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-179" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-180" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-181" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-181" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-182" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-183" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-184" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-185" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-185" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-186" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-187" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-187" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-188" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-189" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-189" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-190" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-190" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-191" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-192" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-193" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-193" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-194" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-195" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-195" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-196" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-196" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-197" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-198" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-199" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-200" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-200" web="true" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-
-
-
-    <foto id="2022-201" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-201" web="true" fotograaf="Valerie Dufraing">
       <personen>
+        <naam>Herman Dufraing</naam>
       </personen>
     </foto>
     <foto id="2022-202" web="true" fotograaf="Valerie Dufraing">
       <personen>
+        <naam>Herman Dufraing</naam>
       </personen>
     </foto>
     <foto id="2022-203" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-204" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-205" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-206" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-207" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-208" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-208" web="true" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-209" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-210" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-210" web="true" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-211" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Herman Dufraing</naam>
       </personen>
     </foto>
-    <foto id="2022-212" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-212" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Herman Dufraing</naam>
       </personen>
     </foto>
-    <foto id="2022-213" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-213" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Herman Dufraing</naam>
       </personen>
     </foto>
     <foto id="2022-214" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-215" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-216" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-217" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-218" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-218" web="true" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-219" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-220" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
         <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-221" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-221" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
         <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-222" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
         <naam>Paul Ruys</naam>
         <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-223" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-223" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
     <foto id="2022-224" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
-    <foto id="2022-225" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-225" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
+        <naam>Marijke Schoeters</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
-    <foto id="2022-226" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-226" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Isis Van Ginneken</naam>
+        <naam>Carine Bergmans</naam>
       </personen>
     </foto>
     <foto id="2022-227" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Anaïs Simon</naam>
+        <naam>Isis Van Ginneken</naam>
+        <naam>Carine Bergmans</naam>
       </personen>
     </foto>
     <foto id="2022-228" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Anaïs Simon</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
-    <foto id="2022-229" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-229" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Anaïs Simon</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
     <foto id="2022-230" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Carine Bergmans</naam>
       </personen>
     </foto>
     <foto id="2022-231" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
         <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
     <foto id="2022-232" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Carine Bergmans</naam>
       </personen>
     </foto>
     <foto id="2022-233" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Isis Van Ginneken</naam>
+        <naam>Carine Bergmans</naam>
       </personen>
     </foto>
     <foto id="2022-234" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Isis Van Ginneken</naam>
+        <naam>Carine Bergmans</naam>
       </personen>
     </foto>
-    <foto id="2022-235" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-235" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Carine Bergmans</naam>
       </personen>
     </foto>
     <foto id="2022-236" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
         <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-237" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Hannes Loos</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
     <foto id="2022-238" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Hannes Loos</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
     <foto id="2022-239" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
         <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-240" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-240" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
         <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-241" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Hannes Loos</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
-    <foto id="2022-242" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-242" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
         <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
+        <naam>Mieke De Lombaerde</naam>
+        <naam>Isis Van Ginneken</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Carine Bergmans</naam>
       </personen>
     </foto>
     <foto id="2022-243" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Isis Van Ginneken</naam>
+        <naam>Mieke De Lombaerde</naam>
       </personen>
     </foto>
     <foto id="2022-244" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
         <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-245" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Isis Van Ginneken</naam>
+        <naam>Mieke De Lombaerde</naam>
       </personen>
     </foto>
-    <foto id="2022-246" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-246" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
         <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-247" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
         <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-248" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-248" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
         <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Mieke De Lombaerde</naam>
       </personen>
     </foto>
     <foto id="2022-249" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Sanne Clous</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
     <foto id="2022-250" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Sanne Clous</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
-    <foto id="2022-251" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-251" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Sanne Clous</naam>
       </personen>
     </foto>
     <foto id="2022-252" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Sanne Clous</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
     <foto id="2022-253" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
         <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-254" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Sanne Clous</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
     <foto id="2022-255" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
+        <naam>Sanne Clous</naam>
+        <naam>Isis Van Ginneken</naam>
+        <naam>Mieke De Lombaerde</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Carine Bergmans</naam>
       </personen>
     </foto>
-    <foto id="2022-256" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-256" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
+        <naam>Sanne Clous</naam>
+        <naam>Isis Van Ginneken</naam>
+        <naam>Mieke De Lombaerde</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-257" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
         <naam>Sanne Clous</naam>
         <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Carine Bergmans</naam>
       </personen>
     </foto>
     <foto id="2022-258" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
-    <foto id="2022-259" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-259" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
     <foto id="2022-260" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
     <foto id="2022-261" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
     <foto id="2022-262" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-263" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-264" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-265" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-265" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-266" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-267" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-268" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
         <naam>Paul Ruys</naam>
         <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-269" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Jan Meeusen</naam>
       </personen>
     </foto>
     <foto id="2022-270" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Jan Meeusen</naam>
       </personen>
     </foto>
-    <foto id="2022-271" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-271" web="true" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Jan Meeusen</naam>
       </personen>
     </foto>
     <foto id="2022-272" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-273" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-274" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-275" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-276" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-276" web="true" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
         <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Jan Meeusen</naam>
       </personen>
     </foto>
     <foto id="2022-277" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
         <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Jan Meeusen</naam>
       </personen>
     </foto>
-    <foto id="2022-278" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-278" web="true" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-279" web="false" fotograaf="Valerie Dufraing">
       <personen>
+        <naam>Pat Scheldeman</naam>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-280" web="false" fotograaf="Valerie Dufraing">
       <personen>
+        <naam>Pat Scheldeman</naam>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-281" web="false" fotograaf="Valerie Dufraing">
-      <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
-      </personen>
-    </foto>
+    <foto id="2022-281" web="true" fotograaf="Valerie Dufraing"/>
     <foto id="2022-282" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-283" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-283" web="true" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-284" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-284" web="true" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-285" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-285" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
         <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-286" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
         <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-287" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-287" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-288" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-289" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
         <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
         <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
+        <naam>Kevin Van der Sommen</naam>
         <naam>Paul Ruys</naam>
         <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-290" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-290" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
         <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
         <naam>Paul Ruys</naam>
         <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-291" web="false" fotograaf="Valerie Dufraing">
-      <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
-      </personen>
-    </foto>
+    <foto id="2022-291" web="false" fotograaf="Valerie Dufraing"/>
     <foto id="2022-292" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
         <naam>Paul Ruys</naam>
         <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Gilberte Verbeeck</naam>
       </personen>
     </foto>
     <foto id="2022-293" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
         <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Gilberte Verbeeck</naam>
       </personen>
     </foto>
-    <foto id="2022-294" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-294" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
         <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-295" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
         <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-296" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
         <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-297" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
         <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-298" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-298" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
         <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-299" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
         <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-300" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-300" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
         <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-
     <foto id="2022-301" web="false" fotograaf="Valerie Dufraing">
       <personen>
+        <naam>Gilberte Verbeeck</naam>
       </personen>
     </foto>
     <foto id="2022-302" web="true" fotograaf="Valerie Dufraing">
       <personen>
+        <naam>Gilberte Verbeeck</naam>
       </personen>
     </foto>
     <foto id="2022-303" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
         <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-304" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
         <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-305" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
         <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
         <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Paul Ruys</naam>
       </personen>
     </foto>
-    <foto id="2022-306" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-306" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
         <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
         <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Paul Ruys</naam>
       </personen>
     </foto>
-    <foto id="2022-307" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-307" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
         <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-308" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
         <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-309" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
         <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-310" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-310" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
         <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-311" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
         <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-312" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-312" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
         <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-313" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
         <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-314" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-314" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-315" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-315" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-316" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-316" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
     <foto id="2022-317" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-318" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-318" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
     <foto id="2022-319" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-320" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Isis Van Ginneken</naam>
       </personen>
     </foto>
-    <foto id="2022-321" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-321" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-322" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-323" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
         <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-324" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-325" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-326" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-327" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-327" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-328" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Herman Dufraing</naam>
       </personen>
     </foto>
     <foto id="2022-329" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-330" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-330" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Herman Dufraing</naam>
       </personen>
     </foto>
     <foto id="2022-331" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Herman Dufraing</naam>
       </personen>
     </foto>
     <foto id="2022-332" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
         <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Jan Meeusen</naam>
       </personen>
     </foto>
     <foto id="2022-333" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Herman Dufraing</naam>
       </personen>
     </foto>
     <foto id="2022-334" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Herman Dufraing</naam>
       </personen>
     </foto>
-    <foto id="2022-335" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-335" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Herman Dufraing</naam>
       </personen>
     </foto>
     <foto id="2022-336" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Herman Dufraing</naam>
       </personen>
     </foto>
     <foto id="2022-337" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Herman Dufraing</naam>
       </personen>
     </foto>
     <foto id="2022-338" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Herman Dufraing</naam>
       </personen>
     </foto>
     <foto id="2022-339" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Herman Dufraing</naam>
       </personen>
     </foto>
     <foto id="2022-340" web="false" fotograaf="Valerie Dufraing">
       <personen>
         <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-341" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-342" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
         <naam>Paul Ruys</naam>
         <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Gilberte Verbeeck</naam>
       </personen>
     </foto>
     <foto id="2022-343" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-344" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-344" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-345" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
         <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Marijke Schoeters</naam>
       </personen>
     </foto>
     <foto id="2022-346" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
         <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Marijke Schoeters</naam>
       </personen>
     </foto>
-    <foto id="2022-347" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-347" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
         <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-348" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Sanne Clous</naam>
+        <naam>Marijke Schoeters</naam>
       </personen>
     </foto>
     <foto id="2022-349" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
         <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-350" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-350" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Marijke Schoeters</naam>
       </personen>
     </foto>
     <foto id="2022-351" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
         <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Marijke Schoeters</naam>
       </personen>
     </foto>
     <foto id="2022-352" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
         <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Marijke Schoeters</naam>
+        <naam>Carine Bergmans</naam>
       </personen>
     </foto>
     <foto id="2022-353" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
         <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Marijke Schoeters</naam>
+        <naam>Carine Bergmans</naam>
       </personen>
     </foto>
-    <foto id="2022-354" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-354" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
+        <naam>Marijke Schoeters</naam>
+        <naam>Carine Bergmans</naam>
         <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-355" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Marijke Schoeters</naam>
+        <naam>Carine Bergmans</naam>
       </personen>
     </foto>
     <foto id="2022-356" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
         <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Marijke Schoeters</naam>
+        <naam>Carine Bergmans</naam>
       </personen>
     </foto>
     <foto id="2022-357" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
         <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Marijke Schoeters</naam>
+        <naam>Carine Bergmans</naam>
       </personen>
     </foto>
     <foto id="2022-358" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
         <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-359" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-360" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
         <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-361" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
         <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
         <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Mieke De Lombaerde</naam>
+        <naam>Isis Van Ginneken</naam>
+        <naam>Anaïs Simon</naam>
+        <naam>Marijke Schoeters</naam>
+        <naam>Sanne Clous</naam>
       </personen>
     </foto>
-    <foto id="2022-362" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-362" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
         <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
         <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Mieke De Lombaerde</naam>
+        <naam>Isis Van Ginneken</naam>
+        <naam>Anaïs Simon</naam>
+        <naam>Sanne Clous</naam>
+        <naam>Marijke Schoeters</naam>
       </personen>
     </foto>
     <foto id="2022-363" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
         <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
         <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Mieke De Lombaerde</naam>
+        <naam>Isis Van Ginneken</naam>
+        <naam>Anaïs Simon</naam>
       </personen>
     </foto>
-    <foto id="2022-364" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-364" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
         <naam>Werner De Rop</naam>
+        <naam>Eddy Mertens</naam>
+        <naam>Hannes Loos</naam>
       </personen>
     </foto>
     <foto id="2022-365" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
         <naam>Noëlla De Rop</naam>
+        <naam>Mieke De Lombaerde</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Carine Bergmans</naam>
         <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
+        <naam>Sanne Clous</naam>
       </personen>
     </foto>
-    <foto id="2022-366" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-366" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2022-367" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2022-368" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2022-369" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2022-370" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
         <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
-      </personen>
-    </foto>
-    <foto id="2022-367" web="false" fotograaf="Valerie Dufraing">
-      <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
-      </personen>
-    </foto>
-    <foto id="2022-368" web="false" fotograaf="Valerie Dufraing">
-      <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
-      </personen>
-    </foto>
-    <foto id="2022-369" web="false" fotograaf="Valerie Dufraing">
-      <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
-      </personen>
-    </foto>
-    <foto id="2022-370" web="false" fotograaf="Valerie Dufraing">
-      <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-371" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
         <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-372" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-372" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
         <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
         <naam>Carine Bergmans</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
+        <naam>Mieke De Lombaerde</naam>
+        <naam>Isis Van Ginneken</naam>
+        <naam>Anaïs Simon</naam>
+        <naam>Sanne Clous</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Kevin Van der Sommen</naam>
+        <naam>Marijke Schoeters</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Hannes Loos</naam>
         <naam>Werner De Rop</naam>
+        <naam>Eddy Mertens</naam>
       </personen>
     </foto>
     <foto id="2022-373" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
+        <naam>Kristin Verbeeck</naam>
         <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
+        <naam>Carine Bergmans</naam>
         <naam>Isis Van Ginneken</naam>
         <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
-        <naam>Werner De Rop</naam>
-      </personen>
-    </foto>
-    <foto id="2022-374" web="false" fotograaf="Valerie Dufraing">
-      <personen>
+        <naam>Sanne Clous</naam>
         <naam>Herman Dufraing</naam>
+        <naam>Kevin Van der Sommen</naam>
         <naam>Marijke Schoeters</naam>
         <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
         <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
         <naam>Werner De Rop</naam>
+        <naam>Eddy Mertens</naam>
+        <naam>Paul Ruys</naam>
       </personen>
     </foto>
+    <foto id="2022-374" web="false" fotograaf="Valerie Dufraing"/>
     <foto id="2022-375" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
+        <naam>Noëlla De Rop</naam>
         <naam>Hannes Loos</naam>
         <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
         <naam>Werner De Rop</naam>
       </personen>
     </foto>
-    <foto id="2022-376" web="false" fotograaf="Valerie Dufraing">
+    <foto id="2022-376" web="true" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
+        <naam>Noëlla De Rop</naam>
         <naam>Hannes Loos</naam>
         <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
-        <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
         <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-377" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
         <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
+        <naam>Hannes Loos</naam>
         <naam>Werner De Rop</naam>
       </personen>
     </foto>
     <foto id="2022-378" web="false" fotograaf="Valerie Dufraing">
       <personen>
-        <naam>Herman Dufraing</naam>
-        <naam>Marijke Schoeters</naam>
-        <naam>Jan Meeusen</naam>
-        <naam>Gilberte Verbeeck</naam>
-        <naam>Sanne Clous</naam>
-        <naam>Mieke De Lombaerde</naam>
-        <naam>Hannes Loos</naam>
-        <naam>Kevin Van der Sommen</naam>
-        <naam>Eddy Mertens</naam>
         <naam>Noëlla De Rop</naam>
-        <naam>Isis Van Ginneken</naam>
-        <naam>Anaïs Simon</naam>
-        <naam>Carine Bergmans</naam>
-        <naam>Kristin Verbeeck</naam>
-        <naam>Paul Ruys</naam>
-        <naam>Cit Peeters</naam>
+        <naam>Hannes Loos</naam>
         <naam>Werner De Rop</naam>
       </personen>
     </foto>
