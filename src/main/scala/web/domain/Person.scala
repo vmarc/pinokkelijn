@@ -9,7 +9,6 @@ object Person {
       false
     }
     else {
-
       if (person1.details.size > person2.details.size) {
         true
       }

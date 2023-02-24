@@ -27,7 +27,7 @@ case class CopiedImage(source: String, destination: String)
 class ImageCopy(site: Site, options: SiteBuilderOptions) {
 
   def build(): Unit = {
-    val copies = productionPhotoCopies ++ personPhotoCopies ++ homeImageCopies ++ otherFiles
+    val copies = productionPhotoCopies ++ homeImageCopies ++ otherFiles
     val filtered = copies.filterNot { copy => exists(copy.destination) }
     filtered.foreach(cp)
     printf("File copy: total number of files: %d, files copied (or atttempted to copy): %d\n", copies.size, filtered.size)
@@ -67,21 +67,6 @@ class ImageCopy(site: Site, options: SiteBuilderOptions) {
       else {
         Seq.empty
       }
-    }
-  }
-
-  private def personPhotoCopies: Seq[CopiedImage] = {
-    val personsWithPhoto = site.persons.filter { person =>
-      exists(options.personSourcePhoto(person))
-    }
-    personsWithPhoto.flatMap { person =>
-      val src = options.personSourcePhoto(person)
-      val small = options.smallPersonPhotoFile(person)
-      val large = options.largePersonPhotoFile(person)
-      Seq(
-        CopiedImage(src, small),
-        CopiedImage(src, large)
-      )
     }
   }
 
