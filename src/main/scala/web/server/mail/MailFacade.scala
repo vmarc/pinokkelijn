@@ -19,18 +19,33 @@ class MailFacade(
   private val log = LoggerFactory.getLogger(classOf[MailController])
 
   def reservationNok(reservation: Reservation): String = {
-    val images: Images = new Images(
-      SiteBuilderOptions(),
-      Seq(
-        "images/pinokkelijn4.jpg" -> ImageDimension("302", "50")
-      ).toMap
-    )
-    val context = Map[String, Any](
-      "root" -> ".",
-      "images" -> images,
-      "reservation" -> reservation
-    )
-    pageGenerator.build(context, "templates/reservation-nok.ssp")
+    """|<html>
+       |<body>
+       |<p>
+       |  FOUT: Uw reservatie is niet gelukt.
+       |</p>
+       |<p>
+       |  Ga terug naar de vorige pagina en zorg dat het codewoord juist ingevuld is.
+       |</p>
+       |<p>
+       |  <a href="javascript:history.back()">Terug</a>
+       |</p>
+       |</body>
+       |</html>
+    """.stripMargin
+
+//    val images: Images = new Images(
+//      SiteBuilderOptions(),
+//      Seq(
+//        "images/pinokkelijn4.jpg" -> ImageDimension("302", "50")
+//      ).toMap
+//    )
+//    val context = Map[String, Any](
+//      "root" -> ".",
+//      "images" -> images,
+//      "reservation" -> reservation
+//    )
+//    pageGenerator.build(context, "templates/reservation-nok.ssp")
   }
 
   def reaction(reaction: Reaction): String = {
@@ -51,32 +66,51 @@ class MailFacade(
   }
 
   def reactionOk(reaction: Reaction): String = {
-    val images: Images = new Images(
-      SiteBuilderOptions(),
-      Seq(
-        "images/pinokkelijn4.jpg" -> ImageDimension("302", "50")
-      ).toMap
-    )
-    val context = Map[String, Any](
-      "root" -> ".",
-      "images" -> images,
-      "reaction" -> reaction
-    )
-    pageGenerator.build(context, "templates/reaction-ok.ssp")
+    """|<html>
+       |<body>
+       |<p>Bedankt voor uw reactie!!!</p>
+       |</body>
+       |</html>
+    """.stripMargin
+
+//    val images: Images = new Images(
+//      SiteBuilderOptions(),
+//      Seq(
+//        "images/pinokkelijn4.jpg" -> ImageDimension("302", "50")
+//      ).toMap
+//    )
+//    val context = Map[String, Any](
+//      "root" -> ".",
+//      "images" -> images,
+//      "reaction" -> reaction
+//    )
+//    pageGenerator.build(context, "templates/reaction-ok.ssp")
   }
 
   def reservationOk(reservation: Reservation): String = {
-    val images: Images = new Images(
-      SiteBuilderOptions(),
-      Seq(
-        "images/pinokkelijn4.jpg" -> ImageDimension("302", "50")
-      ).toMap
-    )
-    val context = Map[String, Any](
-      "root" -> ".",
-      "images" -> images,
-      "reservation" -> reservation
-    )
-    pageGenerator.build(context, "templates/reservation-ok.ssp")
+    """|<html>
+       |<body>
+       |<p>
+       |  Uw reservatie is verstuurd.
+       |</p>
+       |<p>
+       |  De kaarten zijn aan de kassa ter beschikking op de avond van de voorstelling en kunnen daar betaald worden.
+       |</p>
+       |</body>
+       |</html>
+    """.stripMargin
+
+    //    val images: Images = new Images(
+    //      SiteBuilderOptions(),
+    //      Seq(
+    //        "images/pinokkelijn4.jpg" -> ImageDimension("302", "50")
+    //      ).toMap
+    //    )
+    //    val context = Map[String, Any](
+    //      "root" -> ".",
+    //      "images" -> images,
+    //      "reservation" -> reservation
+    //    )
+    //    pageGenerator.build(context, "templates/reservation-ok.ssp")
   }
 }
