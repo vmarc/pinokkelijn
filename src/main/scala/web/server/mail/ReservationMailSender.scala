@@ -13,9 +13,10 @@ class ReservationMailSender(
 ) {
 
   def send(reservation: Reservation): Unit = {
-    val tos = reservationMailTo.split(";")
+    val tos = reservationMailTo.split(",").toSeq
     val message = new SimpleMailMessage
     message.setFrom(mailFrom)
+    message.setReplyTo(mailFrom)
     message.setTo(tos: _*)
     message.setSubject("Reservatie")
     message.setText(mailText(reservation))
@@ -25,14 +26,13 @@ class ReservationMailSender(
   private def mailText(reservation: Reservation): String = {
     s"""
        |aantal: ${reservation.aantal}
-       |aantal min 12: ${reservation.aantalMin12}
        |datum: ${reservation.datum}
        |naam: ${reservation.naam}
        |email: ${reservation.email}
        |adres1: ${reservation.adres1}
        |adres2: ${reservation.adres2}
        |opDeHoogteBlijven: ${reservation.opDeHoogteBlijven}
-       |commentaar: ${reservation.commentaar}
+       |commentaar: ${reservation.commentaar.trim}
     """.stripMargin
   }
 }

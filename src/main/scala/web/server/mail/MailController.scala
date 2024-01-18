@@ -36,7 +36,6 @@ class MailController(mailFacade: MailFacade) {
   @PostMapping(value = Array("reservationconfirmation"))
   def reservation(
     @RequestParam aantal: String,
-    @RequestParam aantalMin12: String,
     @RequestParam datum: String,
     @RequestParam naam: String,
     @RequestParam email: String,
@@ -49,7 +48,6 @@ class MailController(mailFacade: MailFacade) {
     mailFacade.reservation(
       Reservation(
         aantal,
-        aantalMin12,
         datum,
         naam,
         email,
@@ -81,7 +79,6 @@ class MailController(mailFacade: MailFacade) {
     mailFacade.reservationOk(
       Reservation(
         "aantal",
-        "aantalMin12",
         "datum",
         "naam",
         "email",
@@ -99,7 +96,6 @@ class MailController(mailFacade: MailFacade) {
     mailFacade.reservationNok(
       Reservation(
         "aantal",
-        "aantalMin12",
         "datum",
         "naam",
         "email",

@@ -13,9 +13,11 @@ class ReactionMailSender(
 ) {
 
   def send(reaction: Reaction): Unit = {
+    val tos: Seq[String] = reactionMailTo.split(",").toSeq
     val message = new SimpleMailMessage
     message.setFrom(mailFrom)
-    message.setTo(reactionMailTo)
+    message.setReplyTo(mailFrom)
+    message.setTo(tos: _*)
     message.setSubject("Reactie")
     message.setText(mailText(reaction))
     mailSender.send(message)

@@ -2,7 +2,6 @@ package web.server.mail.domain
 
 case class Reservation(
   aantal: String,
-  aantalMin12: String,
   datum: String,
   naam: String,
   email: String,

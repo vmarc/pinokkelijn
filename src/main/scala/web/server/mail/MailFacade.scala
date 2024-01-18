@@ -42,7 +42,7 @@ class MailFacade(
   def reservation(reservation: Reservation): String = {
     log.info(s"reservation: $reservation")
     reservationMailSender.send(reservation)
-    if ("revue".equals(reservation.codewoord.toLowerCase())) {
+    if ("flarden".equals(reservation.codewoord.toLowerCase())) {
       reservationOk(reservation)
     }
     else {
