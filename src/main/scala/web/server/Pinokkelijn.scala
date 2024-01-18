@@ -8,3 +8,6 @@ object Pinokkelijn {
     SpringApplication.run(app, args)
   }
 }
+
+class Pinokkelijn() {
+}
