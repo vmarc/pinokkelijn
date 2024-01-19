@@ -1,3 +1,3 @@
 package web.domain
 
-class Task(val description: String, val persons: Seq[Person])  
+case class Task(description: String, persons: Seq[Person])

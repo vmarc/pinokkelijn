@@ -25,7 +25,6 @@ import web.pages.ProductionPhotosPage
 import web.pages.ProductionsPage
 import web.pages.ReactionPage
 import web.pages.ReservationPage
-import web.server.engine.PageBuilder
 import web.server.mail.HtmlPrettyPrinter
 import web.server.sitemap.SiteMapBuilder
 import web.server.sitemap.SiteMapReader
@@ -57,7 +56,6 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
   private val siteMapBuilder = new SiteMapBuilder(updatedUrls, oldSiteMap)
 
   val htmlPrettyPrinter = new HtmlPrettyPrinter()
-  private val pageBuilder = new PageBuilder(htmlPrettyPrinter)
   private val images = new ImageParser(options).parse()
 
   def build(): Unit = {
@@ -120,13 +118,8 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
     val outputFilename = options.rootDir + url
 
     siteMapBuilder.addUrl(url)
-    stringToFile(string.toString(), outputFilename)
-  }
-
-  private def build(context: Map[String, Any], templateName: String, outputFilename: String): Unit = {
-    siteMapBuilder.addUrl(outputFilename.substring(options.rootDir.length + 1))
-    val result = pageBuilder.build(context, templateName)
-    stringToFile(result, outputFilename)
+    val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+    stringToFile(prettyString, outputFilename)
   }
 
   private def makeRootPages(): Unit = {
@@ -143,7 +136,8 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val outputFilename = options.rootDir + url
 
       siteMapBuilder.addUrl(url)
-      stringToFile(string.toString(), outputFilename)
+      val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+      stringToFile(prettyString, outputFilename)
     }
 
     {
@@ -158,7 +152,8 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val outputFilename = options.rootDir + url
 
       siteMapBuilder.addUrl(url)
-      stringToFile(string.toString(), outputFilename)
+      val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+      stringToFile(prettyString, outputFilename)
     }
 
     {
@@ -173,7 +168,8 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val outputFilename = options.rootDir + url
 
       siteMapBuilder.addUrl(url)
-      stringToFile(string.toString(), outputFilename)
+      val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+      stringToFile(prettyString, outputFilename)
     }
 
     {
@@ -188,7 +184,8 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val outputFilename = options.rootDir + url
 
       siteMapBuilder.addUrl(url)
-      stringToFile(string.toString(), outputFilename)
+      val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+      stringToFile(prettyString, outputFilename)
     }
   }
 
@@ -209,7 +206,8 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val outputFilename = options.rootDir + url
 
       siteMapBuilder.addUrl(url)
-      stringToFile(string.toString(), outputFilename)
+      val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+      stringToFile(prettyString, outputFilename)
     }
 
     {
@@ -228,7 +226,8 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val outputFilename = options.rootDir + url
 
       siteMapBuilder.addUrl(url)
-      stringToFile(string.toString(), outputFilename)
+      val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+      stringToFile(prettyString, outputFilename)
     }
   }
 
@@ -248,7 +247,9 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
     val outputFilename = options.rootDir + url
 
     siteMapBuilder.addUrl(url)
-    stringToFile(string.toString(), outputFilename)
+
+    val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+    stringToFile(prettyString, outputFilename)
   }
 
   private def makePersonPage(personTriplet: Triplet[Person]): Unit = {
@@ -272,7 +273,8 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
     val outputFilename = options.rootDir + url
 
     siteMapBuilder.addUrl(url)
-    stringToFile(string.toString(), outputFilename)
+    val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+    stringToFile(prettyString, outputFilename)
   }
 
   private def makePage(productions: Triplet[Production]): Unit = {
@@ -306,7 +308,8 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val outputFilename = options.rootDir + url
 
       siteMapBuilder.addUrl(url)
-      stringToFile(string.toString(), outputFilename)
+      val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+      stringToFile(prettyString, outputFilename)
     }
 
     {
@@ -328,7 +331,8 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val outputFilename = options.rootDir + url
 
       siteMapBuilder.addUrl(url)
-      stringToFile(string.toString(), outputFilename)
+      val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+      stringToFile(prettyString, outputFilename)
     }
   }
 
@@ -363,6 +367,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
     val outputFilename = options.rootDir + url
 
     siteMapBuilder.addUrl(url)
-    stringToFile(string.toString(), outputFilename)
+    val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+    stringToFile(prettyString, outputFilename)
   }
 }
