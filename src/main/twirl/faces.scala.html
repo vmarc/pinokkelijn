@@ -1,0 +1,17 @@
+@(page: web.pages.FacesPage)
+
+<h1>Spelers en medewerkers</h1>
+
+<div class="faces">
+  <ul>
+    @for(personInfo <- page.personInfos) {
+      <li>
+        <a href="personen/@(personInfo.person.key + ".html")"
+        title="${personInfo.person.name} (@personInfo.longStatistics)">
+          @{ /*unescape(*/page.images.small(personInfo.person)}
+        </a>
+      </li>
+    }
+  </ul>
+  <div style="clear: both"></div>
+</div>

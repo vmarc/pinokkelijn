@@ -1,0 +1,23 @@
+@(page: web.pages.PostersPage)
+
+<h1>Affiches</h1>
+
+<div class="highslide-gallery">
+	<ul>
+		@for(production <- page.productions) {
+			@if(page.images.hasPoster(production)) {
+				<li>
+					<a class="highslide" href="producties/@production.id/@production.id-poster.jpg"
+					title="@production.longTitle"
+					onclick="return hs.expand(this, config1 )">
+						@*${unescape( *@ page.images.smallPosterFile(production)
+					</a>
+					<div class='highslide-caption'>
+						<a href='producties/${production.id}/index.html'>@production.year</a> - @production.title
+					</div>
+				</li>
+			}
+		}
+	</ul>
+	<div style="clear:both"></div>
+</div>

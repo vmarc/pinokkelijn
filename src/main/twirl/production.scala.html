@@ -1,0 +1,127 @@
+@(page: web.pages.ProductionPage)
+
+<h1>@page.production.longTitle</h1>
+
+<ul class="top-menu">
+  <li>
+  @if(page.previousProduction.isDefined) {
+    <a href="../@page.previousProduction.get.id/index.html" title="Ga naar de vorige productie: @page.previousProduction.get.title">
+      Vorige</a>
+  } else {
+    Vorige
+  }
+  </li>
+  <li>
+  @if(page.nextProduction.isDefined) {
+    <a href="../@(page.nextProduction.get.id)/index.html" title="Ga naar de volgende productie: @page.nextProduction.get.title">
+      Volgende</a>
+  } else {
+    Volgende
+  }
+  </li>
+  @if(page.photos.nonEmpty) {
+    <li>
+      <a href="photos.html" title="Toon productie fotos">Fotos</a> <span class="comment">(${photos.size})</span>
+    </li>
+  }
+</ul>
+
+@if(page.production.shortDescription.nonEmpty) {
+  <p class="subtitle">
+  @page.production.shortDescription
+  </p>
+}
+
+@if(page.images.hasPoster(page.production)) {
+  <div class="production-poster">
+    <a href="@page.production.id-poster.jpg" class="highslide" onclick="return hs.expand(this)">
+      ${unescape(images.largePoster(production))}
+    </a>
+  </div>
+}
+
+@if(page.production.description.nonEmpty) {
+  <div class="production-description">
+    @*${unescape(*@ @page.production.description
+  </div>
+}
+@*<%--*@
+@* Personages en Medewerkers*@
+@*--%>*@
+@if(page.production.actors.nonEmpty || page.production.tasks.nonEmpty) {
+
+  @if(page.production.actors.nonEmpty) {
+    <div class="roles">
+      <div class="roles-title">Personages</div>
+      @for(actor <- page.production.actors) {
+        <div class="role-left">
+          <p>
+          @if(actor.person.key.nonEmpty) {
+            <a
+            href="../../personen/${actor.person.key}.html"
+            title="Ga naar pagina van: ${actor.person.name}"
+            >
+              ${actor.person.name}
+            </a>
+          } else {
+            ${actor.person.name}
+          }
+          </p>
+        </div>
+        <div class="role-right">
+          <p>@actor.longRole @@nbsp;</p>
+        </div>
+      }
+    </div>
+  }
+
+  @if(page.production.tasks.nonEmpty) {
+    <div class="roles">
+      <div class="roles-title">Medewerkers</div>
+      @for(task <- page.production.tasks) {
+        <div class="role-left">
+          <p>@task.description</p>
+        </div>
+        <div class="role-right">
+        @for(person <- task.persons) {
+          <p>
+          @if(person.key.nonEmpty) {
+            <a
+            href="../../personen/${person.key}.html"
+            title="Ga naar pagina van: ${person.name}"
+            >
+            @person.name
+            </a>
+          } else {
+            @person.name
+          }
+          </p>
+        }
+        </div>
+      }
+    </div>
+  }
+}
+
+@if(page.production.performances.nonEmpty) {
+  <h2>Voorstellingen</h2>
+  <div class="production-performances">
+  @for(performance <- page.production.performances) {
+    <p>@*${unescape(*@ performance.description</p>
+  }
+  </div>
+  @if(page.production.location.nonEmpty) {
+    <div class="production-location">
+      <p>@*${unescape(*@ production.location</p>
+    </div>
+  }
+}
+
+@for(article <- page.production.articles) {
+  <div class="article">
+    @*${unescape(*@ @article
+  </div>
+}
+<br/>
+<br/>
+<br/>

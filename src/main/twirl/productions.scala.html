@@ -1,0 +1,30 @@
+@(page: web.pages.ProductionsPage)
+
+<h1>Producties</h1>
+
+<p class="subtitleHelp">
+  Klik op de titel voor meer details over de productie.
+</p>
+
+<div class="productions">
+  <ul>
+@*    <% var index = productions.size + 1 %>*@
+    @for(production <- page.productions) {
+@*      <% index = index - 1 %>*@
+      <li>
+        <div class="production-name">
+          <span class="production-index">(TODO${index})</span>
+          <a href="producties/${production.id}/index.html">
+            @production.longTitle
+          </a>
+        </div>
+
+        @if(production.shortDescription.nonEmpty) {
+          <div class="production-description">
+            @production.shortDescription
+          </div>
+        }
+      </li>
+    }
+  </ul>
+</div>

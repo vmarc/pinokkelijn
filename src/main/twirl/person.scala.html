@@ -1,0 +1,79 @@
+@(page: web.pages.PersonPage)
+
+<h1>@page.info.person.name</h1>
+
+<ul class="top-menu">
+  <li>
+  @if(page.info.previous.isDefined) {
+    <a href="@(page.info.previous.get.key + ".html")" title="Ga naar vorige medewerker: @page.info.previous.get.name">
+      Vorige
+    </a>
+  } else {
+    Vorige
+  }
+  </li>
+  <li>
+    @if(page.info.next.isDefined) {
+      <a href="@(page.info.next.get.key + ".html")" title="Ga naar volgende medewerker: @page.info.next.get.name">Volgende</a>
+  } else {
+    Volgende
+    }
+  </li>
+</ul>
+
+@if(page.images.hasPerson(page.info.person)) {
+  <div class="person-photo">
+    @* ${unescape(*@ @(page.images.person(page.info.person))
+  </div>
+}
+
+@if(page.info.statistics.nonEmpty) {
+  <p>
+  @page.info.statistics
+  </p>
+}
+
+<div class="highslide-gallery">
+
+@for(detail <- page.info.details) {
+  <div class="image-group">
+
+    <div class="image-group-title">
+      <a href="../producties/@detail.production.id/index.html" title="Informatie over de productie: @detail.production.title">
+      @detail.production.longTitle
+      </a>
+      <span class="contributions">@detail.contributionsString</span>
+      <p class="production-description">
+      @detail.production.shortDescription
+      </p>
+    </div>
+
+    @if(detail.photos.nonEmpty) {
+      <div class="person-detail-photo-block">
+        <ul>
+          @for(photo <- detail.photos) {
+          <li>
+            <a href="../producties/@detail.production.id/fotos-groot/${photo.id}.jpg"
+            class="highslide"
+            title="@detail.production.longTitle @detail.contributionsString @photo.personTitleText"
+            onclick="return hs.expand(this, config1)">
+              @*${unescape(*@ @page.images.smallPersonPhoto(photo)
+            </a>
+
+            <div class='highslide-caption'>
+              <p>
+                @detail.production.longTitle &nbsp;&nbsp;
+                @detail.contributionsString
+              </p>
+              <p>
+                @*${unescape(*@ @photo.personCaptionText
+              </p>
+            </div>
+          </li>
+          }
+        </ul>
+      </div>
+    }
+  </div>
+}
+</div>

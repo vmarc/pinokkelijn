@@ -66,11 +66,11 @@
       <version>2.13.2</version>
     </dependency>
 
-<!--    <dependency>-->
-<!--      <groupId>org.scala-lang.modules</groupId>-->
-<!--      <artifactId>scala-xml_2.13</artifactId>-->
-<!--      <version>2.1.0</version>-->
-<!--    </dependency>-->
+    <!--    <dependency>-->
+    <!--      <groupId>org.scala-lang.modules</groupId>-->
+    <!--      <artifactId>scala-xml_2.13</artifactId>-->
+    <!--      <version>2.1.0</version>-->
+    <!--    </dependency>-->
 
     <dependency>
       <groupId>org.scalatra.scalate</groupId>
@@ -94,6 +94,12 @@
       <groupId>com.github.scopt</groupId>
       <artifactId>scopt_2.13</artifactId>
       <version>4.1.0</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.playframework.twirl</groupId>
+      <artifactId>twirl-api_2.13</artifactId>
+      <version>2.0.3</version>
     </dependency>
 
     <dependency>
@@ -140,6 +146,19 @@
         <configuration>
           <mainClass>web.server.Pinokkelijn</mainClass>
         </configuration>
+      </plugin>
+      <plugin>
+        <groupId>org.playframework.twirl</groupId>
+        <artifactId>twirl-maven-plugin_2.13</artifactId>
+        <version>2.0.3</version>
+        <executions>
+          <execution>
+            <phase>generate-sources</phase>
+            <goals>
+              <goal>compile</goal>
+            </goals>
+          </execution>
+        </executions>
       </plugin>
     </plugins>
   </build>

@@ -1,0 +1,39 @@
+@(page: web.pages.Page)(content: Html)
+
+<html lang="nl" xml:lang="nl">
+  <head>
+    <title>@page.title - Pinokkelijn</title>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <meta name="keywords" content="@page.keyWords pinokkelijn pinokelijn toneel essen theater theatre amateurtheater "/>
+    <meta name="description" content="@page.description"/>
+
+    <link rel="stylesheet" type="text/css" href="@page.root/styles.css"/>
+
+    <script type="text/javascript" src="@page.root/highslide/highslide-with-gallery.js"></script>
+    <script type="text/javascript" src="@page.root/highslide/highslide.config.js" charset="utf-8"></script>
+    <link rel="stylesheet" type="text/css" href="@page.root/highslide/highslide.css" />
+
+    <script type="text/javascript" charset="utf-8">
+            hs.graphicsDir = '@page.root/highslide/graphics/';
+    </script>
+
+  </head>
+  <body>
+    <div id="container">
+      <div id="top">
+        @html.header(page)
+      </div>
+      <div id="content">
+        @content
+      </div>
+      <div id="push"></div>
+    </div>
+    <div id="footer">
+      <div id="footer-box">
+        <div id="footer-content">
+          @html.footer(page.root)
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,159 @@
+@(page: web.pages.ReservationPage)
+
+<script type="text/javascript">
+<!--
+function frmSubmit() {
+	if ( document.frm.naam.value == '' ) {
+		alert('Gelieve uw naam in te vullen');
+		document.frm.naam.focus();
+		return;
+	}
+	if ( document.frm.adres1.value == '' ) {
+		alert('Gelieve uw adres in te vullen');
+		document.frm.adres1.focus();
+		return;
+	}
+	if ( document.frm.adres2.value == '' ) {
+		alert('Gelieve uw adres in te vullen');
+		document.frm.adres2.focus();
+		return;
+	}
+	if ( document.frm.codewoord.value == '' ) {
+		alert('Gelieve het codewoord in te vullen (het codewoord is KAT)');
+		document.frm.codewoord.focus();
+		return;
+	}
+	document.frm.submit();
+}
+//-->
+</script>
+
+<h1>Reserveren</h1>
+<p>
+Er zijn momenteel geen voorstellingen waarvoor U kunt reserveren.
+</p>
+
+
+<%--
+
+<h1>Kat in de zak - Reserveren</h1>
+
+<p>
+<br/>
+</p>
+
+	<i><b>De reservaties via internet werden afgesloten.  Voor reservaties kunt u nog wel steeds bellen naar 03 667 36 07. Of kom gewoon naar het Gildenhuis zonder reservatie. Er zijn nog voldoende plaatsen vrij.
+	</b></i><br/><br/>
+
+	<i><b>Momenteel zijn er geen voorstellingen waarvoor U kunt reserveren.</b></i>
+	<i><b>Kaarten voor de resterende voorstellingen kunnen enkel nog telefonisch op 03 667 36 07 gereserveerd worden.</b></i>
+	<i><b>Kaarten voor de voorstellingen van 16 en 17 maart kunnen enkel nog telefonisch gereserveerd worden (03 667 36 07).</b></i>
+	<br/><br/><i><b>De reservaties via internet werden afgesloten.  U kan nog wel telefonisch reserveren (03 667 36 07), of gewoon naar het Volkshuis komen.  Er is nog plaats genoeg.</b></i>
+	<br/><br/><i><b>Voor de voorstellingen van 9 en 10 maart zijn de reservaties via deze pagina afgesloten.  Reservaties kunnen enkel nog telefonisch op 03 667 36 07.  Er zijn ook nog kaarten ter beschikking direct voor de voorstelling aan de kassa in de zaal.</b></i>
+
+<form name='frm' method='post' action='reservationconfirmation.php'>
+
+	<div class='reservation-label'>Aantal kaarten</div>
+	<div class='reservation-value'>
+		<select name='aantal'>
+			<option SELECTED value='1'>1</option>
+			<option value='2'>2</option>
+			<option value='3'>3</option>
+			<option value='4'>4</option>
+			<option value='5'>5</option>
+			<option value='6'>6</option>
+			<option value='7'>7</option>
+			<option value='8'>8</option>
+			<option value='9'>9</option>
+		</select>
+		aan &euro; 10 per stuk
+	</div>
+	<div style="clear: both"></div>
+	<div class='reservation-label'>Datum voorstelling: </div>
+	<div class='reservation-value'>
+		<select name='datum'>
+			<option value='8 november'>Vrijdag 8 november 20u</option>
+			<option value='9 november'>Zaterdag 9 november 20u</option>
+			<option value='16 november'>Zaterdag 16  november 20u</option>
+			<option value='17 november'>Zondag 17 november 15u</option>
+		</select>
+	</div>
+	<div style="clear: both"></div>
+	<div class='reservation-label'>Naam</div>
+	<input class='reservation-value' type="text" name="naam" />
+	<div style="clear: both"></div>
+
+	<div class='reservation-label'>e-mailadres</div>
+	<input class='reservation-value' type='text' name='email' />
+	<div style="clear: both"></div>
+
+	<div class='reservation-label'>Straat en nummer</div>
+	<input class="reservation-value" type='text' name='adres1'/>
+	<div style="clear: both"></div>
+
+	<div class='reservation-label'>Postcode en Gemeente</div>
+	<input class="reservation-value" type='text' name='adres2' />
+	<div style="clear: both"></div>
+
+
+	<div style="clear: both"></div>
+	<div class='reservation-label'>Ik wens op de hoogte te blijven van de producties van Pinokkelijn: </div>
+	<div class='reservation-value'>
+
+	<select name='op-de-hoogte-blijven'>
+		<option value='ja'>Ja</option>
+		<option value='nee'>Nee</option>
+	</select>
+	</div>
+
+	<div style="clear: both"></div>
+	<div class='reservation-label'>Commentaar</div>
+	<textarea class='reservation-value' type='checkbox' name='commentaar' rows='5' cols='60'></textarea>
+	<div style="clear: both"></div>
+
+	<div class='reservation-label'>&nbsp;</div>
+	<div class='reservation-value'>
+		<i>Als bijkomende controle op de geldigheid van deze reservatie vragen wij
+		U in het vakje hieronder het codewoord in te vullen (het codewoord is KAT).</i>
+	</div>
+	<div style="clear: both"></div>
+
+	<div class='reservation-label'>Code woord</div>
+	<div class='reservation-value'>
+		<input type='text' name='codewoord'/>
+	</div>
+	<div style="clear: both"></div>
+
+	<div class='reservation-label'>&nbsp;</div>
+	<div class='reservation-value'>
+		<i>
+			De gegevens die wij vragen worden enkel gebruikt voor de verwerking van uw reservatie.
+			Ze worden in geen geval doorgegeven aan derden.
+		</i>
+	</div>
+
+	<div style="clear: both"></div>
+	<div class='reservation-label'>&nbsp;</div>
+	<div class='reservation-value'>
+		<input type='button' value='VERZENDEN' onclick='frmSubmit()'/>
+		<input type='reset' value='ALLES WISSEN'/>
+	</div>
+
+	<div style="clear: both"></div>
+
+	<p>
+		<--
+		<br/>De voorstellingen gaan door in Zaal Volkshuis, Stationsstraat 136, 2910 Essen.
+    <br/>De voorstellingen gaan door in <a href="oudepastorij.html">De Oude Pastorij</a>, Essendonk 3, 2910 Essen.
+    <br/>De voorstellingen gaan door in Het Gildenhuys - Stationsstraat 59, 2910 Essen.
+		-->
+		<br/>De voorstellingen gaan door in zaal REX, Spoorwegstraat 11, 2910 Essen (schuin tegenover het station Essen Centraal).
+
+		<br/>De kaarten liggen aan de kassa op de avond van de voorstelling en kunnen daar betaald worden.
+		<br/>
+		<br/>
+		Inlichtingen of reserveren via e-mail: <a href="mailto:info@@pinokkelijn.be">info@@pinokkelijn.be</a> of via de Pinokkelfoon: <b>0472 56 79 03</b>.
+	</p>
+
+</form>
+--%>
