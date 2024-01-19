@@ -26,11 +26,11 @@
 	<ul>
 		@for(photo <- page.photos) {
 			<li>
-				<a class="highslide" href="fotos-groot/${photo.id}.jpg" title="@photo.productionTitleText" onclick="return hs.expand(this, config1 )">
-					@*${unescape(*@ @page.images.smallProductionPhoto(photo)
+				<a class="highslide" href="fotos-groot/@(photo.id).jpg" title="@photo.productionTitleText" onclick="return hs.expand(this, config1 )">
+					@Html(page.images.smallProductionPhoto(photo))
 				</a>
 				<div class='highslide-caption'>
-					@*${unescape(*@ @photo.productionCaptionText
+					@Html(photo.productionCaptionText)
 				</div>
 			</li>
 		}

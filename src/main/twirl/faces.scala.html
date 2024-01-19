@@ -7,8 +7,8 @@
     @for(personInfo <- page.personInfos) {
       <li>
         <a href="personen/@(personInfo.person.key + ".html")"
-        title="${personInfo.person.name} (@personInfo.longStatistics)">
-          @{ /*unescape(*/page.images.small(personInfo.person)}
+        title="@personInfo.person.name (@personInfo.longStatistics)">
+          @Html(page.images.small(personInfo.person))
         </a>
       </li>
     }

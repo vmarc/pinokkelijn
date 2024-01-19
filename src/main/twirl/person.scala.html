@@ -23,7 +23,7 @@
 
 @if(page.images.hasPerson(page.info.person)) {
   <div class="person-photo">
-    @* ${unescape(*@ @(page.images.person(page.info.person))
+    @Html(page.images.person(page.info.person))
   </div>
 }
 
@@ -53,20 +53,20 @@
         <ul>
           @for(photo <- detail.photos) {
           <li>
-            <a href="../producties/@detail.production.id/fotos-groot/${photo.id}.jpg"
+            <a href="../producties/@detail.production.id/fotos-groot/@(photo.id).jpg"
             class="highslide"
             title="@detail.production.longTitle @detail.contributionsString @photo.personTitleText"
             onclick="return hs.expand(this, config1)">
-              @*${unescape(*@ @page.images.smallPersonPhoto(photo)
+              @Html(page.images.smallPersonPhoto(photo))
             </a>
 
             <div class='highslide-caption'>
               <p>
-                @detail.production.longTitle &nbsp;&nbsp;
+                @detail.production.longTitle @Html("&nbsp;&nbsp;")
                 @detail.contributionsString
               </p>
               <p>
-                @*${unescape(*@ @photo.personCaptionText
+                @Html(photo.personCaptionText)
               </p>
             </div>
           </li>

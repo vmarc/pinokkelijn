@@ -1,5 +1,9 @@
 package web.tools
 
+import play.twirl.api.Html
+import play.twirl.api.Template1
+import play.twirl.api.Template3
+import web.common.Templates
 import web.common.Util.copyFile
 import web.common.Util.listFiles
 import web.common.Util.slide
@@ -9,12 +13,25 @@ import web.domain.PersonDetail
 import web.domain.Photo
 import web.domain.Production
 import web.domain.Site
+import web.pages.FacesPage
+import web.pages.IndexPage
+import web.pages.IntroPage
+import web.pages.LedenPage
+import web.pages.PersonPage
+import web.pages.PersonsPage
+import web.pages.PostersPage
+import web.pages.ProductionPage
+import web.pages.ProductionPhotosPage
+import web.pages.ProductionsPage
+import web.pages.ReactionPage
+import web.pages.ReservationPage
 import web.server.engine.PageBuilder
 import web.server.mail.HtmlPrettyPrinter
 import web.server.sitemap.SiteMapBuilder
 import web.server.sitemap.SiteMapReader
 import web.server.sitemap.SiteMapUrl
 import web.server.sitemap.SiteMapWriter
+import web.view.Images
 import web.view.PersonInfo
 import web.view.Triplet
 
@@ -50,7 +67,6 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
     copyStaticContents()
 
     new ImageCopy(site, options).build()
-
     if (options.images) {
       new ImageBuilder(site, options).build()
     }
@@ -93,12 +109,18 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
   }
 
   private def makeIndexPage(): Unit = {
-    val context = Map[String, Any](
-      "root" -> ".",
-      "images" -> images,
-    )
+    val page = IndexPage(".")
 
-    build(context, "templates/index.ssp", options.rootDir + "index.html")
+    val contentTemplate = Templates.getTemplate[Template1[IndexPage, Html]]("html.index")
+    val contents = contentTemplate.render(page)
+    val pageTemplate = Templates.getTemplate[Template3[web.pages.Page, Images, Html, Html]]("html.page")
+    val string = pageTemplate.render(page, images, contents)
+
+    val url = "/index.html"
+    val outputFilename = options.rootDir + url
+
+    siteMapBuilder.addUrl(url)
+    stringToFile(string.toString(), outputFilename)
   }
 
   private def build(context: Map[String, Any], templateName: String, outputFilename: String): Unit = {
@@ -108,35 +130,125 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
   }
 
   private def makeRootPages(): Unit = {
-    val sourceDir = options.sourceDir + "/wrk/pages"
-    val context = Map[String, Any](
-      "root" -> ".",
-      "images" -> images,
-      "site" -> site
-    )
-    build(context, "templates/leden.ssp", options.rootDir + "leden.html")
-    build(context, "templates/intro.ssp", options.rootDir + "intro.html")
-    build(context, "templates/reaction.ssp", options.rootDir + "reaction.html")
-    build(context, "templates/reservation.ssp", options.rootDir + "reservation.html")
+
+    {
+      val page = LedenPage(".")
+
+      val contentTemplate = Templates.getTemplate[Template1[LedenPage, Html]]("html.leden")
+      val contents = contentTemplate.render(page)
+      val pageTemplate = Templates.getTemplate[Template3[web.pages.Page, Images, Html, Html]]("html.page")
+      val string = pageTemplate.render(page, images, contents)
+
+      val url = "/leden.html"
+      val outputFilename = options.rootDir + url
+
+      siteMapBuilder.addUrl(url)
+      stringToFile(string.toString(), outputFilename)
+    }
+
+    {
+      val page = IntroPage(".")
+
+      val contentTemplate = Templates.getTemplate[Template1[IntroPage, Html]]("html.intro")
+      val contents = contentTemplate.render(page)
+      val pageTemplate = Templates.getTemplate[Template3[web.pages.Page, Images, Html, Html]]("html.page")
+      val string = pageTemplate.render(page, images, contents)
+
+      val url = "/intro.html"
+      val outputFilename = options.rootDir + url
+
+      siteMapBuilder.addUrl(url)
+      stringToFile(string.toString(), outputFilename)
+    }
+
+    {
+      val page = ReactionPage(".")
+
+      val contentTemplate = Templates.getTemplate[Template1[ReactionPage, Html]]("html.reaction")
+      val contents = contentTemplate.render(page)
+      val pageTemplate = Templates.getTemplate[Template3[web.pages.Page, Images, Html, Html]]("html.page")
+      val string = pageTemplate.render(page, images, contents)
+
+      val url = "/reaction.html"
+      val outputFilename = options.rootDir + url
+
+      siteMapBuilder.addUrl(url)
+      stringToFile(string.toString(), outputFilename)
+    }
+
+    {
+      val page = ReservationPage(".")
+
+      val contentTemplate = Templates.getTemplate[Template1[ReservationPage, Html]]("html.reservation")
+      val contents = contentTemplate.render(page)
+      val pageTemplate = Templates.getTemplate[Template3[web.pages.Page, Images, Html, Html]]("html.page")
+      val string = pageTemplate.render(page, images, contents)
+
+      val url = "/reservation.html"
+      val outputFilename = options.rootDir + url
+
+      siteMapBuilder.addUrl(url)
+      stringToFile(string.toString(), outputFilename)
+    }
   }
 
   private def makeProductionsPages(): Unit = {
-    val context = Map[String, Any](
-      "root" -> ".",
-      "images" -> images,
-      "productions" -> site.productions.reverse
-    )
-    build(context, "templates/productions.ssp", options.rootDir + "producties.html")
-    build(context, "templates/posters.ssp", options.rootDir + "posters.html")
+
+    {
+      val page = ProductionsPage(
+        ".",
+        site.productions.reverse
+      )
+
+      val contentTemplate = Templates.getTemplate[Template1[ProductionsPage, Html]]("html.productions")
+      val contents = contentTemplate.render(page)
+      val pageTemplate = Templates.getTemplate[Template3[web.pages.Page, Images, Html, Html]]("html.page")
+      val string = pageTemplate.render(page, images, contents)
+
+      val url = "/producties.html"
+      val outputFilename = options.rootDir + url
+
+      siteMapBuilder.addUrl(url)
+      stringToFile(string.toString(), outputFilename)
+    }
+
+    {
+      val page = PostersPage(
+        ".",
+        site.productions.reverse,
+        images
+      )
+
+      val contentTemplate = Templates.getTemplate[Template1[PostersPage, Html]]("html.posters")
+      val contents = contentTemplate.render(page)
+      val pageTemplate = Templates.getTemplate[Template3[web.pages.Page, Images, Html, Html]]("html.page")
+      val string = pageTemplate.render(page, images, contents)
+
+      val url = "/posters.html"
+      val outputFilename = options.rootDir + url
+
+      siteMapBuilder.addUrl(url)
+      stringToFile(string.toString(), outputFilename)
+    }
   }
 
   private def makePersonsPages(): Unit = {
-    val context = Map[String, Any](
-      "root" -> ".",
-      "images" -> images,
-      "letterPersonsCollection" -> site.letterPersonsCollection
+
+    val page = PersonsPage(
+      ".",
+      site.letterPersonsCollection
     )
-    build(context, "templates/persons.ssp", options.rootDir + "personen-lijst.html")
+
+    val contentTemplate = Templates.getTemplate[Template1[PersonsPage, Html]]("html.persons")
+    val contents = contentTemplate.render(page)
+    val pageTemplate = Templates.getTemplate[Template3[web.pages.Page, Images, Html, Html]]("html.page")
+    val string = pageTemplate.render(page, images, contents)
+
+    val url = "/personen-lijst.html"
+    val outputFilename = options.rootDir + url
+
+    siteMapBuilder.addUrl(url)
+    stringToFile(string.toString(), outputFilename)
   }
 
   private def makePersonPage(personTriplet: Triplet[Person]): Unit = {
@@ -145,12 +257,22 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
     val details: Seq[PersonDetail] = if (options.isWeb) person.webDetails else person.details
     val personInfo = PersonInfo(person, personTriplet.previous, personTriplet.next, details)
 
-    val context = Map[String, Any](
-      "root" -> "..",
-      "images" -> images,
-      "info" -> personInfo
+    val page = PersonPage(
+      "..",
+      personInfo,
+      images
     )
-    build(context, "templates/person.ssp", options.personsDir + person.key + ".html")
+
+    val contentTemplate = Templates.getTemplate[Template1[PersonPage, Html]]("html.person")
+    val contents = contentTemplate.render(page)
+    val pageTemplate = Templates.getTemplate[Template3[web.pages.Page, Images, Html, Html]]("html.page")
+    val string = pageTemplate.render(page, images, contents)
+
+    val url = s"/personen/${person.key}.html"
+    val outputFilename = options.rootDir + url
+
+    siteMapBuilder.addUrl(url)
+    stringToFile(string.toString(), outputFilename)
   }
 
   private def makePage(productions: Triplet[Production]): Unit = {
@@ -164,17 +286,50 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
   }
 
   private def makePage(productions: Triplet[Production], photos: Seq[Photo]): Unit = {
-    val context = Map[String, Any](
-      "root" -> "..",
-      "images" -> images,
-      "root" -> "../..",
-      "production" -> productions.current,
-      "previousProduction" -> productions.previous,
-      "nextProduction" -> productions.next,
-      "photos" -> photos
-    )
-    build(context, "templates/production.ssp", options.dir(productions.current.id) + "index.html")
-    build(context, "templates/production-photos.ssp", options.dir(productions.current.id) + "photos.html")
+
+    {
+      val page = ProductionPage(
+        "../..",
+        productions.current,
+        productions.previous,
+        productions.next,
+        photos,
+        images
+      )
+
+      val contentTemplate = Templates.getTemplate[Template1[ProductionPage, Html]]("html.production")
+      val contents = contentTemplate.render(page)
+      val pageTemplate = Templates.getTemplate[Template3[web.pages.Page, Images, Html, Html]]("html.page")
+      val string = pageTemplate.render(page, images, contents)
+
+      val url = "producties/" + productions.current.id + "/index.html"
+      val outputFilename = options.rootDir + url
+
+      siteMapBuilder.addUrl(url)
+      stringToFile(string.toString(), outputFilename)
+    }
+
+    {
+      val page = ProductionPhotosPage(
+        "../..",
+        productions.current,
+        productions.previous,
+        productions.next,
+        photos,
+        images
+      )
+
+      val contentTemplate = Templates.getTemplate[Template1[ProductionPhotosPage, Html]]("html.productionPhotos")
+      val contents = contentTemplate.render(page)
+      val pageTemplate = Templates.getTemplate[Template3[web.pages.Page, Images, Html, Html]]("html.page")
+      val string = pageTemplate.render(page, images, contents)
+
+      val url = "producties/" + productions.current.id + "/photos.html"
+      val outputFilename = options.rootDir + url
+
+      siteMapBuilder.addUrl(url)
+      stringToFile(string.toString(), outputFilename)
+    }
   }
 
   private def copyStaticContents(): Unit = {
@@ -192,11 +347,22 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val details: Seq[PersonDetail] = if (options.isWeb) person.webDetails else person.details
       PersonInfo(person, None, None, details)
     }
-    val context = Map[String, Any](
-      "root" -> ".",
-      "images" -> images,
-      "personInfos" -> personInfos
+
+    val page = FacesPage(
+      personInfos,
+      images,
+      "./"
     )
-    build(context, "templates/faces.ssp", options.rootDir + "/personen-koppen.html")
+
+    val contentTemplate = Templates.getTemplate[Template1[FacesPage, Html]]("html.faces")
+    val contents = contentTemplate.render(page)
+    val pageTemplate = Templates.getTemplate[Template3[web.pages.Page, Images, Html, Html]]("html.page")
+    val string = pageTemplate.render(page, images, contents)
+
+    val url = "/personen-koppen.html"
+    val outputFilename = options.rootDir + url
+
+    siteMapBuilder.addUrl(url)
+    stringToFile(string.toString(), outputFilename)
   }
 }

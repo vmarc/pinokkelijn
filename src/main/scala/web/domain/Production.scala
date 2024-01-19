@@ -1,6 +1,7 @@
 package web.domain
 
 case class Production(
+  index: Int,
   id: String,
   title: String,
   year: String,

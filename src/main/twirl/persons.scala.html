@@ -6,24 +6,21 @@
 </p>
 
 <div class="persons">
-  @* <% var index = 0 %>*@
   @for(letterPersons <- page.letterPersonsCollection) {
   <div class="group">
     <div class="letter">
-      ${letterPersons.letter}
+      @letterPersons.letter
     </div>
     <div class="block">
       @for(person <- letterPersons.persons) {
       <div class="person">
         <span class="number">
-          TODO
-          @* <% index = index + 1 %>*@
-          @* ${index}*@
+          @(person.index + 1)
         </span>
         <span class="name">
           <a
           href="personen/@(person.key).html"
-          title="Ga naar het overzicht van de producties van ${person.name}">
+          title="Ga naar het overzicht van de producties van @person.name">
           @person.fullName
 </a>
 </span>

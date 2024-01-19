@@ -1,4 +1,4 @@
-@(page: web.pages.Page)(content: Html)
+@(page: web.pages.Page, images: web.view.Images, content: Html)
 
 <html lang="nl" xml:lang="nl">
   <head>
@@ -21,7 +21,7 @@
   <body>
     <div id="container">
       <div id="top">
-        @html.header(page)
+        @html.header(page, images)
       </div>
       <div id="content">
         @content

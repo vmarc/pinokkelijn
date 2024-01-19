@@ -1,11 +1,11 @@
-@(page: web.pages.Page)
+@(page: web.pages.Page, images: web.view.Images)
 
 <div>
   @if(page.name == "home") {
-    @* ${images(root, "images/pinokkelijn4.jpg", "Pinokkelijn")}*@
+    @Html(images(page.root, "images/pinokkelijn4.jpg", "Pinokkelijn"))
   } else {
     <a href="@page.root/index.html">
-      @* ${images(root, "images/pinokkelijn4.jpg", "Pinokkelijn")}*@
+    @Html(images(page.root, "images/pinokkelijn4.jpg", "Pinokkelijn"))
     </a>
   }
 </div>

@@ -8,20 +8,18 @@
 
 <div class="productions">
   <ul>
-@*    <% var index = productions.size + 1 %>*@
     @for(production <- page.productions) {
-@*      <% index = index - 1 %>*@
       <li>
         <div class="production-name">
-          <span class="production-index">(TODO${index})</span>
-          <a href="producties/${production.id}/index.html">
-            @production.longTitle
+          <span class="production-index">@(production.index + 1)</span>
+          <a href="producties/@production.id/index.html">
+          @production.longTitle
           </a>
         </div>
 
         @if(production.shortDescription.nonEmpty) {
           <div class="production-description">
-            @production.shortDescription
+          @production.shortDescription
           </div>
         }
       </li>

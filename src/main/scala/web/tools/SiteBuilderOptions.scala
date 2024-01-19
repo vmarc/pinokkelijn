@@ -5,9 +5,9 @@ import web.domain.Photo
 import web.domain.Production
 
 case class SiteBuilderOptions(
-  xmlDir: String = "/home/marcv/wrk/projects1/pinokkelijn/src/main/resources/xml",
-  sourceDir: String = "/home/marcv/svn/projects/web",
-  stagingDir: String = "/home/marcv/wrk/web/staging",
+  xmlDir: String = "/home/vmarc/wrk/projects/pinokkelijn/src/main/resources/xml",
+  sourceDir: String = "/home/vmarc/wrk/projects/pinokkelijn/src/main/resources",
+  stagingDir: String = "/home/vmarc/wrk/staging/pinokkelijn",
   target: String = "web",
   images: Boolean = true,
   root: Boolean = true,
@@ -18,6 +18,8 @@ case class SiteBuilderOptions(
   proxyPort: Int = 80,
   validate: Boolean = false
 ) {
+
+  def imageSourceDir = "/home/vmarc/wrk/projects/web/wrk/images"
 
   def rootDir: String = stagingDir + "/" + target + "/"
 
@@ -46,13 +48,13 @@ case class SiteBuilderOptions(
 
   def isWeb: Boolean = "web".equals(target)
 
-  def photoFile(photo: Photo): String = s"$sourceDir/wrk/images/productions/${photo.productionId}/gallery/${photo.id}.jpg"
+  def photoFile(photo: Photo): String = s"$imageSourceDir/productions/${photo.productionId}/gallery/${photo.id}.jpg"
 
   def smallPhotoFile(photo: Photo): String = s"${smallPhotosDir(photo.productionId)}${photo.id}.jpg"
 
   def largePhotoFile(photo: Photo): String = s"${largePhotosDir(photo.productionId)}${photo.id}.jpg"
 
-  def productionSourceDir(production: Production): String = s"$sourceDir/wrk/images/productions/${production.id}/"
+  def productionSourceDir(production: Production): String = s"$imageSourceDir/productions/${production.id}/"
 
   def posterSourceFile(production: Production): String = s"${productionSourceDir(production)}${production.id}-poster.jpg"
 
@@ -62,7 +64,7 @@ case class SiteBuilderOptions(
 
   def posterFile(production: Production): String = s"${dir(production.id)}${production.id}-poster.jpg"
 
-  def personSourcePhoto(person: Person): String = s"$sourceDir/wrk/images/persons/${person.key}.jpg"
+  def personSourcePhoto(person: Person): String = s"$imageSourceDir/persons/${person.key}.jpg"
 
   def smallPersonPhotoFile(person: Person): String = s"${personsDir}fotos-klein/${person.key}.jpg"
 
@@ -71,6 +73,5 @@ case class SiteBuilderOptions(
   def smallPersonPhotoName(person: Person): String = s"personen/fotos-klein/${person.key}.jpg"
 
   def largePersonPhotoName(person: Person): String = s"personen/fotos-groot/${person.key}.jpg"
-
 
 }

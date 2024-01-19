@@ -30,11 +30,12 @@ class SiteParser(xmldir: String) {
   }
 
   private def loadProductions(personsByName: Map[String, Person]): List[Production] = {
-    productionFiles.map { file =>
+    productionFiles.zipWithIndex.map { case(file, index) =>
       val node = loadFile(file)
       try {
         val productionId = (node \ "@id").text
         Production(
+          index,
           productionId,
           year = (node \ "@jaar").text,
           title = (node \ "@titel").text,
@@ -78,7 +79,7 @@ class SiteParser(xmldir: String) {
       val name = (actor \ "@naam").text
 
       val person = if (name.startsWith("*")) {
-        Person("", name.drop(1), "", Seq.empty)
+        Person(0, "", name.drop(1), "", Seq.empty)
       }
       else {
         personsByName.getOrElse(name, {
@@ -98,7 +99,7 @@ class SiteParser(xmldir: String) {
       val description = (task \ "@beschrijving").text
       val persons = (task \ "naam").map(_.text).map { name =>
         if (name.startsWith("*")) {
-          Person("", name.drop(1), "", Seq.empty)
+          Person(0, "", name.drop(1), "", Seq.empty)
         }
         else {
           personsByName.getOrElse(name, {
@@ -121,7 +122,7 @@ class SiteParser(xmldir: String) {
         show = (photo \ "@show").text == "true",
         persons = ((photo \ "personen") \ "naam").map(_.text).map { name =>
           if (name.startsWith("*")) {
-            Person("", name.drop(1), "", Seq.empty)
+            Person(0, "", name.drop(1), "", Seq.empty)
           }
           else {
             personsByName.getOrElse(name, {
@@ -150,7 +151,7 @@ class SiteParser(xmldir: String) {
         val lastName = (person \ "@naam").text
         val firstName = (person \ "@voornaam").text
         val key = personKey(lastName, firstName)
-        Person(key, lastName, firstName, Seq.empty)
+        Person(0, key, lastName, firstName, Seq.empty)
     }
   }
 

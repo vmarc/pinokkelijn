@@ -10,10 +10,10 @@
 					<a class="highslide" href="producties/@production.id/@production.id-poster.jpg"
 					title="@production.longTitle"
 					onclick="return hs.expand(this, config1 )">
-						@*${unescape( *@ page.images.smallPosterFile(production)
+						@Html(page.images.smallPosterFile(production))
 					</a>
 					<div class='highslide-caption'>
-						<a href='producties/${production.id}/index.html'>@production.year</a> - @production.title
+						<a href='producties/@production.id/index.html'>@production.year</a> - @production.title
 					</div>
 				</li>
 			}

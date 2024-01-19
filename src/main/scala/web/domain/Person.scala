@@ -31,7 +31,7 @@ object Person {
   }
 }
 
-case class Person(key: String, lastName: String, firstName: String, details: Seq[PersonDetail]) {
+case class Person(index: Int, key: String, lastName: String, firstName: String, details: Seq[PersonDetail]) {
 
   def letter: Char = lastName.toUpperCase.head
 
