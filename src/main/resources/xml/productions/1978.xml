@@ -29,14 +29,14 @@
   <acteurs>
     <acteur rol="ZUSTER MARGRIET" naam="Sonja Leenknecht">zuster</acteur>
     <acteur rol="ZUSTER GERTRUDIS" naam="Lif Verbeeck">zuster</acteur>
-    <acteur rol="MEFISTO" naam="Andr@eacute; Vloeberghs">duivel</acteur>
+    <acteur rol="MEFISTO" naam="André Vloeberghs">duivel</acteur>
     <acteur rol="GABRIEL" naam="Paul Ruys">engel</acteur>
     <acteur rol="MASKEROEN" naam="Cit Peeters">duivel</acteur>
     <acteur rol="BRUIDEGOM" naam="Joos Janssens"/>
     <acteur rol="STEM" naam="Joos Janssens"/>
     <acteur rol="DUIVEL" naam="Kristin Verbeeck"/>
     <acteur rol="DUIVEL" naam="Guy Janssens"/>
-    <acteur rol="DUIVEL" naam="Chris Hontel@eacute;"/>
+    <acteur rol="DUIVEL" naam="Chris Hontelé"/>
   </acteurs>
 
   <taken>
@@ -44,7 +44,7 @@
       <naam>Fons Janssens</naam>
     </taak>
     <taak beschrijving="Voorzegger">
-      <naam>Chris Hontel@eacute;</naam>
+      <naam>Chris Hontelé</naam>
     </taak>
     <taak beschrijving="Decor">
       <naam>Joos Janssens</naam>
@@ -62,7 +62,7 @@
   <fotos>
     <foto id="1978-01" web="true">
       <personen>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
         <naam>Sonja Leenknecht</naam>
       </personen>
     </foto>
@@ -78,13 +78,13 @@
       <personen>
         <naam>Paul Ruys</naam>
         <naam>Sonja Leenknecht</naam>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
       </personen>
     </foto>
 
     <foto id="1978-04" web="true">
       <personen>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
         <naam>Paul Ruys</naam>
         <naam>Sonja Leenknecht</naam>
       </personen>
@@ -104,7 +104,7 @@
 
     <foto id="1978-07" web="true">
       <personen>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
       </personen>
     </foto>
 
@@ -112,7 +112,7 @@
       <personen>
         <naam>Cit Peeters</naam>
         <naam>Sonja Leenknecht</naam>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
         <naam>Lif Verbeeck</naam>
       </personen>
     </foto>
@@ -122,7 +122,7 @@
         <naam>Sonja Leenknecht</naam>
         <naam>Cit Peeters</naam>
         <naam>Lif Verbeeck</naam>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
       </personen>
     </foto>
 
@@ -145,7 +145,7 @@
         <naam>Cit Peeters</naam>
         <naam>Sonja Leenknecht</naam>
         <naam>Lif Verbeeck</naam>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
       </personen>
     </foto>
 
@@ -155,7 +155,7 @@
         <naam>Sonja Leenknecht</naam>
         <naam>Fons Janssens</naam>
         <naam>Lif Verbeeck</naam>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
       </personen>
     </foto>
 
@@ -165,7 +165,7 @@
         <naam>Sonja Leenknecht</naam>
         <naam>Fons Janssens</naam>
         <naam>Lif Verbeeck</naam>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
       </personen>
     </foto>
 
@@ -175,7 +175,7 @@
         <naam>Sonja Leenknecht</naam>
         <naam>Fons Janssens</naam>
         <naam>Lif Verbeeck</naam>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
       </personen>
     </foto>
   </fotos>

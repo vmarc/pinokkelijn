@@ -3,7 +3,7 @@
 
   <korte-beschrijving>
     Komedie in drie delen van het bekende Franse
-    schrijversduo P.Barillet en J.P.Gr@eacute;dy.
+    schrijversduo P.Barillet en J.P.Grédy.
   </korte-beschrijving>
 
   <beschrijving>
@@ -18,8 +18,8 @@
       Twintig jaar lang hebben zij tussen deze muren lief en leed gedeeld...
       Andere kopers dagen op. Wie zal van deze kale kamers opnieuw
       een gezellig nestje maken? Het vlotte stel Bob en Jessica,
-      geflankeerd door de excentrieke Betty? De schuchtere Ir@egrave;ne
-      met haar Jo@euml;l?
+      geflankeerd door de excentrieke Betty? De schuchtere Irène
+      met haar Joël?
     </p>
 
     <p>
@@ -28,9 +28,11 @@
     </p>
 
     <p>
-      <BR/>@nbsp;@nbsp;@nbsp;@nbsp; - De schemerlamp (regie Richard Van Roey)
-      <BR/>@nbsp;@nbsp;@nbsp;@nbsp; - Betty Boop (regie Paul Ruys)
-      <BR/>@nbsp;@nbsp;@nbsp;@nbsp; - Toreador (regie Paul Ruys)
+      <ul>
+        <li>De schemerlamp (regie Richard Van Roey)</li>
+        <li>Betty Boop (regie Paul Ruys)</li>
+        <li>Toreador (regie Paul Ruys)</li>
+      </ul>
     </p>
 
   </beschrijving>
@@ -59,9 +61,9 @@
 
     <!-- Toreador -->
 
-    <acteur rol="IR@Egrave;NE" naam="Rita Blommaert"/>
+    <acteur rol="IRèNE" naam="Rita Blommaert"/>
     <acteur rol="SCHILDER" naam="Richard Van Roey"/>
-    <acteur rol="JO@Euml;L" naam="Kris Verellen"/>
+    <acteur rol="JOëL" naam="Kris Verellen"/>
   </acteurs>
 
   <taken>
@@ -77,7 +79,7 @@
     <taak beschrijving="Techniek">
       <naam>Gilberte Bisschops</naam>
       <naam>Luc Brosens</naam>
-      <naam>Ren@eacute; Fret</naam>
+      <naam>René Fret</naam>
       <naam>Seppe Hertogs</naam>
       <naam>Cit Peeters</naam>
       <naam>Francis Theuns</naam>
@@ -90,12 +92,12 @@
     <taak beschrijving="Affiche">
       <naam>Francis Theuns</naam>
     </taak>
-    <taak beschrijving="Organisatie en co@ouml;rdinatie">
+    <taak beschrijving="Organisatie en coördinatie">
       <naam>Kristin Verbeeck</naam>
       <naam>Gilberte Bisschops</naam>
     </taak>
     <taak beschrijving="Auteurs">
-      <naam>*P. Barillet en J.P. Gr@eacute;dy</naam>
+      <naam>*P. Barillet en J.P. Grédy</naam>
     </taak>
     <taak beschrijving="Vertaling">
       <naam>*Karel Van Bosheim</naam>

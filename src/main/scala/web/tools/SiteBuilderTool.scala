@@ -1,5 +1,6 @@
 package web.tools
 
+import org.jsoup.Jsoup
 import play.twirl.api.Html
 import play.twirl.api.Template1
 import play.twirl.api.Template3
@@ -25,7 +26,6 @@ import web.pages.ProductionPhotosPage
 import web.pages.ProductionsPage
 import web.pages.ReactionPage
 import web.pages.ReservationPage
-import web.server.mail.HtmlPrettyPrinter
 import web.server.sitemap.SiteMapBuilder
 import web.server.sitemap.SiteMapReader
 import web.server.sitemap.SiteMapUrl
@@ -55,7 +55,6 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
   private val oldSiteMap: Map[String, SiteMapUrl] = readOldSiteMap()
   private val siteMapBuilder = new SiteMapBuilder(updatedUrls, oldSiteMap)
 
-  val htmlPrettyPrinter = new HtmlPrettyPrinter()
   private val images = new ImageParser(options).parse()
 
   def build(): Unit = {
@@ -118,7 +117,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
     val outputFilename = options.rootDir + url
 
     siteMapBuilder.addUrl(url)
-    val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+    val prettyString = Jsoup.parse(string.toString()).html()
     stringToFile(prettyString, outputFilename)
   }
 
@@ -136,7 +135,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val outputFilename = options.rootDir + url
 
       siteMapBuilder.addUrl(url)
-      val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+      val prettyString = Jsoup.parse(string.toString()).html()
       stringToFile(prettyString, outputFilename)
     }
 
@@ -152,7 +151,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val outputFilename = options.rootDir + url
 
       siteMapBuilder.addUrl(url)
-      val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+      val prettyString = Jsoup.parse(string.toString()).html()
       stringToFile(prettyString, outputFilename)
     }
 
@@ -168,7 +167,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val outputFilename = options.rootDir + url
 
       siteMapBuilder.addUrl(url)
-      val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+      val prettyString = Jsoup.parse(string.toString()).html()
       stringToFile(prettyString, outputFilename)
     }
 
@@ -184,7 +183,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val outputFilename = options.rootDir + url
 
       siteMapBuilder.addUrl(url)
-      val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+      val prettyString = Jsoup.parse(string.toString()).html()
       stringToFile(prettyString, outputFilename)
     }
   }
@@ -206,7 +205,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val outputFilename = options.rootDir + url
 
       siteMapBuilder.addUrl(url)
-      val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+      val prettyString = Jsoup.parse(string.toString()).html()
       stringToFile(prettyString, outputFilename)
     }
 
@@ -226,7 +225,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val outputFilename = options.rootDir + url
 
       siteMapBuilder.addUrl(url)
-      val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+      val prettyString = Jsoup.parse(string.toString()).html()
       stringToFile(prettyString, outputFilename)
     }
   }
@@ -248,7 +247,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
 
     siteMapBuilder.addUrl(url)
 
-    val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+    val prettyString = Jsoup.parse(string.toString()).html()
     stringToFile(prettyString, outputFilename)
   }
 
@@ -273,7 +272,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
     val outputFilename = options.rootDir + url
 
     siteMapBuilder.addUrl(url)
-    val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+    val prettyString = Jsoup.parse(string.toString()).html()
     stringToFile(prettyString, outputFilename)
   }
 
@@ -308,7 +307,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val outputFilename = options.rootDir + url
 
       siteMapBuilder.addUrl(url)
-      val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+      val prettyString = Jsoup.parse(string.toString()).html()
       stringToFile(prettyString, outputFilename)
     }
 
@@ -331,7 +330,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       val outputFilename = options.rootDir + url
 
       siteMapBuilder.addUrl(url)
-      val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+      val prettyString = Jsoup.parse(string.toString()).html()
       stringToFile(prettyString, outputFilename)
     }
   }
@@ -355,7 +354,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
     val page = FacesPage(
       personInfos,
       images,
-      "./"
+      "."
     )
 
     val contentTemplate = Templates.getTemplate[Template1[FacesPage, Html]]("html.faces")
@@ -367,7 +366,7 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
     val outputFilename = options.rootDir + url
 
     siteMapBuilder.addUrl(url)
-    val prettyString = htmlPrettyPrinter.prettyPrint(string.toString())
+    val prettyString = Jsoup.parse(string.toString()).html()
     stringToFile(prettyString, outputFilename)
   }
 }

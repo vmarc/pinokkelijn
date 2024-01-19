@@ -67,7 +67,7 @@
     <taak beschrijving="Technische medewerking">
       <naam>Cit Peeters</naam>
       <naam>Walter Nelen</naam>
-      <naam>Ren@eacute; Fret</naam>
+      <naam>René Fret</naam>
     </taak>
     <taak beschrijving="Productie">
       <naam>Kristin Verbeeck</naam>
@@ -86,12 +86,13 @@
       is een briljant toneelschrijver, die met zijn spitse pen
       het dagelijkse leven bekritiseert. Hij schreef een
       groot aantal succesvolle komedies, waaronder:
-      <BR/>
-      <BR/>@nbsp;@nbsp;@nbsp;@nbsp;- The Odd Couple (Een gek koppel)
-      <BR/>@nbsp;@nbsp;@nbsp;@nbsp;- Plaza Suite (Plaza hotel)
-      <BR/>@nbsp;@nbsp;@nbsp;@nbsp;- Barefoot in the Park (Blootsvoets in het park)
-      <BR/>@nbsp;@nbsp;@nbsp;@nbsp;- Chapter Two (Hoofdstuk twee)
-      <BR/>@nbsp;@nbsp;@nbsp;@nbsp;- Gingerbread Lay (Een doos vol kruimels)
+      <ul>
+        <li>The Odd Couple (Een gek koppel)</li>
+        <li>Plaza Suite (Plaza hotel)</li>
+        <li>Barefoot in the Park (Blootsvoets in het park)</li>
+        <li>Chapter Two (Hoofdstuk twee)</li>
+        <li>Gingerbread Lay (Een doos vol kruimels)</li>
+      </ul>
     </p>
 
     <p>
@@ -133,11 +134,6 @@
       en grafiek, geluid en belichting waren in handen van Joris Verbeeck
       en Marc Vergouwen.
     </p>
-
-    <p>
-      <I>... hier werd de inhoud beschreven (zie boven) ...</I>
-    </p>
-
 
     <p>
       Vinnige dialogen en sarcastische uitspraken vormden belangrijke

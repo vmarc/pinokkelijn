@@ -46,11 +46,11 @@
     <acteur rol="TIMOTEO" naam="Cit Peeters">apotheker</acteur>
     <acteur rol="GIANNINA" naam="Liesje Ribbens">jonge boerin</acteur>
     <acteur rol="SUSANNA" naam="Chris Van den Bleeken">garen- en bandverkoopster</acteur>
-    <acteur rol="CORONATO" naam="Andr@eacute; Vloeberghs">herbergier</acteur>
+    <acteur rol="CORONATO" naam="André Vloeberghs">herbergier</acteur>
     <acteur rol="CRESPINO" naam="Werner Janssens">schoenlapper</acteur>
     <acteur rol="MORACCHIO" naam="Peter Neelen">boer, broer van Giannina</acteur>
-    <acteur rol="LIMONCINO" naam="Paul Ruys">caf@eacute;baas</acteur>
-    <acteur rol="SCAVEZZO" naam="Ren@eacute; Fret">bediende in herberg</acteur>
+    <acteur rol="LIMONCINO" naam="Paul Ruys">cafébaas</acteur>
+    <acteur rol="SCAVEZZO" naam="René Fret">bediende in herberg</acteur>
     <acteur rol="TOGNINO" naam="Cis Wagemakers">bediende van Geltruda</acteur>
   </acteurs>
 
@@ -69,7 +69,7 @@
       <naam>Lieve Frateur</naam>
       <naam>Gilberte Bisschops</naam>
       <naam>Kristin Verbeeck</naam>
-      <naam>B@eacute;atrice De Keyser</naam>
+      <naam>Béatrice De Keyser</naam>
     </taak>
     <taak beschrijving="Licht">
       <naam>Marc Vergouwen</naam>
@@ -97,7 +97,7 @@
       Onlangs waren nog twee nieuwe ensceneringen van zijn "Knecht van twee
       meesters" (Il servitori di due padroni) te zien in Brussel en Luik,
       ook andere stukken van zijn repertoire worden nog geregeld opgevoerd,
-      wat advocaat en zakenman Goldoni zeker zou weten te appreci@euml;ren.
+      wat advocaat en zakenman Goldoni zeker zou weten te appreciëren.
     </p>
 
     <p>
@@ -111,10 +111,10 @@
 
     <p>
       Verwijzend naar zijn stuk "De Waaier" schreef Goldoni zelf: "Ze leren
-      de ingestudeerde sc@egrave;nes niet, ze voeren de van te voren uitgewerkte
-      sc@egrave;nes niet uit. Nu heb ik een komedie gemaakt met veel korte
-      levendige sc@egrave;nes die vloeiend in elkaar overgaan in
-      @eacute;@eacute;n doorlopende actie, in een continue beweging,
+      de ingestudeerde scènes niet, ze voeren de van te voren uitgewerkte
+      scènes niet uit. Nu heb ik een komedie gemaakt met veel korte
+      levendige scènes die vloeiend in elkaar overgaan in
+      één doorlopende actie, in een continue beweging,
       waarin komische acteurs niets anders te doen hebben dan zich te laten
       leiden, meer door de actie dan door de woorden."
     </p>
@@ -239,12 +239,7 @@
         <span class="actor">EVARISTO:</span>
         <span class="text">
           En die overhandigt 'm op zijn beurt aan signorina Candida.
-        </span>
-      </p>
-
-      <p>
-        <span class="actor">@nbsp;</span>
-        <span class="text">
+          <br/>
           <I>(Candida maakt een buiging, neemt de waaier en wuift lachend)</I>
         </span>
       </p>
@@ -301,7 +296,7 @@
 
     <foto id="1999a-06">
       <personen>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
       </personen>
     </foto>
 
@@ -351,7 +346,7 @@
 
     <foto id="1999a-13" web="true">
       <personen>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
       </personen>
     </foto>
 
@@ -391,14 +386,14 @@
 
     <foto id="1999a-19">
       <personen>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
         <naam>Werner Janssens</naam>
       </personen>
     </foto>
 
     <foto id="1999a-20" web="true">
       <personen>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
         <naam>Chris Van den Bleeken</naam>
         <naam>Werner Janssens</naam>
       </personen>
@@ -406,7 +401,7 @@
 
     <foto id="1999a-21">
       <personen>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
         <naam>Chris Van den Bleeken</naam>
         <naam>Werner Janssens</naam>
         <naam>Liesje Ribbens</naam>
@@ -415,14 +410,14 @@
 
     <foto id="1999a-22">
       <personen>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
         <naam>Werner Janssens</naam>
       </personen>
     </foto>
 
     <foto id="1999a-23">
       <personen>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
         <naam>Werner Janssens</naam>
       </personen>
     </foto>
@@ -430,7 +425,7 @@
     <foto id="1999a-24" web="true">
       <personen>
         <naam>Werner Janssens</naam>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
       </personen>
     </foto>
 
@@ -438,8 +433,8 @@
       <personen>
         <naam>Paul Ruys</naam>
         <naam>Werner Janssens</naam>
-        <naam>Andr@eacute; Vloeberghs</naam>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>André Vloeberghs</naam>
+        <naam>René Fret</naam>
       </personen>
     </foto>
 
@@ -461,7 +456,7 @@
       <personen>
         <naam>Werner Janssens</naam>
         <naam>Herman Dufraing</naam>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
       </personen>
     </foto>
 
@@ -529,15 +524,15 @@
     <foto id="1999a-38">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Andr@eacute; Vloeberghs</naam>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>André Vloeberghs</naam>
+        <naam>René Fret</naam>
       </personen>
     </foto>
 
     <foto id="1999a-39" web="true">
       <personen>
         <naam>Herman Dufraing</naam>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
       </personen>
     </foto>
 
@@ -694,7 +689,7 @@
 
     <foto id="1999a-64" web="true">
       <personen>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
       </personen>
     </foto>
 
@@ -725,7 +720,7 @@
 
     <foto id="1999a-69">
       <personen>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
         <naam>Herman Dufraing</naam>
       </personen>
     </foto>
@@ -802,7 +797,7 @@
     <foto id="1999a-81" web="true">
       <personen>
         <naam>Luc Brosens</naam>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
       </personen>
     </foto>
 

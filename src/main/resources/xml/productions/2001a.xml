@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<productie id="2001a" jaar="2001" titel="Onder @eacute;@eacute;n hoedje">
+<productie id="2001a" jaar="2001" titel="Onder één hoedje">
 
   <tekst>
     <h2>Hundertwasser</h2>
@@ -14,11 +14,11 @@
     <p>
       <img class="left" src="2001a-hundertwasser.jpg" width="226" height="128" alt="Hundertwasser"/>
       Twee echtparen betreden de arena: Stan en Camillia versus
-      Frank en Veerle. Achter de fa@ccedil;ade van hun ideale gezinnetjes
+      Frank en Veerle. Achter de façade van hun ideale gezinnetjes
       verbergen zich twee in het slop geraakte huwelijken. Terwijl
-      de @eacute;@eacute;n zijn verdorde territorium afbakent, schudt de ander
+      de één zijn verdorde territorium afbakent, schudt de ander
       zijn gevoelsleven op met een sappig avontuurtje. Passie,
-      bedrog en een schamel restje liefde zijn de ingredi@euml;nten
+      bedrog en een schamel restje liefde zijn de ingrediënten
       voor de allesbeslissende <B>strijd</B> die dan volgt.
     </p>
   </tekst>
@@ -58,7 +58,7 @@
         <naam>Stan Milbou</naam>
         <naam>Paul Ruys</naam>
         <naam>Lieve Frateur</naam>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Werner Janssens</naam>
         <naam>Guido Janssen</naam>
         <naam>*Dirk Van Loon</naam>
@@ -66,7 +66,7 @@
         <naam>Marijke Schoeters</naam>
         <naam>Kristin Verbeeck</naam>
         <naam>Jan van den Maagdenberg</naam>
-        <naam>B@eacute;atrice De Keyser</naam>
+        <naam>Béatrice De Keyser</naam>
         <naam>Luc Brosens</naam>
       </personen>
     </foto>
@@ -75,7 +75,7 @@
       <personen>
         <naam>Guido Janssen</naam>
         <naam>*Dirk Van Loon</naam>
-        <naam>B@eacute;atrice De Keyser</naam>
+        <naam>Béatrice De Keyser</naam>
         <naam>Marc Vergouwen</naam>
         <naam>Werner Janssens</naam>
         <naam>Kristin Verbeeck</naam>
@@ -84,7 +84,7 @@
         <naam>Jan van den Maagdenberg</naam>
         <naam>Marijke Schoeters</naam>
         <naam>Cit Peeters</naam>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Regine Vandewalle</naam>
         <naam>Lieve Frateur</naam>
         <naam>Luc Brosens</naam>
@@ -99,7 +99,7 @@
 
     <foto id="2001a-04" web="true">
       <personen>
-        <naam>B@eacute;atrice De Keyser</naam>
+        <naam>Béatrice De Keyser</naam>
         <naam>Kristin Verbeeck</naam>
       </personen>
     </foto>
@@ -136,28 +136,28 @@
 
     <foto id="2001a-10">
       <personen>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Lieve Frateur</naam>
       </personen>
     </foto>
 
     <foto id="2001a-11" web="true">
       <personen>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Lieve Frateur</naam>
       </personen>
     </foto>
 
     <foto id="2001a-12">
       <personen>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Lieve Frateur</naam>
       </personen>
     </foto>
 
     <foto id="2001a-13" web="true">
       <personen>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
       </personen>
     </foto>
 

@@ -44,7 +44,7 @@
 
   <acteurs>
     <acteur rol="BRAAMS" naam="Paul Ruys"/>
-    <acteur rol="JURJEN" naam="Andr@eacute; Vloeberghs"/>
+    <acteur rol="JURJEN" naam="André Vloeberghs"/>
     <acteur rol="HANNIBAL" naam="Cit Peeters"/>
     <acteur rol="EKSTER" naam="Herman Jacobs"/>
     <acteur rol="TILLY" naam="Carla Mennes"/>
@@ -110,7 +110,7 @@
       <personen>
         <naam>Paul Ruys</naam>
         <naam>Cit Peeters</naam>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
       </personen>
     </foto>
 
@@ -149,7 +149,7 @@
         <naam>Sonja Leenknecht</naam>
         <naam>Fons Janssens</naam>
         <naam>Cit Peeters</naam>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
       </personen>
     </foto>
     <foto id="1981a-07" web="true">

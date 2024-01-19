@@ -62,7 +62,7 @@
     <acteur rol="de commissaris" naam="Edwin Tas"/>
     <acteur rol="de dokter" naam="Gilberte Verbeeck"/>
     <acteur rol="de eerste" naam="Jan Wils"/>
-    <acteur rol="de tweede" naam="Ren@eacute; Fret"/>
+    <acteur rol="de tweede" naam="René Fret"/>
     <acteur rol="de derde" naam="Eddy Mertens"/>
     <acteur rol="de vierde" naam="Christiaan Ysenbaardt"/>
     <acteur rol="de schilder" naam="Jef Van Ginderen"/>
@@ -72,12 +72,12 @@
     <acteur rol="de kinderen" naam="Mitte Scheldeman"/>
     <acteur rol="" naam="Kim Nelen"/>
     <acteur rol="" naam="Adriaan De Roover"/>
-    <acteur rol="de andere bewoners" naam="Katleen Cr@eacute;"/>
+    <acteur rol="de andere bewoners" naam="Katleen Cré"/>
     <acteur rol="" naam="Annemie van Sweefelt"/>
     <acteur rol="" naam="An Van Roey"/>
     <acteur rol="" naam="Katrien Scholiers"/>
     <acteur rol="de accordeonist" naam="Pat Scheldeman"/>
-    <acteur rol="" naam="Anja Nicola@iuml;"/>
+    <acteur rol="" naam="Anja Nicolaï"/>
 
     <!-- de bemoeials -->
     <acteur rol="de deurwaarder" naam="Bart Vanderosteyne"/>
@@ -310,7 +310,7 @@
   <fotos>
     <foto id="2004a-022" web="true">
       <personen>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Jan Wils</naam>
         <naam>Eddy Mertens</naam>
       </personen>
@@ -318,7 +318,7 @@
 
     <foto id="2004a-023" web="true">
       <personen>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Jan Wils</naam>
         <naam>Eddy Mertens</naam>
         <naam>Christiaan Ysenbaardt</naam>
@@ -336,7 +336,7 @@
       <personen>
         <naam>Luc Brosens</naam>
         <naam>Fannie Godefroit</naam>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Jan Wils</naam>
         <naam>Christiaan Ysenbaardt</naam>
         <naam>Floris Kila</naam>
@@ -353,7 +353,7 @@
     <foto id="2004a-027" web="true">
       <personen>
         <naam>Fannie Godefroit</naam>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Herman Dufraing</naam>
         <naam>Christiaan Ysenbaardt</naam>
         <naam>Jef Van Ginderen</naam>
@@ -458,7 +458,7 @@
       <personen>
         <naam>Eddy Mertens</naam>
         <naam>Christiaan Ysenbaardt</naam>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Jan Wils</naam>
         <naam>Jef Van Ginderen</naam>
         <naam>Paul Ruys</naam>
@@ -513,7 +513,7 @@
 
     <foto id="2004a-047" web="true">
       <personen>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Werner Janssens</naam>
         <naam>Jef Van Ginderen</naam>
         <naam>Greet Van Ael</naam>
@@ -562,14 +562,14 @@
         <naam>Jef Van Ginderen</naam>
         <naam>Jan Wils</naam>
         <naam>Eddy Mertens</naam>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Erik Van de Weyer</naam>
       </personen>
     </foto>
 
     <foto id="2004a-053" web="true">
       <personen>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
         <naam>Marijke Schoeters</naam>
         <naam>Annemie van Sweefelt</naam>
         <naam>Adriaan De Roover</naam>
@@ -594,7 +594,7 @@
       <personen>
         <naam>Christiaan Ysenbaardt</naam>
         <naam>Jan Wils</naam>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Erik Van de Weyer</naam>
         <naam>Jef Van Ginderen</naam>
         <naam>Bart Vanderosteyne</naam>
@@ -661,14 +661,14 @@
     <foto id="2004a-008">
       <personen>
         <naam>Eli Devos</naam>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
         <naam>Annemie van Sweefelt</naam>
         <naam>Fannie Godefroit</naam>
       </personen>
     </foto>
     <foto id="2004a-009" web="true">
       <personen>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
         <naam>Annemie van Sweefelt</naam>
         <naam>Eli Devos</naam>
       </personen>
@@ -689,7 +689,7 @@
         <naam>Jan Wils</naam>
         <naam>Eddy Mertens</naam>
         <naam>Paul Ruys</naam>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Cit Peeters</naam>
         <naam>Edwin Tas</naam>
         <naam>Herman Dufraing</naam>
@@ -717,7 +717,7 @@
     <foto id="2004a-016" web="true">
       <personen>
         <naam>Bart Vanderosteyne</naam>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Jan Wils</naam>
         <naam>Christiaan Ysenbaardt</naam>
         <naam>Eddy Mertens</naam>
@@ -725,7 +725,7 @@
     </foto>
     <foto id="2004a-017">
       <personen>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Jan Wils</naam>
       </personen>
     </foto>

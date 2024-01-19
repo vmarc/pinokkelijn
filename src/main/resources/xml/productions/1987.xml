@@ -28,7 +28,7 @@
     <acteur rol="TOMMY" naam="Richard Van Roey"/>
     <acteur rol="BILLY" naam="Rudi Berte"/>
     <acteur rol="BEAUJOLAIS BELLE" naam="Greet Van Ael"/>
-    <acteur rol="BRIGADIER" naam="Ren@eacute; Fret"/>
+    <acteur rol="BRIGADIER" naam="René Fret"/>
     <acteur rol="KRANTENJONGEN" naam="Katrijn Janssens"/>
     <acteur rol="KRANTENJONGEN" naam="Marianne Verbeeck"/>
     <acteur rol="ZAKKENROLSTER" naam="Marianne Verbeeck"/>
@@ -36,17 +36,17 @@
     <acteur rol="CHAUFFEUR" naam="Fons Janssens"/>
     <acteur rol="DWERG" naam="Katrijn Janssens"/>
     <acteur rol="DWERG" naam="Helge Van Soom"/>
-    <acteur rol="DWERG" naam="Katleen Cr@eacute;"/>
+    <acteur rol="DWERG" naam="Katleen Cré"/>
     <acteur rol="DWERG" naam="Sofie Michielsen"/>
     <acteur rol="GEEST" naam="Veerle Buermans"/>
     <acteur rol="GEEST" naam="Sofie Michielsen"/>
-    <acteur rol="GEEST" naam="Katleen Cr@eacute;"/>
+    <acteur rol="GEEST" naam="Katleen Cré"/>
     <acteur rol="GEEST" naam="Marianne Verbeeck"/>
     <acteur rol="KLANT" naam="Waldo Van Turnhout"/>
     <acteur rol="KLANT" naam="Gerbrand Van Soom"/>
     <acteur rol="KLANT" naam="Lisette Snoeyers"/>
     <acteur rol="KLANT" naam="Joyce Aarsman"/>
-    <acteur rol="KLANT" naam="Katleen Cr@eacute;"/>
+    <acteur rol="KLANT" naam="Katleen Cré"/>
     <acteur rol="BURGER" naam="Fons Janssens"/>
     <acteur rol="BURGER" naam="Gerbrand Van Soom"/>
     <acteur rol="BURGER" naam="Greet Van Ael"/>
@@ -63,7 +63,7 @@
       <naam>Cit Peeters</naam>
       <naam>Kristin Verbeeck</naam>
       <naam>Luc Brosens</naam>
-      <naam>Ren@eacute; Fret</naam>
+      <naam>René Fret</naam>
       <naam>Marc Baetens</naam>
       <naam>Jef Van Wetswinkel</naam>
     </taak>
@@ -85,7 +85,7 @@
     </taak>
     <taak beschrijving="Geluid">
       <naam>Joris Verbeeck</naam>
-      <naam>Andr@eacute; Dillen</naam>
+      <naam>André Dillen</naam>
     </taak>
     <taak beschrijving="Licht">
       <naam>Marc Vergouwen</naam>
@@ -234,7 +234,7 @@
       genoemd. Wilma L. baat een pasteibakkerij uit, die naast
       het kapsalon van T. gelegen is. Deze pasteibakkerij is
       op enkele maanden tijd van een onooglijk winkeltje tot
-      @eacute;@eacute;n van de drukst bezochte zaken van onze
+      één van de drukst bezochte zaken van onze
       stad uitgegroeid. Haar rijkdom dankt Wilma L. aan een
       nieuw pasteitje, waarvan zij het recept angstvallig geheim
       houdt.
@@ -277,7 +277,7 @@
       <BR/>wat Milbou niet kon heeft de Ruys geregisseerd.
       <BR/>
       <BR/>Want Pinokkelijn, speelt voor groot en klein, met veel varia
-      <BR/>Een lange agent, het dwergkorps attent, in @eacute;@eacute;n aria.
+      <BR/>Een lange agent, het dwergkorps attent, in één aria.
       <BR/>
       <BR/>
       <BR/>De Paul die werd tot regisseur gebombardeerd,
@@ -299,8 +299,8 @@
       <BR/>
       <BR/>
       <BR/>Ieder technisch lid speelde ook een keer graag mee,
-      <BR/>Christine zonder naam en vooral agent Ren@eacute;,
-      <BR/>Dus vroegen we Joris, Andr@eacute; en Marc erbij,
+      <BR/>Christine zonder naam en vooral agent René,
+      <BR/>Dus vroegen we Joris, André en Marc erbij,
       <BR/>Gelukkig hielpen Linda en Carla als altij.
       <BR/>
       <BR/>Zo groeide het spel, Marc schilderde wel, werden zakken gerold
@@ -441,7 +441,7 @@
 
     <foto id="1987-08" web="true">
       <personen>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
         <naam>Veerle Buermans</naam>
         <naam>Marianne Verbeeck</naam>
 
@@ -450,21 +450,21 @@
 
     <foto id="1987-09" web="true">
       <personen>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Kris Verellen</naam>
         <naam>Richard Van Roey</naam>
         <naam>Lieve Frateur</naam>
         <naam>Lies Nijs</naam>
         <naam>Katrijn Janssens</naam>
         <naam>Helge Van Soom</naam>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
         <naam>Sofie Michielsen</naam>
       </personen>
     </foto>
 
     <foto id="1987-10" web="true">
       <personen>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
         <naam>Lieve Frateur</naam>
         <naam>Lies Nijs</naam>
         <naam>Richard Van Roey</naam>

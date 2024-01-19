@@ -12,7 +12,7 @@
     </p>
 
     <p>
-      Zet die mensen op een pi@euml;destal, omgeef de situatie met
+      Zet die mensen op een piëdestal, omgeef de situatie met
       luister, maak er een instituut van en... 't is gebakken!
     </p>
 
@@ -38,7 +38,7 @@
     <acteur rol="JEANNE" naam="Kristin Verbeeck">bomma - zijn vrouw</acteur>
     <acteur rol="HUBERT" naam="Kris Verellen">zijn zoon</acteur>
     <acteur rol="GERDA" naam="Gilberte Verbeeck">zijn schoondochter</acteur>
-    <acteur rol="ALICE" naam="Karen Hontel@eacute;">zijn kleindochter</acteur>
+    <acteur rol="ALICE" naam="Karen Hontelé">zijn kleindochter</acteur>
     <acteur rol="STEM" naam="Stan Milbou">schepen Valgaeren</acteur>
   </acteurs>
 
@@ -56,7 +56,7 @@
       <naam>Ivo Nijs</naam>
       <naam>Cit Peeters</naam>
       <naam>Luc Brosens</naam>
-      <naam>Ren@eacute; Fret</naam>
+      <naam>René Fret</naam>
       <naam>Walter Nelen</naam>
     </taak>
     <taak beschrijving="Licht">
@@ -183,7 +183,7 @@
 
     <foto id="1995-12" web="true">
       <personen>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Herman Dufraing</naam>
         <naam>Kris Verellen</naam>
         <naam>Gilberte Verbeeck</naam>
@@ -234,14 +234,14 @@
     <foto id="1995-19">
       <personen>
         <naam>Kris Verellen</naam>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Gilberte Verbeeck</naam>
       </personen>
     </foto>
 
     <foto id="1995-20" web="true">
       <personen>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Gilberte Verbeeck</naam>
       </personen>
     </foto>
@@ -270,7 +270,7 @@
 
     <foto id="1995-24">
       <personen>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Herman Dufraing</naam>
       </personen>
     </foto>
@@ -291,7 +291,7 @@
 
     <foto id="1995-27" web="true">
       <personen>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Kristin Verbeeck</naam>
       </personen>
     </foto>
@@ -329,7 +329,7 @@
       <personen>
         <naam>Gilberte Verbeeck</naam>
         <naam>Kris Verellen</naam>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
       </personen>
     </foto>
 
@@ -337,7 +337,7 @@
       <personen>
         <naam>Kris Verellen</naam>
         <naam>Gilberte Verbeeck</naam>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
       </personen>
     </foto>
 
@@ -345,7 +345,7 @@
       <personen>
         <naam>Gilberte Verbeeck</naam>
         <naam>Herman Dufraing</naam>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
       </personen>
     </foto>
 
@@ -359,7 +359,7 @@
     <foto id="1995-36" web="true">
       <personen>
         <naam>Gilberte Verbeeck</naam>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Herman Dufraing</naam>
       </personen>
     </foto>
@@ -367,7 +367,7 @@
     <foto id="1995-37" web="true">
       <personen>
         <naam>Gilberte Verbeeck</naam>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Herman Dufraing</naam>
       </personen>
     </foto>
@@ -384,7 +384,7 @@
     <foto id="1995-39" web="true">
       <personen>
         <naam>Gilberte Verbeeck</naam>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Herman Dufraing</naam>
       </personen>
     </foto>
@@ -410,14 +410,14 @@
         <naam>Kris Verellen</naam>
         <naam>Herman Dufraing</naam>
         <naam>Gilberte Verbeeck</naam>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
       </personen>
     </foto>
 
     <foto id="1995-43">
       dit is een beschrijving van de foto
       <personen>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Herman Dufraing</naam>
         <naam>Kris Verellen</naam>
         <naam>Gilberte Verbeeck</naam>
@@ -427,7 +427,7 @@
     <foto id="1995-44" web="true">
       dit is een beschrijving van de foto
       <personen>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Herman Dufraing</naam>
         <naam>Kris Verellen</naam>
         <naam>Gilberte Verbeeck</naam>
@@ -458,7 +458,7 @@
 
     <foto id="1995-48">
       <personen>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Herman Dufraing</naam>
         <naam>Kris Verellen</naam>
         <naam>Gilberte Verbeeck</naam>
@@ -548,7 +548,7 @@
 
     <foto id="1995-60" web="true">
       <personen>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Herman Dufraing</naam>
       </personen>
     </foto>
@@ -567,55 +567,55 @@
 
     <foto id="1995-63" web="true">
       <personen>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Herman Dufraing</naam>
       </personen>
     </foto>
 
     <foto id="1995-64" web="true">
       <personen>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Herman Dufraing</naam>
       </personen>
     </foto>
 
     <foto id="1995-65">
       <personen>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Herman Dufraing</naam>
       </personen>
     </foto>
 
     <foto id="1995-66">
       <personen>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Herman Dufraing</naam>
       </personen>
     </foto>
 
     <foto id="1995-67">
       <personen>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
       </personen>
     </foto>
 
     <foto id="1995-68">
       <personen>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Herman Dufraing</naam>
       </personen>
     </foto>
 
     <foto id="1995-69" web="true">
       <personen>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Herman Dufraing</naam>
       </personen>
     </foto>
 
     <foto id="1995-70">
       <personen>
-        <naam>Karen Hontel@eacute;</naam>
+        <naam>Karen Hontelé</naam>
         <naam>Herman Dufraing</naam>
       </personen>
     </foto>

@@ -2,7 +2,7 @@
 <productie id="1977" jaar="1977" titel="Mijnheer van Zwijnendonck">
 
   <korte-beschrijving>
-    Stuk van Moli@egrave;re in een regie van Lif Verbeeck.
+    Stuk van Molière in een regie van Lif Verbeeck.
   </korte-beschrijving>
 
   <beschrijving>
@@ -14,7 +14,7 @@
 
     <p>
       Wat hij niet weet is dat Julia in het geheim verloofd is met
-      Eduard en dat ze samen met hun vrienden Selmi en N@eacute;rinne
+      Eduard en dat ze samen met hun vrienden Selmi en Nérinne
       voor onze hollander een warme ontvangst voorbereid hebben. Met een
       aantal kornuiten houden ze zich gereed om met allerlei <I>intriges en
       valstrikken
@@ -33,8 +33,8 @@
 
   <acteurs>
     <acteur rol="MIJNHEER VAN ZWIJNENDONCK" naam="Joos Janssens"></acteur>
-    <acteur rol="SCELMI" naam="Andr@eacute; Vloeberghs">de intrigant</acteur>
-    <acteur rol="N@Eacute;RINNE" naam="Kristin Verbeeck">de intrigante</acteur>
+    <acteur rol="SCELMI" naam="André Vloeberghs">de intrigant</acteur>
+    <acteur rol="NéRINNE" naam="Kristin Verbeeck">de intrigante</acteur>
     <acteur rol="VAN OS" naam="Jef Brosens">de rijke vader</acteur>
     <acteur rol="JULIA" naam="Lif Verbeeck">de dochter</acteur>
     <acteur rol="EDUARD" naam="Paul Ruys">de geliefde van Julia</acteur>
@@ -70,7 +70,7 @@
       <naam>Marc Baetens</naam>
     </taak>
     <taak beschrijving="Auteur">
-      <naam>*Moli@egrave;re</naam>
+      <naam>*Molière</naam>
     </taak>
   </taken>
 
@@ -88,8 +88,8 @@
       brengen.
     </p>
     <p>
-      Ik heb dit stuk in @eacute;@eacute;n adem geschreven en daarom
-      eis ik dat mijn komedianten het ook in @eacute;@eacute;n
+      Ik heb dit stuk in één adem geschreven en daarom
+      eis ik dat mijn komedianten het ook in één
       adem voor Uwe Majesteit opvoeren.
     </p>
     <p>
@@ -141,7 +141,7 @@
 
     <foto id="1977-06" web="true">
       <personen>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
         <naam>Joos Janssens</naam>
       </personen>
     </foto>
@@ -157,14 +157,14 @@
     <foto id="1977-08" web="true">
       <personen>
         <naam>Paul Ruys</naam>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
         <naam>Kristin Verbeeck</naam>
       </personen>
     </foto>
 
     <foto id="1977-09" web="true">
       <personen>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
         <naam>Joos Janssens</naam>
         <naam>Paul Ruys</naam>
       </personen>
@@ -207,7 +207,7 @@
         <naam>Paul Ruys</naam>
         <naam>Lif Verbeeck</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
         <naam>Elke Jordan</naam>
         <naam>Jef Brosens</naam>
       </personen>

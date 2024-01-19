@@ -42,7 +42,7 @@
     <acteur rol="MOLLIE" naam="Lieve Frateur">vrouw van Hutchinson</acteur>
     <acteur rol="BECKHAM" naam="Edwin Tas">student</acteur>
     <acteur rol="MEATLOAF" naam="Werner Janssens">kunstschilder</acteur>
-    <acteur rol="JAMES" naam="Ren@eacute; Fret">butler van Parker</acteur>
+    <acteur rol="JAMES" naam="René Fret">butler van Parker</acteur>
   </acteurs>
 
   <taken>
@@ -78,7 +78,7 @@
 
     <p>
       Georges Feydeau (1862-1921) was een Frans toneelschrijver die in
-      zijn tijd "de Moli@egrave;re van de belle @eacute;poque" en "de
+      zijn tijd "de Molière van de belle époque" en "de
       ingenieur van de lach" genoemd werd.
     </p>
 
@@ -90,7 +90,7 @@
 
     <p>
       "Kat in de zak" uit 1988 werd door de regisseurs in een nieuw
-      kleedje gestoken. Van belle @eacute;poque naar swinging sixties,
+      kleedje gestoken. Van belle époque naar swinging sixties,
       van opera naar pop, van Parijs naar Londen.
     </p>
   </tekst>
@@ -130,13 +130,13 @@
 
     <foto id="2000-02" web="true">
       <personen>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
       </personen>
     </foto>
 
     <foto id="2000-03">
       <personen>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
       </personen>
     </foto>
 
@@ -499,7 +499,7 @@
     <foto id="2000-55">
       <personen>
         <naam>Lieve Frateur</naam>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
       </personen>
     </foto>
 

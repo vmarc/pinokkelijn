@@ -60,7 +60,7 @@
     <acteur rol="MARTIRIO" naam="Kristien de Waal"/>
     <acteur rol="ADELA" naam="Eli Devos"/>
     <acteur rol="PONCIA" naam="Kristin Verbeeck"/>
-    <acteur rol="MEID" naam="Katleen Cr@eacute;"/>
+    <acteur rol="MEID" naam="Katleen Cré"/>
     <acteur rol="PRUDENCIA" naam="Rita Blommaert"/>
   </acteurs>
 
@@ -92,7 +92,7 @@
     <taak beschrijving="Decor uitvoering">
       <naam>Luc Brosens</naam>
       <naam>Marc Vergouwen</naam>
-      <naam>Ren@eacute; Fret</naam>
+      <naam>René Fret</naam>
       <naam>Cit Peeters</naam>
     </taak>
     <taak beschrijving="Kostuums ontwerp">
@@ -111,9 +111,9 @@
       <naam>Marc Vergouwen</naam>
     </taak>
     <taak beschrijving="Klank">
-      <naam>*Beno@#238;t Dobbelstein</naam>
+      <naam>*Benoît Dobbelstein</naam>
       <naam>Joris Verbeeck</naam>
-      <naam>B@eacute;atrice De Keyser</naam>
+      <naam>Béatrice De Keyser</naam>
     </taak>
     <taak beschrijving="Affiche">
       <naam>*Naar een tekening van Federico Garcia Lorca</naam>
@@ -123,7 +123,7 @@
       <naam>Paul Ruys</naam>
       <naam>Werner Janssens</naam>
       <naam>Edwin Tas</naam>
-      <naam>Ren@eacute; Fret</naam>
+      <naam>René Fret</naam>
     </taak>
   </taken>
 
@@ -187,7 +187,7 @@
       In toenemende mate identificeerde hij
       zich met het nietige, het verdrukte, het vertrapte. Lorca
       keerde zich tegen ale vormen van totalitarisme, steunde in
-      1936 het Spaanse Volksfront en koos ook in zijn po@euml;zie de
+      1936 het Spaanse Volksfront en koos ook in zijn poëzie de
       kant van de armen en de kanslozen. Het was niet in de laatste
       plaats daaraan toe te schrijven dat hij in 1936 in de buurt
       van Granada door falangisten werd vermoord.
@@ -206,9 +206,9 @@
 
     <p>
       Het kan geen toeval zijn geweest dat Lorca een stuk schreef
-      @quot;Het huis van Bernarda Alba@quot; met als thema despotisme,
+      "Het huis van Bernarda Alba" met als thema despotisme,
       in een tijd dat iedere Spanjaard op zijn vingers kon natellen
-      dat een rechtse staatsgreep een uiterst re@euml;le mogelijkheid
+      dat een rechtse staatsgreep een uiterst reële mogelijkheid
       was.
     </p>
     <p>
@@ -224,13 +224,13 @@
       die is gebaseerd op het te allen tijde ophouden van de schijn,
       en op de overtuiging dat mannen superieur zijn aan vrouwen.
       Adela komt krachtig op voor haar absolute recht op een eigen
-      sexualiteit (@quot;Ik doe met mijn lichaam wat ik wil@quot;).
+      sexualiteit ("Ik doe met mijn lichaam wat ik wil").
     </p>
 
     <img class="left" src='2001b-7.gif' width='150' height='158' alt="Lorca tekening"/>
 
     <p>
-      @quot;Ik ben totaal Spaans, en het zou voor mij onmogelijk
+      "Ik ben totaal Spaans, en het zou voor mij onmogelijk
       zijn buiten mijn geografische begrenzingen te leven.
       Tegelijkertijd haat ik iedereen die Spaans is, alleen omdat
       hij als Spanjaard geboren is. Ik ben een broeder van alle
@@ -240,7 +240,7 @@
       Een goed Chinees staat dichter bij mij dan een slechte
       Spanjaard. Ik druk Spanje uit in mijn werk en voel haar tot
       in het merg van mijn botten, maar eerst en vooral ben ik
-      kosmopoliet en broeder van allen@quot;.
+      kosmopoliet en broeder van allen".
     </p>
 
     <h2>Interview met regisseur Richard Van Roey in de Voorbode</h2>
@@ -284,7 +284,7 @@
       <b>Richard Van Roey:</b>
       We hebben ook hulp gekregen van jonge specialisten
       op gebied van geluid en belichting. Het verplaatsbare decor liet ons toe
-      de sc@egrave;ne te verkleinen en de geslotenheid van Alba's huis te beklemtonen.
+      de scène te verkleinen en de geslotenheid van Alba's huis te beklemtonen.
     </p>
 
     <p>
@@ -431,7 +431,7 @@
   <fotos>
     <foto id="2001b-001">
       <personen>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
         <naam>Gilberte Bisschops</naam>
         <naam>Annemie van Sweefelt</naam>
         <naam>Paul Ruys</naam>
@@ -441,7 +441,7 @@
       <personen>
         <naam>Krista Nuyten</naam>
         <naam>Kristin Verbeeck</naam>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
         <naam>Mieke De Lombaerde</naam>
         <naam>Eli Devos</naam>
         <naam>Fannie Godefroit</naam>
@@ -570,7 +570,7 @@
     </foto>
     <foto id="2001b-022">
       <personen>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
         <naam>Kristin Verbeeck</naam>
       </personen>
     </foto>
@@ -601,7 +601,7 @@
         <naam>Richard Van Roey</naam>
         <naam>Fannie Godefroit</naam>
         <naam>Carine Bergmans</naam>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
         <naam>Kristien de Waal</naam>
         <naam>Krista Nuyten</naam>
         <naam>Mieke De Lombaerde</naam>
@@ -612,7 +612,7 @@
     </foto>
     <foto id="2001b-027">
       <personen>
-        <naam>B@eacute;atrice De Keyser</naam>
+        <naam>Béatrice De Keyser</naam>
         <naam>Paul Ruys</naam>
         <naam>Cit Peeters</naam>
         <naam>Walter Nelen</naam>
@@ -621,7 +621,7 @@
     </foto>
     <foto id="2001b-027a" web="true" fotograaf="Marijke Bisschops">
       <personen>
-        <naam>B@eacute;atrice De Keyser</naam>
+        <naam>Béatrice De Keyser</naam>
       </personen>
     </foto>
     <foto id="2001b-028" web="true">
@@ -637,50 +637,50 @@
     </foto>
     <foto id="2001b-030">
       <personen>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
       </personen>
     </foto>
     <foto id="2001b-031">
       <personen>
         <naam>Kristin Verbeeck</naam>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
       </personen>
     </foto>
     <foto id="2001b-032" web="true">
       <personen>
         <naam>Kristin Verbeeck</naam>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
       </personen>
     </foto>
     <foto id="2001b-033">
       <personen>
         <naam>Kristin Verbeeck</naam>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
       </personen>
     </foto>
     <foto id="2001b-034">
       <personen>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
       </personen>
     </foto>
     <foto id="2001b-035">
       <personen>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
       </personen>
     </foto>
     <foto id="2001b-036" web="true" fotograaf="Marijke Bisschops">
       <personen>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
       </personen>
     </foto>
     <foto id="2001b-037">
       <personen>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
       </personen>
     </foto>
     <foto id="2001b-038">
       <personen>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
       </personen>
     </foto>
     <foto id="2001b-039" web="true">
@@ -697,7 +697,7 @@
       <personen>
         <naam>Rita Blommaert</naam>
         <naam>Annemie van Sweefelt</naam>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
       </personen>
     </foto>
     <foto id="2001b-041">
@@ -1275,7 +1275,7 @@
     <foto id="2001b-140" web="true">
       <personen>
         <naam>Kristin Verbeeck</naam>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
       </personen>
     </foto>
     <foto id="2001b-141" web="true">
@@ -1395,7 +1395,7 @@
       <personen>
         <naam>Kristin Verbeeck</naam>
         <naam>Fannie Godefroit</naam>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
         <naam>Kristien de Waal</naam>
       </personen>
     </foto>
@@ -1413,7 +1413,7 @@
         <naam>Marie-Louise Gommeren</naam>
         <naam>Kristin Verbeeck</naam>
         <naam>Fannie Godefroit</naam>
-        <naam>Katleen Cr@eacute;</naam>
+        <naam>Katleen Cré</naam>
         <naam>Kristien de Waal</naam>
         <naam>Eli Devos</naam>
         <naam>Mieke De Lombaerde</naam>

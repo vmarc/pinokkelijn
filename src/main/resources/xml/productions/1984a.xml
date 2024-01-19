@@ -25,7 +25,7 @@
     <!-- Moederfiguur -->
     <acteur rol="LUCY" naam="Paula Jacobs">moeder</acteur>
     <acteur rol="ROSEMARY" naam="Mieke Moons">buurvrouw</acteur>
-    <acteur rol="TERRY" naam="Andr@eacute; Vloeberghs">buurman</acteur>
+    <acteur rol="TERRY" naam="André Vloeberghs">buurman</acteur>
 
     <!-- Gezellig samen een borreltje -->
     <acteur rol="HARRY" naam="Herman Jacobs"/>
@@ -43,7 +43,7 @@
     <!-- Een praatje in het park -->
     <acteur rol="ARTHUR" naam="Herman Jacobs"/>
     <acteur rol="BERYL" naam="Mieke Moons"/>
-    <acteur rol="CHARLES" naam="Andr@eacute; Vloeberghs"/>
+    <acteur rol="CHARLES" naam="André Vloeberghs"/>
     <acteur rol="DOREEN" naam="Kristin Verbeeck"/>
     <acteur rol="ERNEST" naam="Francis Theuns"/>
   </acteurs>
@@ -59,7 +59,7 @@
     </taak>
     <taak beschrijving="Decor en techniek">
       <naam>Jan Hectors</naam>
-      <naam>Ren@eacute; Fret</naam>
+      <naam>René Fret</naam>
       <naam>Seppe Hertogs</naam>
     </taak>
   </taken>
@@ -116,14 +116,14 @@
 
     <foto id="1984a-05" web="true">
       <personen>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
         <naam>Mieke Moons</naam>
       </personen>
     </foto>
 
     <foto id="1984a-06" web="true">
       <personen>
-        <naam>Andr@eacute; Vloeberghs</naam>
+        <naam>André Vloeberghs</naam>
         <naam>Kristin Verbeeck</naam>
       </personen>
     </foto>

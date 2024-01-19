@@ -19,7 +19,7 @@
     <acteur rol="MARTIN VAN WIJNGAARDEN" naam="Fons Janssens">notaris</acteur>
     <acteur rol="MELIE" naam="Joke Platteau">vrouw</acteur>
     <acteur rol="JAN" naam="Jef Brosens">de zoon</acteur>
-    <acteur rol="ANKIE" naam="Chris Hontel@eacute;">de dochter</acteur>
+    <acteur rol="ANKIE" naam="Chris Hontelé">de dochter</acteur>
     <acteur rol="HANNA" naam="Lif Verbeeck">huishoudster</acteur>
     <acteur rol="HENRIETTE VAN TERWINSELEN" naam="Rita Janssens">freule</acteur>
     <acteur rol="ENGELBERT ANGEVARE" naam="Joos Janssens">huisknecht</acteur>
@@ -81,7 +81,7 @@
     <foto id="1975-06" web="true">
       <personen>
         <naam>Guy Janssens</naam>
-        <naam>Chris Hontel@eacute;</naam>
+        <naam>Chris Hontelé</naam>
       </personen>
     </foto>
 
@@ -101,13 +101,13 @@
     <foto id="1975-09" web="true">
       <personen>
         <naam>Jef Brosens</naam>
-        <naam>Chris Hontel@eacute;</naam>
+        <naam>Chris Hontelé</naam>
       </personen>
     </foto>
 
     <foto id="1975-10" web="true">
       <personen>
-        <naam>Chris Hontel@eacute;</naam>
+        <naam>Chris Hontelé</naam>
         <naam>Guy Janssens</naam>
         <naam>Yolande Verbeeck</naam>
       </personen>
@@ -151,7 +151,7 @@
 
     <foto id="1975-16" web="true">
       <personen>
-        <naam>Chris Hontel@eacute;</naam>
+        <naam>Chris Hontelé</naam>
         <naam>Guy Janssens</naam>
       </personen>
     </foto>

@@ -32,13 +32,13 @@
     <acteur rol="MARCEL" naam="Seppe Hertogs">dief</acteur>
     <acteur rol="PATRICK" naam="Bart Meukens">dief</acteur>
     <acteur rol="PETER" naam="Luc Brosens">dief</acteur>
-    <acteur rol="POLITIEMAN" naam="Ren@eacute; Fret"/>
+    <acteur rol="POLITIEMAN" naam="René Fret"/>
     <acteur rol="POLITIEMAN" naam="Han Ruys"/>
     <acteur rol="POLITIEMAN" naam="Paul Ruys"/>
     <acteur rol="DUPONT-DUFORT SENIOR" naam="Guy Noppe">bankier</acteur>
     <acteur rol="DUPONT-DUFORT JUNIOR" naam="Werner Janssens">bankier</acteur>
     <acteur rol="HET KLEINE MEISJE" naam="Elke Ruys"/>
-    <acteur rol="DE DETECTIVE" naam="Ren@eacute; Fret"/>
+    <acteur rol="DE DETECTIVE" naam="René Fret"/>
     <acteur rol="DE SAXOFONISTE" naam="Ria Veris"/>
   </acteurs>
 
@@ -59,7 +59,7 @@
     </taak>
     <taak beschrijving="Geluid">
       <naam>Joris Verbeeck</naam>
-      <naam>Andr@eacute; Dillen</naam>
+      <naam>André Dillen</naam>
     </taak>
     <taak beschrijving="Licht">
       <naam>Marc Vergouwen</naam>
@@ -80,7 +80,7 @@
 
     <p>
       Jean Anouilh schreef "Le Bal des Voleurs" in 1932. Hij noemde
-      het een "com@eacute;die-ballet". Het stuk speelde zich
+      het een "comédie-ballet". Het stuk speelde zich
       oorspronkelijk af in het decor van een kuuroord uit de vorige eeuw.
     </p>
 
@@ -326,7 +326,7 @@
 
     <foto id="1990a-34" web="true">
       <personen>
-        <naam>Ren@eacute; Fret</naam>
+        <naam>René Fret</naam>
       </personen>
     </foto>
 
