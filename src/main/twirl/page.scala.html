@@ -4,6 +4,7 @@
 <html lang="nl" xml:lang="nl">
   <head>
     <title>@page.title - Pinokkelijn</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
     <meta name="keywords" content="@page.keyWords pinokkelijn pinokelijn toneel essen theater theatre amateurtheater "/>
     <meta name="description" content="@page.description"/>
@@ -20,21 +21,16 @@
 
   </head>
   <body>
-    <div id="container">
-      <div id="top">
+    <div class="page">
+      <header>
       @html.header(page, images)
-      </div>
-      <div id="content">
+      </header>
+      <main>
       @content
-      </div>
-      <div id="push"></div>
-    </div>
-    <div id="footer">
-      <div id="footer-box">
-        <div id="footer-content">
-        @html.footer(page.root)
-        </div>
-      </div>
+      </main>
+      <footer>
+      @html.footer(page.root)
+      </footer>
     </div>
   </body>
 </html>

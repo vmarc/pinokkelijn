@@ -3,19 +3,37 @@ package web.domain
 case class Site(productions: Seq[Production], persons: Seq[Person]) {
 
   def letterPersonsCollection: Seq[LetterPersons] = {
-    val letterPersonsCollection = persons.groupBy(_.letter).toList.map{ case(letter, p) =>
-      LetterPersons(0, letter, p.sortWith(_.fullName < _.fullName))
-    }.sortWith(_.letter < _.letter)
-
     var personIndex = -1
-    letterPersonsCollection.map { letterPersons =>
-      val indexedPersons = letterPersons.persons.map { person =>
+    persons.groupBy(_.letter).toSeq.sortBy(_._1).map { case (letter, personsGroup) =>
+      val letterPersons = personsGroup.map { person =>
+        val productionCount = productions.count(production => production.persons.map(_.key).contains(person.key))
+        val photoCount = productions.map(_.photos.filter(_.web).filter(_.persons.map(_.key).contains(person.key)).size).sum
+        val s1 = if (productionCount == 1) {
+          "1 productie"
+        }
+        else {
+          s"$productionCount producties"
+        }
+        val s2 = if (photoCount == 0) {
+          ""
+        }
+        else if (photoCount == 1) {
+          ", 1 foto"
+        }
+        else {
+          s", $photoCount fotos"
+        }
+        val statistics = s"($s1$s2)"
+
         personIndex = personIndex + 1
-        person.copy(
-          index = personIndex
+        LetterPerson(
+          personIndex,
+          person.key,
+          person.fullName,
+          statistics
         )
       }
-      letterPersons.copy(persons = indexedPersons)
+      LetterPersons(letter, letterPersons)
     }
   }
   

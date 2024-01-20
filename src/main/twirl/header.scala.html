@@ -1,16 +1,17 @@
 @(page: web.pages.Page, images: web.view.Images)
 
-<div>
+<div class="header-logo">
   @if(page.name == "home") {
-    @Html(images(page.root, "images/pinokkelijn4.jpg", "Pinokkelijn"))
+    <img src="images/pinokkelijn4.jpg" style="width: min(90vw, 302px);
+      height: auto" height="50px" title="Pinokkelijn" alt="Pinokkelijn"/>
   } else {
     <a href="@page.root/index.html">
-    @Html(images(page.root, "images/pinokkelijn4.jpg", "Pinokkelijn"))
+      <img src="images/pinokkelijn4.jpg" style="width: min(90vw, 302px);
+        height: auto" height="50px" title="Pinokkelijn" alt="Pinokkelijn"/>
     </a>
   }
 </div>
-
-<ul class="top-menu">
+<ul class="header-menu">
   <li>
   @if(page.name == "home") {
     Home

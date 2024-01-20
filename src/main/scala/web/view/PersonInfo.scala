@@ -3,7 +3,12 @@ package web.view
 import web.domain.Person
 import web.domain.PersonDetail
 
-case class PersonInfo(person: Person, previous: Option[Person], next: Option[Person], details: Seq[PersonDetail]) {
+case class PersonInfo(
+  person: Person,
+  previous: Option[Person],
+  next: Option[Person],
+  details: Seq[PersonDetail]
+) {
 
   def statistics: String = List(productionStatistics, photoStatistics).filter(_.nonEmpty).mkString(", ")
   

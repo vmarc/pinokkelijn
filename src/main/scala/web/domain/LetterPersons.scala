@@ -1,3 +1,6 @@
 package web.domain
 
-case class LetterPersons(index: Int, letter: Char, persons: Seq[Person])
+case class LetterPersons(
+  letter: Char,
+  persons: Seq[LetterPerson]
+)
