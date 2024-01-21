@@ -477,18 +477,21 @@ p.subtitle {
   margin-left: 3em;
 }
 
+/* faces page */
+
 .faces {
-  padding-top: 2em;
-  padding-bottom: 4em;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
 }
 
 .faces li {
-  float: left;
   margin: 5px;
   padding: 5px;
   border: 1px solid #cccccc;
   width: 85px;
   height: 125px;
+  list-style: none;
 }
 
 .faces img {

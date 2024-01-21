@@ -1,0 +1,84 @@
+<!doctype>
+<html>
+<head>
+  <title>pure-swipe demo</title>
+  <meta name="viewport" content="width=device-width,height=device-height,user-scalable=no,initial-scale=1,maximum-scale=1" />
+  <script src="pure-swipe.js"></script>
+  <style>
+    body { overflow: hidden; }
+    @keyframes fadeInAnimation {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+    body {
+      animation: fadeInAnimation ease 3s;
+      animation-iteration-count: 1;
+      animation-fill-mode: forwards;
+    }
+    div {
+      position: fixed;
+      left: 0;
+      right: 0;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      font-size: 40px;
+      font-family: arial;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    div:first-child {
+      top: 0px;
+      bottom: 50%;
+      background: #191919;
+      color: #eee;
+    }
+    div:last-child {
+      top: 50%;
+      bottom: 0;
+      background: #eee;
+      color: #191919;
+    }
+  </style>
+  <script>
+
+    window.onload = function() {
+
+      document.addEventListener('swiped-left', function(e) {
+        console.log(e.type);
+        console.log(e.target);
+        e.target.innerHTML = e.type;
+      });
+
+      document.addEventListener('swiped-right', function(e) {
+        console.log(e.type);
+        console.log(e.target);
+        // e.target.innerHTML = e.type;
+        document.location.href = "page3.html";
+      });
+
+      document.addEventListener('swiped-up', function(e) {
+        console.log(e.type);
+        console.log(e.target);
+        e.target.innerHTML = e.type;
+      });
+
+      document.addEventListener('swiped-down', function(e) {
+        console.log(e.type);
+        console.log(e.target);
+        e.target.innerHTML = e.type;
+      });
+
+    }
+  </script>
+</head>
+<body>
+<div>page 4</div>
+<div data-swipe-threshold="100">or me</div>
+</body>
+</html>

@@ -1,17 +1,15 @@
 @(page: web.pages.FacesPage)
 
-<h1>Spelers en medewerkers</h1>
-
-<div class="faces">
-  <ul>
+<div class="text">
+  <h1>Spelers en medewerkers</h1>
+  <ul class="faces">
     @for(personInfo <- page.personInfos) {
       <li>
         <a href="personen/@(personInfo.person.key + ".html")"
         title="@personInfo.person.name (@personInfo.longStatistics)">
-          @Html(page.images.small(personInfo.person))
+        @Html(page.images.small(personInfo.person))
         </a>
       </li>
     }
   </ul>
-  <div style="clear: both"></div>
 </div>
