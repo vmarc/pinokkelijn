@@ -16,10 +16,11 @@ case class PersonDetail(
   }
 
   def contributionsString: String = {
-    contributions.count(_.trim.nonEmpty) match {
+    val strings = contributions.map(_.trim).filter(_.nonEmpty)
+    strings.size match {
       case 0 => ""
-      case 1 => "(Rol: %s)".format(contributions.head)
-      case _ => "(Rollen: %s)".format(contributions.mkString(" + "))
+      case 1 => "(Rol: %s)".format(strings.head)
+      case _ => "(Rollen: %s)".format(strings.mkString(" + "))
     }
   }
 }

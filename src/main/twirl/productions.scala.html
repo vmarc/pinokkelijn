@@ -1,27 +1,26 @@
 @(page: web.pages.ProductionsPage)
 
-<h1>Producties</h1>
+<div class="text">
+  <h1>Producties</h1>
 
-<p class="subtitleHelp">
-  Klik op de titel voor meer details over de productie.
-</p>
+  <p>
+    Klik op de titel voor meer details over de productie.
+  </p>
 
-<div class="productions">
-  <ul>
+  <ul class="productions">
     @for(production <- page.productions) {
       <li>
-        <div class="production-name">
-          <span class="production-index">@(production.index + 1)</span>
+        <span class="production-index">@(production.index + 1)</span>
+        <div>
           <a href="producties/@production.id/index.html">
           @production.longTitle
           </a>
+          @if(production.shortDescription.nonEmpty) {
+            <div class="production-description">
+            @production.shortDescription
+            </div>
+          }
         </div>
-
-        @if(production.shortDescription.nonEmpty) {
-          <div class="production-description">
-          @production.shortDescription
-          </div>
-        }
       </li>
     }
   </ul>

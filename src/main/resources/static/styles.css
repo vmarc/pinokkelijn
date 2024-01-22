@@ -5,6 +5,11 @@ html, body {
   font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
+ul {
+  margin: 0;
+  padding: 0;
+}
+
 .page {
   min-height: 100%;
   display: grid;
@@ -64,7 +69,6 @@ footer {
   gap: 0.5em;
 }
 
-
 @media (max-width: 800px) {
 
   main {
@@ -117,7 +121,6 @@ div.center {
 .small-spacer {
   margin-top: 1em !important;
 }
-
 
 /**********************/
 
@@ -222,25 +225,57 @@ a.external {
   /*padding-right: 13px;*/
 }
 
-.image-group {
-  /*clear: both;*/
-  /*width: 100%;*/
-  /*padding-top: 15px;*/
-  /*padding-bottom: 15px;*/
+/**** person page ****/
+
+.person-image-group {
+  padding-top: 1em;
+  padding-bottom: 2em;
 }
 
-.image-group-title {
-  /*padding-top: 5px;*/
-  /*padding-bottom: 5px;*/
+.person-image-group-title {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2em;
+  padding-bottom: 0.2em;
 }
 
-.person-photo {
-  /*padding: 2em;*/
+.person-contributions {
+  padding-left: 1em;
+  color: gray;
 }
 
 .person-detail-photo-block {
-  /*padding-left: 3em;*/
+  display: flex;
+  flex-wrap: wrap;
 }
+
+@media (max-width: 800px) {
+  .person-photo {
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+  .person-production-description {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+  }
+}
+
+@media (min-width: 801px) {
+  .person-photo {
+    padding: 2em;
+  }
+  .person-production-description {
+    padding-top: 0.5em;
+    padding-bottom: 1em;
+    padding-left: 2em;
+  }
+
+  .person-image-group {
+    padding-bottom: 2em;
+  }
+}
+
+/*******************/
 
 .vertical-spacer {
   /*margin-top: 3.5em;*/
@@ -310,7 +345,6 @@ p.subtitle {
   margin-bottom: 1.5em;
   margin-left: 3em;
 }
-
 
 /** production page **/
 
@@ -412,31 +446,47 @@ p.subtitle {
 
 /** productions page **/
 
-.production-name {
-  margin-top: 1em;
-  margin-bottom: 0em;
+.productions li {
+  list-style: none;
+  display: flex;
+  margin-bottom: 1.5em;
 }
 
-.production-description {
-  margin-top: 0.2em;
-  margin-left: 5em;
-}
-
-.production-index {
-  float: left;
+.productions .production-index {
   width: 3em;
+  min-width: 3em;
+  padding-bottom: 0.3em;
+  color: gray;
 }
+
+@media (max-width: 600px) {
+  .productions li {
+    flex-direction: column;
+  }
+
+  .productions .production-description {
+    margin-top: 0.4em;
+    margin-left: 1em;
+  }
+}
+
+@media (min-width: 601px) {
+  .productions li {
+    flex-direction: row;
+  }
+
+  .productions .production-description {
+    margin-top: 0.4em;
+    margin-left: 3em;
+  }
+}
+
 
 /** person page **/
 
 .image-group .production-description {
   margin-top: 0.4em;
   margin-left: 2em;
-}
-
-.contributions {
-  margin-left: 1.5em;
-  color: gray;
 }
 
 /*!** home page **!*/
