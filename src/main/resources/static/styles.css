@@ -275,14 +275,6 @@ a.external {
   }
 }
 
-/*******************/
-
-.vertical-spacer {
-  /*margin-top: 3.5em;*/
-}
-
-/*********************************************/
-
 /** persons page **/
 
 .persons {
@@ -339,27 +331,49 @@ a.external {
 
 /*********************************************/
 
-p.subtitle {
-  color: red;
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
-  margin-left: 3em;
-}
-
 /** production page **/
 
-.production-poster {
-  float: right;
-  margin-left: 2em;
-  margin-bottom: 2em;
+.production .subtitle {
+  color: red;
 }
 
-.production-description {
+.production-summary {
+  display: flex;
 }
 
 .production-description ul {
   margin-left: 3em;
   list-style-type: circle;
+}
+
+@media (max-width: 800px) {
+  .production .subtitle {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+  }
+  .production-summary {
+    flex-direction: column;
+    gap: 2em;
+  }
+}
+
+@media (min-width: 801px) {
+  .production .subtitle {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    margin-left: 3em;
+  }
+  .production-summary {
+    flex-direction: row;
+    gap: 4em;
+  }
+  .production-description {
+    flex-grow: 1;
+  }
+  .production-poster {
+    flex-grow: 0;
+  }
 }
 
 .article ul {

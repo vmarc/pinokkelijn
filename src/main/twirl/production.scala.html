@@ -1,126 +1,127 @@
 @(page: web.pages.ProductionPage)
 
-<h1>@page.production.longTitle</h1>
+<div class="text production">
 
-<ul class="header-menu">
-  <li>
-  @if(page.previousProduction.isDefined) {
-    <a href="../@page.previousProduction.get.id/index.html" title="Ga naar de vorige productie: @page.previousProduction.get.title">
-      Vorige</a>
-  } else {
-    Vorige
-  }
-  </li>
-  <li>
-  @if(page.nextProduction.isDefined) {
-    <a href="../@(page.nextProduction.get.id)/index.html" title="Ga naar de volgende productie: @page.nextProduction.get.title">
-      Volgende</a>
-  } else {
-    Volgende
-  }
-  </li>
-  @if(page.photos.nonEmpty) {
+  <h1>@page.production.longTitle</h1>
+
+  <ul class="header-menu">
     <li>
-      <a href="photos.html" title="Toon productie fotos">Fotos</a> <span class="comment">(@page.photos.size)</span>
+    @if(page.previousProduction.isDefined) {
+      <a href="../@page.previousProduction.get.id/index.html" title="Ga naar de vorige productie: @page.previousProduction.get.title">
+        Vorige</a>
+    } else {
+      Vorige
+    }
     </li>
+    <li>
+    @if(page.nextProduction.isDefined) {
+      <a href="../@(page.nextProduction.get.id)/index.html" title="Ga naar de volgende productie: @page.nextProduction.get.title">
+        Volgende</a>
+    } else {
+      Volgende
+    }
+    </li>
+    @if(page.photos.nonEmpty) {
+      <li>
+        <a href="photos.html" title="Toon productie fotos">Fotos</a> <span class="comment">(@page.photos.size)</span>
+      </li>
+    }
+  </ul>
+
+  @if(page.production.shortDescription.nonEmpty) {
+    <p class="subtitle">
+    @page.production.shortDescription
+    </p>
   }
-</ul>
 
-@if(page.production.shortDescription.nonEmpty) {
-  <p class="subtitle">
-  @page.production.shortDescription
-  </p>
-}
-
-@if(page.images.hasPoster(page.production)) {
-  <div class="production-poster">
-    <a href="@page.production.id-poster.jpg" class="highslide" onclick="return hs.expand(this)">
-      @Html(page.images.largePoster(page.production))
-    </a>
+  <div class="production-summary">
+    @if(page.production.description.nonEmpty) {
+      <div class="production-description">
+      @Html(page.production.description)
+      </div>
+    }
+    @if(page.images.hasPoster(page.production)) {
+      <div class="production-poster">
+        <a href="@page.production.id-poster.jpg" class="highslide" onclick="return hs.expand(this)">
+        @Html(page.images.largePoster(page.production))
+        </a>
+      </div>
+    }
   </div>
-}
 
-@if(page.production.description.nonEmpty) {
-  <div class="production-description">
-    @Html(page.production.description)
-  </div>
-}
+  @if(page.production.actors.nonEmpty || page.production.tasks.nonEmpty) {
 
-
-@if(page.production.actors.nonEmpty || page.production.tasks.nonEmpty) {
-
-  @if(page.production.actors.nonEmpty) {
-    <div class="roles">
-      <div class="roles-title">Personages</div>
-      @for(actor <- page.production.actors) {
-        <div class="role-left">
-          <p>
-          @if(actor.person.key.nonEmpty) {
-            <a
-            href="../../personen/@(actor.person.key).html"
-            title="Ga naar pagina van: @actor.person.name"
-            >
+    @if(page.production.actors.nonEmpty) {
+      <div class="roles">
+        <div class="roles-title">Personages</div>
+        @for(actor <- page.production.actors) {
+          <div class="role-left">
+            <p>
+            @if(actor.person.key.nonEmpty) {
+              <a
+              href="../../personen/@(actor.person.key).html"
+              title="Ga naar pagina van: @actor.person.name"
+              >
               @actor.person.name
-            </a>
-          } else {
-            @actor.person.name
-          }
-          </p>
-        </div>
-        <div class="role-right">
-          <p>@actor.longRole @Html("&nbsp;")</p>
-        </div>
-      }
-    </div>
-  }
-
-  @if(page.production.tasks.nonEmpty) {
-    <div class="roles">
-      <div class="roles-title">Medewerkers</div>
-      @for(task <- page.production.tasks) {
-        <div class="role-left">
-          <p>@task.description</p>
-        </div>
-        <div class="role-right">
-        @for(person <- task.persons) {
-          <p>
-          @if(person.key.nonEmpty) {
-            <a
-            href="../../personen/@(person.key).html"
-            title="Ga naar pagina van: @person.name"
-            >
-            @person.name
-            </a>
-          } else {
-            @person.name
-          }
-          </p>
+              </a>
+            } else {
+              @actor.person.name
+            }
+            </p>
+          </div>
+          <div class="role-right">
+            <p>@actor.longRole @Html("&nbsp;")</p>
+          </div>
         }
-        </div>
-      }
-    </div>
-  }
-}
+      </div>
+    }
 
-@if(page.production.performances.nonEmpty) {
-  <h2>Voorstellingen</h2>
-  <div class="production-performances">
-  @for(performance <- page.production.performances) {
-    <p>@Html(performance.description)</p>
+    @if(page.production.tasks.nonEmpty) {
+      <div class="roles">
+        <div class="roles-title">Medewerkers</div>
+        @for(task <- page.production.tasks) {
+          <div class="role-left">
+            <p>@task.description</p>
+          </div>
+          <div class="role-right">
+          @for(person <- task.persons) {
+            <p>
+            @if(person.key.nonEmpty) {
+              <a
+              href="../../personen/@(person.key).html"
+              title="Ga naar pagina van: @person.name"
+              >
+              @person.name
+              </a>
+            } else {
+              @person.name
+            }
+            </p>
+          }
+          </div>
+        }
+      </div>
+    }
   }
-  </div>
-  @if(page.production.location.nonEmpty) {
-    <div class="production-location">
-      <p>@Html(page.production.location)</p>
-    </div>
-  }
-}
 
-@for(article <- page.production.articles) {
-  <div class="article">
+  @if(page.production.performances.nonEmpty) {
+    <h2>Voorstellingen</h2>
+    <div class="production-performances">
+    @for(performance <- page.production.performances) {
+      <p>@Html(performance.description)</p>
+    }
+    </div>
+    @if(page.production.location.nonEmpty) {
+      <div class="production-location">
+        <p>@Html(page.production.location)</p>
+      </div>
+    }
+  }
+
+  @for(article <- page.production.articles) {
+    <div class="article">
     @Html(article)
-  </div>
-}
-<br/>
-<br/>
-<br/>
+    </div>
+  }
+
+</div>
