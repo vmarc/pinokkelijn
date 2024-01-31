@@ -1,76 +1,84 @@
 @(page: web.pages.ReactionPage)
 
 <script type="text/javascript">
-<!--
-function frmSubmit() {
-	if ( document.frm.email.value == '' ) {
-		if ( document.frm.UitnodigingEmail[0].checked ) {
-			alert('Indien u in de toekomst uitnodigingen per e-mail wenst te ontvangen, gelieve uw e-mailadres in te vullen');
-			document.frm.email.focus();
-			return;
-		}
-	}
-	document.frm.submit();
-}
-//-->
+        <!--
+        function frmSubmit() {
+          if (document.frm.email.value == '') {
+            if (document.frm.uitnodigingEmail[0].checked) {
+              alert('Indien u in de toekomst uitnodigingen per e-mail wenst te ontvangen, gelieve uw e-mailadres in te vullen');
+              document.frm.email.focus();
+              return;
+            }
+          }
+          document.frm.submit();
+        }
+
+        //-->
 </script>
 
-<h1>Reageren</h1>
+<div class="text">
 
-<form name="frm" method="post" action="reactionconfirmation">
+  <h1>Reageren</h1>
 
-	<p class="bold">Commentaar</p>
-	<p class="reaction-comment">
-		Hier kunt u schrijven wat u wil...  Heeft u een reactie op deze website?
-		Heeft u idee&euml;n voor verbeteringen voor deze website?
-		Wil u zelf een bedrage maken voor deze website?
-		Heeft u commentaar bij een van de voorstellingen van Pinokkelijn?
-		Zin om Pinokkelijn medewerker te worden?
-	</p>
-	<div class="reaction-indent">
-		<textarea name="commentaar" rows="5" cols="60"></textarea>
-	</div>
-	<p class="bold">Wenst u in de toekomst van nieuwe producties op de hoogte gehouden te worden per e-mail?</p>
-	<p class="reaction-indent">
-		<input type="radio" name="UitnodigingEmail" checked value="Ja" />Ja
-	</p>
-	<p class="reaction-indent">
-		<input type="radio" name="UitnodigingEmail" value="Nee" />Nee
-	</p>
-	<p class="bold">e-mailadres</p>
-	<p class="reaction-comment">
-		Enkel nodig indien u uitnodigingen voor toekomstige voorstellingen
-		per e-mail wenst te ontvangen.
-	</p>
-	<p class="reaction-indent">
-		<input type="text" name="email"/> 
-	</p>
-	
-	<p class="bold">Adres</p>
-	<p class="reaction-comment">
-		Optioneel.
-	</p>
+  <form name="frm" method="post" action="reactionconfirmation">
 
-	
-	<div class="reservation-label">Naam</div>
-	<input class="reservation-value" type="text" name="naam"/>
-	<div style="clear: both"/>
+    <div class="reaction-form">
 
-	<div class="reservation-label">Straat en nummer</div>
-	<input class="reservation-value" type="text" name="adres1"/>
-	<div style="clear: both"/>
+      <p class="medium-spacer"><b>Commentaar</b></p>
+      <p class="reaction-comment">
+        Hier kunt u schrijven wat u wil...  Heeft u een reactie op deze website?
+        Heeft u idee&euml;n voor verbeteringen voor deze website?
+        Wil u zelf een bedrage maken voor deze website?
+        Heeft u commentaar bij een van de voorstellingen van Pinokkelijn?
+        Zin om Pinokkelijn medewerker te worden?
+      </p>
+      <textarea name="commentaar" rows="5"></textarea>
 
-	<div class="reservation-label">Postcode en gemeente</div>
-	<input class="reservation-value" type="text" name="adres2"/>
-	<div style="clear: both"/>
+      <p class="medium-spacer">
+        Wenst u in de toekomst van nieuwe producties op de hoogte gehouden te worden per e-mail?
+      </p>
+      <p>
+        <label>
+          <input type="radio" name="uitnodigingEmail" checked value="Ja"/>Ja
+        </label>
+      </p>
+      <p>
+        <label>
+          <input type="radio" name="uitnodigingEmail" value="Nee"/>Nee
+        </label>
+      </p>
 
-	<div>
-		<br/><br/>
-		<input type="button" value="VERZENDEN" onclick="frmSubmit()"/>
-		<input type="reset" value="ALLES WISSEN"/>
-	</div>
-	<p>
-		Reacties kunnen ook via e-mail: <a href="mailto:info@@pinokkelijn.be">info@@pinokkelijn.be</a>.
-	</p>	
+      <p class="medium-spacer"><b>E-mail</b></p>
+      <p class="reaction-comment">
+        Enkel nodig indien u uitnodigingen voor toekomstige voorstellingen
+        per e-mail wenst te ontvangen.
+      </p>
+      <div>
+        <input type="text" name="email"/>
+      </div>
 
-</form>
+      <p class="medium-spacer"><b>Adres</b> <span class="comment">(optioneel)</span></p>
+
+      <div class="form">
+        <label>Naam</label>
+        <input type="text" name="naam"/>
+
+        <label>Straat en nummer</label>
+        <input type="text" name="adres1"/>
+
+        <label>Postcode en gemeente</label>
+        <input type="text" name="adres2"/>
+
+      </div>
+
+      <div class="medium-spacer">
+        <input type="button" value="VERZENDEN" onclick="frmSubmit()"/>
+        <input type="reset" value="ALLES WISSEN"/>
+      </div>
+      <p class="medium-spacer">
+        Reacties kunnen ook via e-mail: <a href="mailto:info@@pinokkelijn.be">info@@pinokkelijn.be</a>.
+      </p>
+    </div>
+
+  </form>
+</div>
