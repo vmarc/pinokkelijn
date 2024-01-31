@@ -1,32 +1,30 @@
 @(page: web.pages.ReactionOkPage)
 
 <div class="text">
-  <h1>Bedankt voor uw reactie!!!</h1>
+  <p class="large-spacer">Bedankt voor uw reactie!!!</p>
 
-  <div class="article">
-    <h2>Adres</h2>
-    <p>
-      @page.reaction.naam
-    </p>
-    <p>
-    @page.reaction.adres1
-    </p>
-    <p>
-    @page.reaction.adres2
-    </p>
+  <p class="medium-spacer"><b>Adres</b></p>
+  <p>
+    @page.reaction.naam
+  </p>
+  <p>
+  @page.reaction.adres1
+  </p>
+  <p>
+  @page.reaction.adres2
+  </p>
 
-    <h2>Commentaar</h2>
-    <p>
-    @page.reaction.commentaar
-    </p>
+  <p><b>Commentaar</b></p>
+  <p>
+  @page.reaction.commentaar
+  </p>
 
-    <h2>Email</h2>
-    <p>
-      Uitnodiging Email: @page.reaction.uitnodigingEmail
-    </p>
-    <p>
-      E-mail adres: @page.reaction.email
-    </p>
+  <p><b>Email</b></p>
+  <p>
+    Uitnodiging Email: @page.reaction.uitnodigingEmail
+  </p>
+  <p>
+    E-mail adres: @page.reaction.email
+  </p>
 
-  </div>
 </div>
