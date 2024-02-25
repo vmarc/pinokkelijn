@@ -2,17 +2,17 @@ package web.domain
 
 object Person {
   def compareByPopularity(person1: Person, person2: Person): Boolean = {
-    if (person1.details.head.production.id > person2.details.head.production.id) {
+    if (person1.details.size > person2.details.size) {
       true
     }
-    else if (person1.details.head.production.id < person2.details.head.production.id) {
+    else if (person1.details.size < person2.details.size) {
       false
     }
     else {
-      if (person1.details.size > person2.details.size) {
+      if (person1.details.head.production.id > person2.details.head.production.id) {
         true
       }
-      else if (person1.details.size < person2.details.size) {
+      else if (person1.details.head.production.id < person2.details.head.production.id) {
         false
       }
       else {
