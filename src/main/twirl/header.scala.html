@@ -1,74 +1,76 @@
 @(page: web.pages.Page, images: web.view.Images)
 
-<div class="header-logo">
-  @if(page.name == "home") {
-    <img src="@page.root/images/pinokkelijn4.jpg" style="width: min(90vw, 302px);
-      height: auto" height="50px" title="Pinokkelijn" alt="Pinokkelijn"/>
-  } else {
-    <a href="@page.root/index.html">
+<nav>
+  <div class="header-logo">
+    @if(page.name == "home") {
       <img src="@page.root/images/pinokkelijn4.jpg" style="width: min(90vw, 302px);
-        height: auto" height="50px" title="Pinokkelijn" alt="Pinokkelijn"/>
-    </a>
-  }
-</div>
-<ul class="header-menu">
-  <li>
-  @if(page.name == "home") {
-    Home
-  } else {
-    <a href="@page.root/index.html" title="Ga naar de begin pagina">Home</a>
+        height: auto" height="50px" alt="Pinokkelijn"/>
+    } else {
+      <a href="@page.root/index.html">
+        <img src="@page.root/images/pinokkelijn4.jpg" style="width: min(90vw, 302px);
+          height: auto" height="50px" alt="Pinokkelijn"/>
+      </a>
     }
-  </li>
-  <li>
-  @if(page.name == "intro") {
-    Intro
-  } else {
-    <a href="@page.root/intro.html" title="Een korte voorstelling van de vereniging">Intro</a>
-    }
-  </li>
-  <li>
-  @if(page.name == "persons") {
-    Wie?
-  } else {
-    <a href="@page.root/personen-lijst.html" title="Lijst met spelers en medewerkers door de jaren heen">Wie?</a>
-    }
-  </li>
-  <li>
-  @if(page.name == "faces") {
-    Koppen
-  } else {
-    <a href="@page.root/personen-koppen.html" title="Foto overzicht met spelers en medewerkers door de jaren heen">
-    Koppen</a>
-    }
-  </li>
-  <li>
-  @if(page.name == "productions") {
-    Producties
-  } else {
-    <a href="@page.root/producties.html" title="Overzicht van alle Pinokkelijn producties, met details en fotos">
-    Producties</a>
-    }
-  </li>
-  <li>
-  @if(page.name == "posters") {
-    Affiches
-  } else {
-    <a href="@page.root/posters.html" title="Pinokkelijn affiches">Affiches</a>
-    }
-  </li>
-  <li>
-  @if(page.name == "reaction") {
-    Reageren
-  } else {
-    <a href="@page.root/reaction.html" title="Formulier voor het sturen van reacties">Reageren</a>
-    }
-  </li>
-  <li>
-  @if(page.name == "reservation") {
-    Reserveren
-  } else {
-    <a href="@page.root/reservation.html" title="Formulier voor het reserveren van kaarten voor onze voorstellingen">
-    Reserveren</a>
-    }
-  </li>
-</ul>
+  </div>
+  <ul class="header-menu">
+    <li>
+    @if(page.name == "home") {
+      Home
+    } else {
+      <a href="@page.root/index.html" title="Ga naar de begin pagina">Home</a>
+      }
+    </li>
+    <li>
+    @if(page.name == "intro") {
+      Intro
+    } else {
+      <a href="@page.root/intro.html" title="Een korte voorstelling van de vereniging">Intro</a>
+      }
+    </li>
+    <li>
+    @if(page.name == "persons") {
+      Wie?
+    } else {
+      <a href="@page.root/personen-lijst.html" title="Lijst met spelers en medewerkers door de jaren heen">Wie?</a>
+      }
+    </li>
+    <li>
+    @if(page.name == "faces") {
+      Koppen
+    } else {
+      <a href="@page.root/personen-koppen.html" title="Foto overzicht met spelers en medewerkers door de jaren heen">
+      Koppen</a>
+      }
+    </li>
+    <li>
+    @if(page.name == "productions") {
+      Producties
+    } else {
+      <a href="@page.root/producties.html" title="Overzicht van alle Pinokkelijn producties, met details en fotos">
+      Producties</a>
+      }
+    </li>
+    <li>
+    @if(page.name == "posters") {
+      Affiches
+    } else {
+      <a href="@page.root/posters.html" title="Pinokkelijn affiches">Affiches</a>
+      }
+    </li>
+    <li>
+    @if(page.name == "reaction") {
+      Reageren
+    } else {
+      <a href="@page.root/reaction.html" title="Formulier voor het sturen van reacties">Reageren</a>
+      }
+    </li>
+    <li>
+    @if(page.name == "reservation") {
+      Reserveren
+    } else {
+      <a href="@page.root/reservation.html" title="Formulier voor het reserveren van kaarten voor onze voorstellingen">
+      Reserveren</a>
+      }
+    </li>
+  </ul>
+</nav>

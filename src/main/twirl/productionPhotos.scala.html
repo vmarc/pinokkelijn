@@ -1,39 +1,44 @@
 @(page: web.pages.ProductionPhotosPage)
 
-<h1>@page.production.longTitle (fotos)</h1>
+<div class="text">
 
-<ul class="header-menu">
-	<li>
-		@if(page.previousProduction.isDefined) {
-			<a href="../@page.previousProduction.get.id/photos.html" title="Ga naar de vorige productie: @page.previousProduction.get.title">Vorige</a>
-		} else {
-			Vorige
-		}
-	</li>
-	<li>
-		@if(page.nextProduction.isDefined) {
-			<a href="../@page.nextProduction.get.id/photos.html" title="Ga naar de volgende productie: @page.nextProduction.get.title">Volgende</a>
-		} else {
-			Volgende
-		}
-	</li>
-	<li>
-		<a href="index.html" title="Toon productie informatie">Info</a>
-	</li>
-</ul>
+  <h1>@page.production.longTitle (fotos)</h1>
 
-<div class="highslide-gallery">
-	<ul>
-		@for(photo <- page.photos) {
-			<li>
-				<a class="highslide" href="fotos-groot/@(photo.id).jpg" title="@photo.productionTitleText" onclick="return hs.expand(this, config1 )">
-					@Html(page.images.smallProductionPhoto(photo))
-				</a>
-				<div class='highslide-caption'>
-					@Html(photo.productionCaptionText)
-				</div>
-			</li>
-		}
-	</ul>
-	<div style="clear:both"></div>
+  <ul class="header-menu">
+    <li>
+    @if(page.previousProduction.isDefined) {
+      <a href="../@page.previousProduction.get.id/photos.html" title="Ga naar de vorige productie: @page.previousProduction.get.title">
+        Vorige</a>
+    } else {
+      Vorige
+    }
+    </li>
+    <li>
+    @if(page.nextProduction.isDefined) {
+      <a href="../@page.nextProduction.get.id/photos.html" title="Ga naar de volgende productie: @page.nextProduction.get.title">
+        Volgende</a>
+    } else {
+      Volgende
+    }
+    </li>
+    <li>
+      <a href="index.html" title="Toon productie informatie">Info</a>
+    </li>
+  </ul>
+
+  <div class="highslide-gallery">
+    <ul>
+    @for(photo <- page.photos) {
+      <li>
+        <a class="highslide" href="fotos-groot/@(photo.id).jpg" title="@photo.productionTitleText" onclick="return hs.expand(this, config1)">
+        @Html(page.images.smallProductionPhoto(photo))
+        </a>
+        <div class='highslide-caption'>
+        @Html(photo.productionCaptionText)
+        </div>
+      </li>
+    }
+    </ul>
+    <div style="clear: both"></div>
+  </div>
 </div>

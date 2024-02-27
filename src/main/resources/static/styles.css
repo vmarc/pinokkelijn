@@ -330,7 +330,6 @@ a.external {
 
 .persons-statistics {
   text-wrap: nowrap;
-  color: gray;
 }
 
 /*********************************************/
@@ -474,7 +473,6 @@ a.external {
   width: 3em;
   min-width: 3em;
   padding-bottom: 0.3em;
-  color: gray;
 }
 
 @media (max-width: 600px) {

@@ -108,6 +108,6 @@ class Images(config: SiteBuilderOptions, imageDimensions: Map[String, ImageDimen
   }
 
   def image(src: String, dimension: ImageDimension, alt: String): String = {
-    s"""<img src="$src" width="${dimension.width}" height="${dimension.height}" title="$alt" alt="$alt"/>"""
+    s"""<img src="$src" width="${dimension.width}" height="${dimension.height}" alt="$alt"/>"""
   }
 }

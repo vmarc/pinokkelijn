@@ -21,7 +21,7 @@ case class SiteBuilderOptions(
 
   def imageSourceDir = "/home/vmarc/wrk/projects/web/wrk/images"
 
-  def rootDir: String = stagingDir + "/" + target + "/"
+  def rootDir: String = stagingDir + "/"
 
   def personsDir: String = rootDir + "personen" + "/"
 
