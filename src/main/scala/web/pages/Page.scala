@@ -6,4 +6,5 @@ trait Page {
   def keyWords: String
   def description: String
   def root: String
+  def containsGallery: Boolean = false
 }

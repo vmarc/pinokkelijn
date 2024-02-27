@@ -11,14 +11,14 @@
 
     <link rel="stylesheet" type="text/css" href="@page.root/styles.css"/>
 
-    <script type="text/javascript" src="@page.root/highslide/highslide-with-gallery.js"></script>
-    <script type="text/javascript" src="@page.root/highslide/highslide.config.js" charset="utf-8"></script>
-    <link rel="stylesheet" type="text/css" href="@page.root/highslide/highslide.css" />
-
-    <script type="text/javascript" charset="utf-8">
-            hs.graphicsDir = '@page.root/highslide/graphics/';
-    </script>
-
+    @if(page.containsGallery) {
+      <script type="text/javascript" src="@page.root/highslide/highslide-with-gallery.js"></script>
+      <script type="text/javascript" src="@page.root/highslide/highslide.config.js" charset="utf-8"></script>
+      <link rel="stylesheet" type="text/css" href="@page.root/highslide/highslide.css" />
+      <script type="text/javascript" charset="utf-8">
+              hs.graphicsDir = '@page.root/highslide/graphics/';
+      </script>
+    }
   </head>
   <body>
     <div class="page">

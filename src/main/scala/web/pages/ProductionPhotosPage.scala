@@ -17,4 +17,6 @@ case class ProductionPhotosPage(
 
   def description: String = "Pinokkelijn productie fotos: %s".format(production.longTitle)
 
+  override def containsGallery: Boolean = true
+
 }

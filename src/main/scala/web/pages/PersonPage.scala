@@ -14,4 +14,6 @@ case class PersonPage(
 
   def description: String = "%s - Pinokkelijn - %s".format(info.person.name, info.longStatistics)
 
+  override def containsGallery: Boolean = true
+
 }

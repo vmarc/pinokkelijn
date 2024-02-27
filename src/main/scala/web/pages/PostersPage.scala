@@ -14,4 +14,5 @@ case class PostersPage(
 
   def description: String = "Overzicht met Pinokkelijn affiches door de jaren heen"
 
+  override def containsGallery: Boolean = true
 }
