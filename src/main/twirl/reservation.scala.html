@@ -1,5 +1,6 @@
 @(page: web.pages.ReservationPage)
 
+@*
 <script type="text/javascript">
         <!--
         function frmSubmit() {
@@ -28,21 +29,20 @@
 
         //-->
 </script>
-
+*@
 <div class="text">
 
-  <h1>Flarden - Reserveren</h1>
+  <h1>Reserveren</h1>
 
-  @*
   <p>
-  Er zijn momenteel geen voorstellingen waarvoor U kunt reserveren.
+    Momenteel zijn er geen voorstellingen waarvoor U kunt reserveren.
   </p>
 
+  @*
   <i><b>
   De reservaties via internet werden afgesloten. Voor reservaties kunt u nog wel steeds bellen naar 03 667 36 07. Of kom gewoon naar het Gildenhuis zonder reservatie. Er zijn nog voldoende plaatsen vrij.
   </b></i><br/><br/>
 
-  <i><b>Momenteel zijn er geen voorstellingen waarvoor U kunt reserveren.</b></i>
   <i><b>
   Kaarten voor de resterende voorstellingen kunnen enkel nog telefonisch op 03 667 36 07 gereserveerd worden.</b></i>
   <i><b>
@@ -51,7 +51,8 @@
   De reservaties via internet werden afgesloten. U kan nog wel telefonisch reserveren (03 667 36 07), of gewoon naar het Volkshuis komen. Er is nog plaats genoeg.</b></i>
   <br/><br/><i><b>
   Voor de voorstellingen van 9 en 10 maart zijn de reservaties via deze pagina afgesloten. Reservaties kunnen enkel nog telefonisch op 03 667 36 07. Er zijn ook nog kaarten ter beschikking direct voor de voorstelling aan de kassa in de zaal.</b></i>
-  *@
+
+  <h1>Flarden - Reserveren</h1>
 
   <form name="frm" method="post" action="reservationconfirmation">
 
@@ -135,11 +136,9 @@
     </div>
 
     <p class="large-spacer">
-      @*
       <br/>De voorstellingen gaan door in Zaal Volkshuis, Stationsstraat 136, 2910 Essen.
       <br/>De voorstellingen gaan door in <a href="oudepastorij.html">De Oude Pastorij</a>, Essendonk 3, 2910 Essen.
       <br/>De voorstellingen gaan door in Het Gildenhuys - Stationsstraat 59, 2910 Essen.
-      *@
         De voorstellingen gaan door in zaal REX, Spoorwegstraat 11, 2910 Essen (schuin tegenover het station Essen).
         De kaarten liggen aan de kassa op de avond van de voorstelling en kunnen daar betaald worden.
     </p>
@@ -149,5 +148,6 @@
     </p>
 
   </form>
+  *@
 
 </div>
