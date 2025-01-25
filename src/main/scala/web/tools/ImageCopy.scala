@@ -34,7 +34,7 @@ class ImageCopy(site: Site, options: SiteBuilderOptions) {
   }
 
   private def otherFiles: Seq[CopiedImage] = {
-    val sourceDir = "/home/vmarc/wrk/projects/web/wrk/"
+    val sourceDir = "/Users/marc/wrk/projects/web/wrk/"
     listFiles(sourceDir + "highslide", recursive = true).map { sourceFile =>
       val source = sourceFile.getAbsolutePath
       val destination = options.rootDir + source.substring(sourceDir.length)

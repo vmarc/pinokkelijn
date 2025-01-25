@@ -1,84 +1,82 @@
 @(page: web.pages.ReactionPage)
 
 <script type="text/javascript">
-        <!--
         function frmSubmit() {
-          if (document.frm.email.value == '') {
-            if (document.frm.uitnodigingEmail[0].checked) {
-              alert('Indien u in de toekomst uitnodigingen per e-mail wenst te ontvangen, gelieve uw e-mailadres in te vullen');
-              document.frm.email.focus();
-              return;
+            if (document.frm.email.value == '') {
+                if (document.frm.uitnodigingEmail[0].checked) {
+                    alert('Indien u in de toekomst uitnodigingen per e-mail wenst te ontvangen, gelieve uw e-mailadres in te vullen');
+                    document.frm.email.focus();
+                    return;
+                }
             }
-          }
-          document.frm.submit();
+            document.frm.submit();
         }
 
-        //-->
 </script>
 
 <div class="text">
 
-  <h1>Reageren</h1>
+    <h1>Reageren</h1>
 
-  <form name="frm" method="post" action="reactionconfirmation">
+    <form name="frm" method="post" action="reactionconfirmation">
 
-    <div class="reaction-form">
+        <div class="reaction-form">
 
-      <p class="medium-spacer"><b>Commentaar</b></p>
-      <p class="reaction-comment">
-        Hier kunt u schrijven wat u wil...  Heeft u een reactie op deze website?
-        Heeft u idee&euml;n voor verbeteringen voor deze website?
-        Wil u zelf een bedrage maken voor deze website?
-        Heeft u commentaar bij een van de voorstellingen van Pinokkelijn?
-        Zin om Pinokkelijn medewerker te worden?
-      </p>
-      <textarea name="commentaar" rows="5"></textarea>
+            <p class="medium-spacer"><b>Commentaar</b></p>
+            <p class="reaction-comment">
+                Hier kunt u schrijven wat u wil...  Heeft u een reactie op deze website?
+                Heeft u idee&euml;n voor verbeteringen voor deze website?
+                Wil u zelf een bedrage maken voor deze website?
+                Heeft u commentaar bij een van de voorstellingen van Pinokkelijn?
+                Zin om Pinokkelijn medewerker te worden?
+            </p>
+            <textarea name="commentaar" rows="5"></textarea>
 
-      <p class="medium-spacer">
-        Wenst u in de toekomst van nieuwe producties op de hoogte gehouden te worden per e-mail?
-      </p>
-      <p>
-        <label>
-          <input type="radio" name="uitnodigingEmail" checked value="Ja"/>Ja
-        </label>
-      </p>
-      <p>
-        <label>
-          <input type="radio" name="uitnodigingEmail" value="Nee"/>Nee
-        </label>
-      </p>
+            <p class="medium-spacer">
+                Wenst u in de toekomst van nieuwe producties op de hoogte gehouden te worden per e-mail?
+            </p>
+            <p>
+                <label>
+                    <input type="radio" name="uitnodigingEmail" checked value="Ja"/>Ja
+                </label>
+            </p>
+            <p>
+                <label>
+                    <input type="radio" name="uitnodigingEmail" value="Nee"/>Nee
+                </label>
+            </p>
 
-      <p class="medium-spacer"><b>E-mail</b></p>
-      <p class="reaction-comment">
-        Enkel nodig indien u uitnodigingen voor toekomstige voorstellingen
-        per e-mail wenst te ontvangen.
-      </p>
-      <div>
-        <input type="text" name="email"/>
-      </div>
+            <p class="medium-spacer"><b>E-mail</b></p>
+            <p class="reaction-comment">
+                Enkel nodig indien u uitnodigingen voor toekomstige voorstellingen
+                per e-mail wenst te ontvangen.
+            </p>
+            <div>
+                <input type="text" name="email"/>
+            </div>
 
-      <p class="medium-spacer"><b>Adres</b> <span class="comment">(optioneel)</span></p>
+            <p class="medium-spacer"><b>Adres</b> <span class="comment">(optioneel)</span></p>
 
-      <div class="form">
-        <label>Naam</label>
-        <input type="text" name="naam"/>
+            <div class="form">
+                <label>Naam</label>
+                <input type="text" name="naam"/>
 
-        <label>Straat en nummer</label>
-        <input type="text" name="adres1"/>
+                <label>Straat en nummer</label>
+                <input type="text" name="adres1"/>
 
-        <label>Postcode en gemeente</label>
-        <input type="text" name="adres2"/>
+                <label>Postcode en gemeente</label>
+                <input type="text" name="adres2"/>
 
-      </div>
+            </div>
 
-      <div class="medium-spacer">
-        <input type="button" value="VERZENDEN" onclick="frmSubmit()"/>
-        <input type="reset" value="ALLES WISSEN"/>
-      </div>
-      <p class="medium-spacer">
-        Reacties kunnen ook via e-mail: <a href="mailto:info@@pinokkelijn.be">info@@pinokkelijn.be</a>.
-      </p>
-    </div>
+            <div class="medium-spacer">
+                <input type="button" value="VERZENDEN" onclick="frmSubmit()"/>
+                <input type="reset" value="ALLES WISSEN"/>
+            </div>
+            <p class="medium-spacer">
+                Reacties kunnen ook via e-mail: <a href="mailto:info@@pinokkelijn.be">info@@pinokkelijn.be</a>.
+            </p>
+        </div>
 
-  </form>
+    </form>
 </div>

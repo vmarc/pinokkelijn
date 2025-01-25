@@ -5,9 +5,9 @@ import web.domain.Photo
 import web.domain.Production
 
 case class SiteBuilderOptions(
-  xmlDir: String = "/home/vmarc/wrk/projects/pinokkelijn/src/main/resources/xml",
-  sourceDir: String = "/home/vmarc/wrk/projects/pinokkelijn/src/main/resources",
-  stagingDir: String = "/home/vmarc/wrk/staging/pinokkelijn",
+  xmlDir: String = "/Users/marc/wrk/projects/pinokkelijn/src/main/resources/xml",
+  sourceDir: String = "/Users/marc/wrk/projects/pinokkelijn/src/main/resources",
+  stagingDir: String = "/Users/marc/wrk/staging/pinokkelijn",
   target: String = "web",
   images: Boolean = true,
   root: Boolean = true,
@@ -19,7 +19,7 @@ case class SiteBuilderOptions(
   validate: Boolean = false
 ) {
 
-  def imageSourceDir = "/home/vmarc/wrk/projects/web/wrk/images"
+  def imageSourceDir = "/Users/marc/wrk/projects/web/wrk/images"
 
   def rootDir: String = stagingDir + "/"
 
