@@ -8,8 +8,8 @@ import java.io.File
 object FileRenameTool {
 
   def main(args: Array[String]): Unit = {
-    val sourceDirectory = "/share/fotos/pinokkelijn"
-    val destinationDirectory = "/home/marcv/wrk/projects3/web/wrk/images/productions/2022/gallery"
+    val sourceDirectory = "/Users/marc/tmp/2025"
+    val destinationDirectory = "/Users/marc/wrk/projects/web/wrk/images/productions/2025/gallery"
     new FileRenameTool(sourceDirectory, destinationDirectory).rename()
   }
 }
@@ -24,7 +24,7 @@ class FileRenameTool(sourceDirectory: String, destinationDirectory: String) {
     println(images.size)
     images.zipWithIndex.foreach { case (image, index) =>
       // val newName = image.getName.replaceAll("M&T", "").toLowerCase()
-      val newName = String.format("2022-%03d.jpg", index + 1)
+      val newName = String.format("2025-%03d.jpg", index + 1)
       val destination = new File(destinationDirectory, newName)
       println(s"${image.getAbsolutePath} -> ${destination.getAbsolutePath}")
       copyFile(image, destination)

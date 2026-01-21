@@ -14,6 +14,7 @@ import web.domain.PersonDetail
 import web.domain.Photo
 import web.domain.Production
 import web.domain.Site
+import web.pages.DwazenPage
 import web.pages.FacesPage
 import web.pages.IndexPage
 import web.pages.IntroPage
@@ -122,6 +123,22 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
   }
 
   private def makeRootPages(): Unit = {
+
+    {
+      val page = DwazenPage(".")
+
+      val contentTemplate = Templates.getTemplate[Template1[DwazenPage, Html]]("html.dwazen")
+      val contents = contentTemplate.render(page)
+      val pageTemplate = Templates.getTemplate[Template3[web.pages.Page, Images, Html, Html]]("html.page")
+      val string = pageTemplate.render(page, images, contents)
+
+      val url = "/dwazen.html"
+      val outputFilename = options.rootDir + url
+
+      siteMapBuilder.addUrl(url)
+      val prettyString = Jsoup.parse(string.toString()).html()
+      stringToFile(prettyString, outputFilename)
+    }
 
     {
       val page = LedenPage(".")
