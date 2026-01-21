@@ -25,8 +25,6 @@ import web.pages.PostersPage
 import web.pages.ProductionPage
 import web.pages.ProductionPhotosPage
 import web.pages.ProductionsPage
-import web.pages.ReactionPage
-import web.pages.ReservationPage
 import web.server.sitemap.SiteMapBuilder
 import web.server.sitemap.SiteMapReader
 import web.server.sitemap.SiteMapUrl
@@ -172,37 +170,6 @@ class SiteBuilderTool(site: Site, options: SiteBuilderOptions) {
       stringToFile(prettyString, outputFilename)
     }
 
-    {
-      val page = ReactionPage(".")
-
-      val contentTemplate = Templates.getTemplate[Template1[ReactionPage, Html]]("html.reaction")
-      val contents = contentTemplate.render(page)
-      val pageTemplate = Templates.getTemplate[Template3[web.pages.Page, Images, Html, Html]]("html.page")
-      val string = pageTemplate.render(page, images, contents)
-
-      val url = "/reaction.html"
-      val outputFilename = options.rootDir + url
-
-      siteMapBuilder.addUrl(url)
-      val prettyString = Jsoup.parse(string.toString()).html()
-      stringToFile(prettyString, outputFilename)
-    }
-
-    {
-      val page = ReservationPage(".")
-
-      val contentTemplate = Templates.getTemplate[Template1[ReservationPage, Html]]("html.reservation")
-      val contents = contentTemplate.render(page)
-      val pageTemplate = Templates.getTemplate[Template3[web.pages.Page, Images, Html, Html]]("html.page")
-      val string = pageTemplate.render(page, images, contents)
-
-      val url = "/reservation.html"
-      val outputFilename = options.rootDir + url
-
-      siteMapBuilder.addUrl(url)
-      val prettyString = Jsoup.parse(string.toString()).html()
-      stringToFile(prettyString, outputFilename)
-    }
   }
 
   private def makeProductionsPages(): Unit = {
