@@ -24,30 +24,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.pinokkelijn.be/reaction.html</loc>
-    <lastmod>2012-09-15</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.pinokkelijn.be/reactionconfirmation.php</loc>
-    <lastmod>2012-09-15</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.pinokkelijn.be/reservation.html</loc>
-    <lastmod>2012-09-15</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.pinokkelijn.be/reservationconfirmation.php</loc>
-    <lastmod>2012-09-15</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.pinokkelijn.be/producties.html</loc>
     <lastmod>2012-09-15</lastmod>
     <changefreq>yearly</changefreq>

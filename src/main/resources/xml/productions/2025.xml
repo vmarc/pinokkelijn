@@ -1,0 +1,1992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productie id="2025" jaar="2025" titel="Dwazen">
+
+  <korte-beschrijving>
+    Absurde komedie van Neil Simon in een regie van Eric Vanthillo.
+  </korte-beschrijving>
+
+  <beschrijving>
+<!--    <img src="images/dwazen.jpg" class="large-spacer" style="width: min(90vw, 208px);-->
+<!--        height: auto" height="340px" alt="" />-->
+    <p>
+      Er was eens lang geleden, ergens in Rusland, een klein dorpje, Kulyenchikov genaamd.
+      Het werd geteisterd door een vloek, meer dan tweehonderd jaar geleden uitgesproken
+      door graaf Yousekevitch. Alleen de liefde kon de vloek verbreken en de bewoners
+      verlossen van de eeuwige doem.
+    </p>
+    <p>
+      Tot Leon Tolchinsky, de schoolmeester, ten tonele verschijnt. Leon is dolbij met zijn
+      nieuwe baan als leraar in dit idyllische dorpje. Maar dan wordt hij verliefd op zijn
+      leerling Sofia, de dochter van de dorpsdokter. Zal hun liefde de vloek kunnen opheffen?
+      En het ganse dorp verlossen?
+    </p>
+    <p>
+      Neil Simon, Amerikaans toneelschrijver, alias ‘The King of Comedy’, schreef dit stuk
+      in 1979 en het is nog steeds een hit op Broadway en over de hele wereld. Het is een
+      absurde komedie waarin dolkomische spitsvondigheden, taalgrappen en situationele humor
+      zich opvolgen in een sneltreinvaart. Met tot slot ook nog een dijk van een moraal.
+    </p>
+  </beschrijving>
+
+  <opvoeringen>
+    <opvoering>Zaterdag 29 maart 2025 20:00u</opvoering>
+    <opvoering>Zondag 30 maart 2025  15:00u</opvoering>
+    <opvoering>Vrijdag 4 april 2025  20:00u</opvoering>
+    <opvoering>Zaterdag 5 april 2025  20:00u</opvoering>
+  </opvoeringen>
+
+  <plaats>Zaal Rex Spoorwegstraat 11 Essen</plaats>
+
+  <acteurs>
+
+    <acteur rol="" naam="Plien Kets"></acteur>
+    <acteur rol="" naam="Jan Meeusen"></acteur>
+    <acteur rol="" naam="Carine Bergmans"></acteur>
+    <acteur rol="" naam="Herman Dufraing"></acteur>
+    <acteur rol="" naam="Tineke Pockelé"></acteur>
+    <acteur rol="" naam="Noëlla De Rop"></acteur>
+    <acteur rol="" naam="Gilberte Verbeeck"></acteur>
+    <acteur rol="" naam="Jef Baetens"></acteur>
+    <acteur rol="" naam="Kevin Van der Sommen"></acteur>
+    <acteur rol="" naam="Bart Van Loenhout"></acteur>
+  </acteurs>
+
+  <taken>
+    <taak beschrijving="Auteur">
+      <naam>*Neil Simon</naam>
+    </taak>
+    <taak beschrijving="Regie">
+      <naam>*Eric Vanthillo</naam>
+    </taak>
+    <taak beschrijving="Productie">
+      <naam>Kristin Verbeeck</naam>
+    </taak>
+    <taak beschrijving="Techniek">
+      <naam>Marc Vergouwen</naam>
+    </taak>
+    <taak beschrijving="Zang/gitaar">
+      <naam>*Kris Doms</naam>
+    </taak>
+  </taken>
+
+  <fotos>
+
+    <foto id="2025-001" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-002" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-003" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-004" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-005" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-006" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-007" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-008" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-009" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-010" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kris Doms</naam>
+      </personen>
+    </foto>
+    <foto id="2025-011" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-012" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>*Kris Doms</naam>
+        <naam>*Pianist</naam>
+      </personen>
+    </foto>
+    <foto id="2025-013" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>*Kris Doms</naam>
+        <naam>*Pianist</naam>
+      </personen>
+    </foto>
+    <foto id="2025-014" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Kristin Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-015" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-016" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-017" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-018" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-019" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-020" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-021" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-022" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-023" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-024" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-025" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-026" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-027" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-028" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-029" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-030" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-031" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-032" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-033" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-034" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-035" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Noëlla De Rop</naam>
+      </personen>
+    </foto>
+    <foto id="2025-036" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-037" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-038" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-039" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-040" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-041" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-042" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-043" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-044" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-045" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-046" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-047" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-048" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-049" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-050" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-051" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-052" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-053" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-054" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-055" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-056" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-057" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-058" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-059" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-060" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-061" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-062" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-063" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-064" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-065" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-066" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-067" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-068" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-069" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-070" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-071" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-072" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-073" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-074" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-075" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-076" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-077" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-078" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-079" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-080" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-081" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-082" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-083" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-084" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-085" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-086" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-087" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-088" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-089" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kris Doms</naam>
+      </personen>
+    </foto>
+    <foto id="2025-090" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kris Doms</naam>
+      </personen>
+    </foto>
+    <foto id="2025-091" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-092" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-093" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-094" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-095" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-096" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-097" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-098" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-099" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-100" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-101" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-102" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-103" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-104" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-105" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-106" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-107" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-108" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-109" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-110" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-111" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-112" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-113" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-114" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-115" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-116" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-117" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-118" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-119" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Plien Kets</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-120" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-121" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-122" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-123" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-124" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-125" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-126" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-127" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-128" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-129" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-130" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kris Doms</naam>
+      </personen>
+    </foto>
+    <foto id="2025-131" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Kris Doms</naam>
+        <naam>*Pianist</naam>
+      </personen>
+    </foto>
+    <foto id="2025-132" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Kris Doms</naam>
+        <naam>*Pianist</naam>
+      </personen>
+    </foto>
+    <foto id="2025-133" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Kris Doms</naam>
+        <naam>*Pianist</naam>
+      </personen>
+    </foto>
+    <foto id="2025-134" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-135" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-136" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+        <naam>Gilberte Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-137" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-138" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-139" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-140" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-141" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-142" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-143" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-144" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-145" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-146" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-147" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-148" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-149" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-150" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-151" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-152" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-153" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-154" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-155" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-156" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-157" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-158" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-159" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-160" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-161" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-162" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-163" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-164" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-165" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-166" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-167" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-168" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-169" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Plien Kets</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-170" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Plien Kets</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-171" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-172" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-173" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-174" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-175" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-176" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Plien Kets</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-177" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-178" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-179" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-180" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-181" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-182" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-183" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-184" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-185" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-186" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-187" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-188" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-189" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-190" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-191" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-192" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-193" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-194" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-195" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Kevin Van der Sommen</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-196" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-197" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-198" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jef Baetens</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-199" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-200" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-201" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-202" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-203" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-204" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-205" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-206" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-207" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-208" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-209" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-210" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-211" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Kevin Van der Sommen</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-212" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-213" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-214" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-215" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-216" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-217" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-218" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Plien Kets</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-219" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-220" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-221" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-222" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-223" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-224" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jef Baetens</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-225" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-226" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-227" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-228" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-229" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-230" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jef Baetens</naam>
+        <naam>Kevin Van der Sommen</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-231" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-232" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-233" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-234" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-235" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-236" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Plien Kets</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-237" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-238" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-239" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-240" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-241" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-242" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-243" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-244" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-245" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-246" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-247" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-248" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+      </personen>
+    </foto>
+    <foto id="2025-249" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-250" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-251" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-252" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-253" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-254" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Jan Meeusen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-255" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-256" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-257" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-258" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-259" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-260" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-261" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-262" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-263" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>*Pianist</naam>
+      </personen>
+    </foto>
+    <foto id="2025-264" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>*Pianist</naam>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-265" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-266" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Gilberte Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-267" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-268" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-269" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Noëlla De Rop</naam>
+      </personen>
+    </foto>
+    <foto id="2025-270" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Noëlla De Rop</naam>
+      </personen>
+    </foto>
+    <foto id="2025-271" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Noëlla De Rop</naam>
+      </personen>
+    </foto>
+    <foto id="2025-272" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Noëlla De Rop</naam>
+      </personen>
+    </foto>
+    <foto id="2025-273" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Noëlla De Rop</naam>
+      </personen>
+    </foto>
+    <foto id="2025-274" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>*Pianist</naam>
+      </personen>
+    </foto>
+    <foto id="2025-275" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-276" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Noëlla De Rop</naam>
+      </personen>
+    </foto>
+    <foto id="2025-277" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-278" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Gilberte Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-279" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-280" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+      </personen>
+    </foto>
+    <foto id="2025-281" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Noëlla De Rop</naam>
+      </personen>
+    </foto>
+    <foto id="2025-282" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Noëlla De Rop</naam>
+      </personen>
+    </foto>
+    <foto id="2025-283" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Noëlla De Rop</naam>
+      </personen>
+    </foto>
+    <foto id="2025-284" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-285" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Marc Vergouwen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-286" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Marc Vergouwen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-287" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-288" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-289" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-290" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+      </personen>
+    </foto>
+    <foto id="2025-291" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kris Doms</naam>
+      </personen>
+    </foto>
+    <foto id="2025-292" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Plien Kets</naam>
+        <naam>Kris Doms</naam>
+        <naam>*Pianist</naam>
+      </personen>
+    </foto>
+    <foto id="2025-293" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-294" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+      </personen>
+    </foto>
+    <foto id="2025-295" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Noëlla De Rop</naam>
+      </personen>
+    </foto>
+    <foto id="2025-296" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Noëlla De Rop</naam>
+      </personen>
+    </foto>
+    <foto id="2025-297" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Noëlla De Rop</naam>
+      </personen>
+    </foto>
+    <foto id="2025-298" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Noëlla De Rop</naam>
+        <naam>Gilberte Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-299" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Noëlla De Rop</naam>
+        <naam>Gilberte Verbeeck</naam>
+      </personen>
+    </foto>
+    <foto id="2025-300" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-301" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Bart Van Loenhout</naam>
+        <naam>Jef Baetens</naam>
+      </personen>
+    </foto>
+    <foto id="2025-302" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Plien Kets</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-303" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Herman Dufraing</naam>
+        <naam>Plien Kets</naam>
+        <naam>Carine Bergmans</naam>
+      </personen>
+    </foto>
+    <foto id="2025-304" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Noëlla De Rop</naam>
+      </personen>
+    </foto>
+    <foto id="2025-305" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-306" web="true" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-307" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Jan Meeusen</naam>
+        <naam>Plien Kets</naam>
+      </personen>
+    </foto>
+    <foto id="2025-308" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-309" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-310" web="false" fotograaf="Valerie Dufraing"/>
+    <foto id="2025-311" web="false" fotograaf="Valerie Dufraing">
+      <personen>
+        <naam>Kevin Van der Sommen</naam>
+        <naam>Noëlla De Rop</naam>
+        <naam>Tineke Pockelé</naam>
+        <naam>Gilberte Verbeeck</naam>
+        <naam>Herman Dufraing</naam>
+        <naam>Carine Bergmans</naam>
+        <naam>Jan Meeusen</naam>
+        <naam>Kristin Verbeeck</naam>
+        <naam>Plien Kets</naam>
+        <naam>Jef Baetens</naam>
+        <naam>Bart Van Loenhout</naam>
+        <naam>*Pianist</naam>
+        <naam>Kris Doms</naam>
+      </personen>
+    </foto>
+  </fotos>
+</productie>
